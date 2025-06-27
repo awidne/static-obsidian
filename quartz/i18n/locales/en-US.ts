@@ -71,7 +71,7 @@ export default {
       home: "Return to Homepage",
     },
     folderContent: {
-      folder: "",
+      folder: "Section",
       itemsUnderFolder: ({ count }) =>
         count === 1 ? "1 page in this section." : `${count} pages in this section.`,
     },
