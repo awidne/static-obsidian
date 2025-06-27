@@ -71,7 +71,7 @@ function computeFolderInfo(
         slug: joinSegments(folder, "index") as FullSlug,
         frontmatter: {
           title: `${folder}`,
-          tags: [],
+          // tags: [],
         },
       }),
     ]),

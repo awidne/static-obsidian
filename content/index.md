@@ -21,3 +21,6 @@ Additionally, textbooks used include:
 - Harrison's Principles of Internal Medicine
 - Toronto Notes
 - RXFiles
+
+
+Last updated: June 26, 2025
