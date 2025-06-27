@@ -12,10 +12,10 @@ Many pages are currently work-in-progress. I only update the notes when I feel l
 The notes taken are a combination of lecture material, notes from group discussion, clinical pearls from placements, and research. As such, an exhaustive source list is impossible.
 
 Some resources used for these notes include:
-- [Uptodate](www.uptodate.com)
+- [Uptodate](https://www.uptodate.com)
 - [StatPearls](https://www.ncbi.nlm.nih.gov/books/NBK430685/)
 - [AMBOSS](https://www.amboss.com/int)
-- [DynaMed](www.dynamed.com)
+- [DynaMed](https://www.dynamed.com)
 
 Additionally, textbooks used include:
 - Harrison's Principles of Internal Medicine
