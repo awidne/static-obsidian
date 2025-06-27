@@ -8,8 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "LinkedIn": "https://www.linkedin.com/in/jackxuejx/",
+      "Queen's-Lakeridge MDFM": "https://meds.queensu.ca/academics/mdprogram/queens-lakeridge-health-md-family-medicine-program",
     },
   }),
 }
@@ -41,7 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
+    // Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],

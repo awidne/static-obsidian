@@ -32,11 +32,11 @@ export default {
     readerMode: {
       title: "阅读模式",
     },
-    explorer: {
-      title: "探索",
+    notes: {
+      title: "笔记",
     },
     footer: {
-      createdWith: "Created with",
+      createdBy: "Created by",
     },
     graph: {
       title: "关系图谱",

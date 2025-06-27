@@ -34,11 +34,11 @@ export interface Translation {
     readerMode: {
       title: string
     }
-    explorer: {
+    notes: {
       title: string
     }
     footer: {
-      createdWith: string
+      createdBy: string
     }
     graph: {
       title: string

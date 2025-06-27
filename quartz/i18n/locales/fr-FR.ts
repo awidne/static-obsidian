@@ -32,11 +32,11 @@ export default {
     readerMode: {
       title: "Mode lecture",
     },
-    explorer: {
-      title: "Explorateur",
+    notes: {
+      title: "Notes",
     },
     footer: {
-      createdWith: "Créé avec",
+      createdBy: "Créé par",
     },
     graph: {
       title: "Vue Graphique",
