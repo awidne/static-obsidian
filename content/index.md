@@ -1,9 +1,9 @@
 ---
-title: Home
+title: Jack's Med Notes
 ---
-# Jack's MD Notes
+# Jack's Med Notes
 
-This is a repository of notes organized by topic as a means of consolidating and condensing the products of the *spiral curriculum*.
+This is a repository of condensed notes organized by topic as a means of consolidating the scattered notes of a *spiral curriculum*.
 
 Many pages are currently work-in-progress. I only update the notes when I feel like it.
 
