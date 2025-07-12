@@ -2,6 +2,8 @@
 aliases:
   - CHF
   - Heart Failure
+  - Heart failure
+  - heart failure
 ---
 --- 
 
@@ -153,6 +155,11 @@ The workup begins when a clinical suspicion of HF is established from history or
 	- Lever function tests - for hepatic congestion
 	- A1C / fasting blood glucose - for underlying DM
 - Chest radiograph - for pulmonary diseases
+
+While chest radiographs are not used for diagnosis, a number of findings are frequently seen:
+- Alveolar and/or interstitial edema (eg. "Kerley B" lines, peribronchial cuffing)
+- Cephalization of blood vessels
+- Vascular congestion
 
 If HF is not ruled out by initial investigations and suspected, natriuretic peptides can be obtained. They are considered elevated if:
 - NT-probNP > 125 pg/mL

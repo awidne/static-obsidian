@@ -136,5 +136,5 @@ Additional considerations should be made if a patient has comorbidities. For exa
 ## References
 
 ### Tools / Guidelines
-[Hypertension Canada](www.hypertension.ca)
+[Hypertension Canada](https://www.hypertension.ca)
 [CCS - Framingham Risk Score for ASCVD](https://ccs.ca/frs/)

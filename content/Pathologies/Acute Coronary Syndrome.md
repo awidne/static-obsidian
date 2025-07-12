@@ -8,6 +8,7 @@ aliases:
   - MI
   - STEMI
   - NSTEMI
+  - Acute coronary syndrome
 ---
 --- 
 
