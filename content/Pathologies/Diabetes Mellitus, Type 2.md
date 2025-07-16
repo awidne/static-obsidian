@@ -1,6 +1,8 @@
 ---
 aliases:
   - T2DM
+  - diabetes
+  - type 2 diabetes
 ---
 
 creation date: 2025-05-01 18:05 

@@ -1,13 +1,15 @@
 ---
 aliases:
+  - GERD
+  - Gastroesophageal reflux disease
 ---
 --- 
 
-creation date: 2025-07-09 18:42 
+creation date: 2025-07-13 16:25 
 tags: [[Pathologies]][[Incomplete]]
 
 ---
-# Rheumatoid Arthritis
+# Gastroesophageal Reflux Disease
 
 ## Background
 ### Definitions
