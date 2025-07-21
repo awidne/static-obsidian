@@ -92,6 +92,7 @@ Characteristic findings for gallstones:
 - Intraluminal highly echogenic foci
 - Strong posterior acoustic shadowing
 - Rolling stone sign: movement of echogenic foci with patient movement
+
 and biliary sludge:
 - Low-level echogenic material in dependent portion of gallbladder
 - No posterior acoustic shadowing

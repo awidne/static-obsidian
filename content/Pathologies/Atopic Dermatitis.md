@@ -88,14 +88,17 @@ Environmental exposures
 Diagnosis is made clinically although some criteria have been proposed.
 
 The American Academy of Dermatology suggests the following criteria:
+
 **Essential features (all of the following)**:
 - Mild to severe pruritus
 - Eczematous dermatitis with typical morphology and age specific pattern
 - Chronic or relapsing course
+
 **Important features (≥2 required)**:
 - Onset before two years of age
 - Personal and/or family history of allergic rhinitis, asthma, food allergies, or atopic dermatitis
 - Dry skin within the last year
+
 **Associated features (≥1 required)**:
 - Atypical, vascular response (eg. facial pallor)
 - Keratosis pilaris, pityriasis alba, hyperlinear palms, ichthyosis
@@ -171,10 +174,10 @@ Ointment formulations tend to be superior in terms of potency and emollient prop
 Instruction for patient to **apply to affected area once or twice daily** for up to two weeks. Note that **30g is needed to cover an adult body once** in its entirety.
 
 Some topical corticosteroid options are:
-**Mild** - low potency ointment (eg. hydrocortisone 2.5%) once to twice daily until 3-5 days following clearance
-**Moderate** - medium to high potency ointment (eg. mometasone furoate 0.1%). With acute flare-ups, can use high potency for 2 weeks before replacement with lower-potency options.
-**Face and skin folds** (area at risk of atrophy) - low potency ointment (eg. desonide 0.05%). Can consider high potency very briefly (eg. 4-5 days) for a more rapid response.
-**Ear canal** - fluocinolone 0.01% oil or topical corticosteroid-based ophthalmic solution (eg. prednisolone 1% ophthal. sol).
+- **Mild** - low potency ointment (eg. hydrocortisone 2.5%) once to twice daily until 3-5 days following clearance
+- **Moderate** - medium to high potency ointment (eg. mometasone furoate 0.1%). With acute flare-ups, can use high potency for 2 weeks before replacement with lower-potency options.
+- **Face and skin folds** (area at risk of atrophy) - low potency ointment (eg. desonide 0.05%). Can consider high potency very briefly (eg. 4-5 days) for a more rapid response.
+- **Ear canal** - fluocinolone 0.01% oil or topical corticosteroid-based ophthalmic solution (eg. prednisolone 1% ophthal. sol).
 
 Other treatments should first-line not work include:
 - Topical calcineurin inhibitors

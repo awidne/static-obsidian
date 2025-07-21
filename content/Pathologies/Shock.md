@@ -187,7 +187,7 @@ Risk factors vary based on type of shock.
 
 **Septic shock**:
 - **S**uppressed immune system
-- **E**xtreme age (infants or elderly)
+- **E**xtremes of age (infants or elderly)
 - **P**rocured organ (transplant)
 - **S**urgical procedure
 - **I**ndwelling devices
