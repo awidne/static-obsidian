@@ -8,8 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "LinkedIn": "https://www.linkedin.com/in/jackxuejx/",
-      "Queen's-Lakeridge MDFM": "https://meds.queensu.ca/academics/mdprogram/queens-lakeridge-health-md-family-medicine-program",
+//      "LinkedIn": "https://www.linkedin.com/in/jackxuejx/",
+//      "Queen's-Lakeridge MDFM": "https://meds.queensu.ca/academics/mdprogram/queens-lakeridge-health-md-family-medicine-program",
     },
   }),
 }

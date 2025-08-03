@@ -16,7 +16,7 @@ Hyperthyroidism is a thyroid disorder characterized by excess thyroid hormone pr
 **Overt hyperthyroidism**: low or suppressed TSH with elevated T3 and/or elevated T4
 **Subclinical hyperthyroidism**: low or suppressed TSH with normal levels of T3 and T4
 
-Thyrotoxicosis is often used interchangeably but actually refers to excess thyroid hormone exposure to tissues. Hyperthyroidism can lead to thyrotoxicosis.
+**Thyrotoxicosis** is often used interchangeably but actually refers to excess thyroid hormone exposure to tissues. Hyperthyroidism can lead to thyrotoxicosis.
 ### Etiology
 The three most common causes of hyperthyroidism are:
 - Graves disease

@@ -167,7 +167,6 @@ Inhibits peptidoglycan cross-links in bacterial cell walls by binding to penicil
 - Aztreonam IV
 ### Glycopeptides
 Inhibits peptidoglycan synthesis by binding to D-alanyl-D-alanine section of peptidoglycan precursor; bactericidal except against C. difficile (bacteriostatic).
-
 ###### Special characteristics:
 - CNS penetration only when meningeal vessels have increased permeability (ie. meningeal inflammation)
 ###### Clinical use:

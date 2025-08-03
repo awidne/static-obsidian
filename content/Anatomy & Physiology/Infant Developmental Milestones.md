@@ -4,19 +4,12 @@ aliases:
 --- 
 
 creation date: 2025-05-01 21:34 
+tags: [[Anatomy & Physiology]]
 
 ---
 # Infant Developmental Milestones
 
-## Definitions
-Systems Involved:
-Relevant Anatomy:
-
-
-
+![[Snapshots Developmental Milestones.pdf]]
 ## References
-
 ### Tools / Guidelines
-
-
 ### Additional Reading

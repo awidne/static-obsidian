@@ -4,8 +4,7 @@ aliases:
 --- 
 
 creation date: 2024-12-29 21:57 
-status: #note
-tags: [[Nervous System]]
+tags: [[Anatomy & Physiology]]
 
 ---
 # Cranial Nerves

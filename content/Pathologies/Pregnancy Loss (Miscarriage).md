@@ -1,37 +1,32 @@
 ---
 aliases:
+  - spontaneous abortion
+  - miscarriage
+  - pregnancy loss
 ---
 --- 
 
-creation date: 2025-05-01 21:07 
-tags: [[Anatomy & Physiology]]
+creation date: 2025-08-03 04:50 
+tags: [[Pathologies]]
 
 ---
-# Menopause
+# Pregnancy Loss (Miscarriage)
 
-## Definitions
-Systems Involved:
-Relevant Anatomy:
+## Background
+### Definitions
 
 ### Etiology
 
 ### Pathogenesis
 
-## Pathology
-
 ## Clinical Presentation
-
 ### Signs & Symptoms
-
 
 ### History & Physical Exam
 
-
 ### Risk factors
 
-
 ## Diagnosis
-
 ### Criteria
 
 ### Work-up
@@ -40,17 +35,11 @@ Relevant Anatomy:
 
 ### Red Flags / Complications
 
-
 ## Management
-
-### Lifestyle / Social (If Applicable)
+### Non-pharmacological
 
 ### Pharmacological / Interventional
 
-
 ## References
-
 ### Tools / Guidelines
-
-
 ### Additional Reading

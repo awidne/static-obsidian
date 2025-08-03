@@ -4,8 +4,7 @@ aliases:
 --- 
 
 creation date: 2025-06-05 14:28 
-status: #note
-tags:
+tags: [[Anatomy & Physiology]]
 
 ---
 # Normal lab values
