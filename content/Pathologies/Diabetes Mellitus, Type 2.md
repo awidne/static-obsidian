@@ -148,7 +148,7 @@ Patients should be encouraged to decreased sedentary time and perform 30-60 minu
 ### Pharmacological / Interventional
 Pharmacologic therapy should be initiated if A1C are at or above target levels in addition to lifestyle modifications. For highly motivated patients with A1C near target, a 3-6 month trial of lifestyle modifications can be considered prior to pharmacologic therapy.
 
-Pharmacological therapy consist of [[antihyperglycemic agents]] and/or [[insulin]].
+Pharmacological therapy consist of [[Antihyperglycemics|antihyperglycemics]] and/or [[insulin]].
 
 Choice of medication often follows a sequential addition of agents:
 1. Initial monotherapy of metformin

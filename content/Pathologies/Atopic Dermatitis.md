@@ -167,7 +167,7 @@ Other measures may include:
 
 Selection of corticosteroid potency and formulation should be based on patient age, body area involved, and degree of skin inflammation.
 
-Types and potencies are discussed [[Topical corticosteroids|separately]]. 
+Types and potencies are discussed [[Topical Corticosteroids|separately]]. 
 
 Ointment formulations tend to be superior in terms of potency and emollient properties. Oil formulations are easier to spread and are useful for scalp or large body surfaces. Creams contain more additives and are more likely to burn or sting.
 

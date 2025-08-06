@@ -34,7 +34,7 @@ Oxidative stress and protease-antiprotease imbalances results destruction of the
 
 Obstruction also causes hyperinflation and air trapping due to airway collapse during exhalation. CO2 retention and subsequent elevation in CO2 levels occur and pulmonary hypertension can occur due to vasoconstriction from hypoexemia.
 
-Environmental irritant or infection (eg. pneumonia) can result in acute exacerbation of COPD which is discussed [[AECOPD|separately]].
+Environmental irritant or infection (eg. pneumonia) can result in acute exacerbation of COPD which is discussed [[Acute Exacerbation of COPD|separately]].
 ## Clinical Presentation
 ### Signs & Symptoms
 The cardinal symptoms of COPD are:

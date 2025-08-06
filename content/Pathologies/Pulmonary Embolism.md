@@ -135,7 +135,7 @@ There are a number of differential diagnoses based on the presenting complaint a
 
 Of note, a number of diagnoses mimic PE closely such as:
 - [[Congestive Heart failure|Heart failure]]
-- [[Pneumonia]]
+- [[Community-Acquired Pneumonia|Pneumonia]]
 - [[Pericarditis]]
 - [[Pneumothorax]]
 ### Red Flags / Complications

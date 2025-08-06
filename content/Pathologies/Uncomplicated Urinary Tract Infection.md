@@ -2,6 +2,7 @@
 aliases:
   - UTI
   - Acute cystitis
+  - urinary tract infection
 ---
 --- 
 
