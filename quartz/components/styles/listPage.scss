@@ -11,7 +11,9 @@ li.section-li {
 
   & > .section {
     display: grid;
-    grid-template-columns: fit-content(8em) 3fr 1fr;
+    grid-template-columns: 1fr min-content;
+    align-items: start;
+    gap: 0.5rem;
 
     @media all and ($mobile) {
       & > .tags {
@@ -21,11 +23,21 @@ li.section-li {
 
     & > .desc > h3 > a {
       background-color: transparent;
+      display: block;
+      width: 100%;
     }
 
     & .meta {
+      display: none;
       margin: 0 1em 0 0;
       opacity: 0.6;
+    }
+
+    & > .desc > h3 {
+      margin: 0;
+      white-space: normal;
+      overflow-wrap: anywhere;
+      word-break: break-word;
     }
   }
 }

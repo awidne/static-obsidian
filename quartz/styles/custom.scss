@@ -1,3 +1,32 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+h1 {
+  font-size: 2.2rem; /* Adjust to your liking */
+}
+
+h2 {
+  font-size: 1.9rem;
+}
+
+h3 {
+  font-size: 1.75rem;
+}
+
+h4 {
+  font-size: 1.5rem;
+}
+
+h5 {
+  font-size: 1.3rem;
+
+}
+// for mobile
+@media (max-width: 768px) {
+  h1 { font-size: 2.1rem; }
+  h2 { font-size: 1.8rem; }
+  h3 { font-size: 1.6rem; }
+  h4 { font-size: 1.4rem; }
+  h5 { font-size: 1.1rem; }
+}

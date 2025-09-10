@@ -120,7 +120,19 @@ button.desktop-explorer {
     padding: 0;
     overscroll-behavior: contain;
 
+    & > li {
+      display: block;
+      margin-bottom: 0.3rem; /* adjust gap here */
+    }
+
+    /* remove trailing gap */
+    & > li:last-child {
+      margin-bottom: 0;
+    }
+
+
     & li > a {
+      display: block;
       color: var(--dark);
       opacity: 0.75;
       pointer-events: all;

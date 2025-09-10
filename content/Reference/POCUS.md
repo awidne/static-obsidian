@@ -5,7 +5,7 @@ aliases:
 
 creation date: 2025-01-22 19:58 
 status: #note
-tags: [[Clinical & Communication Skills 1]], [[Directed Independent Learning]]
+tags: [[Clinical & Communication Skills]], [[Directed Independent Learning]]
 
 ---
 # POCUS

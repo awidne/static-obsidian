@@ -55,7 +55,7 @@ Clinical manifestations can vary based on age, ethnicity, and severity. And may 
 Findings can generally be seen anywhere on the body but axillary, gluteal, and groin areas are uncommon. 
 
 **Infants and young children**: extensor surfaces, cheeks, scalp but diaper sparing
-**Older children and adolescents**: flexural distrubtion such as the antecubital and politeal fossae, volar aspects of the wrists, ankle, and neck.
+**Older children and adolescents**: flexural distribution such as the antecubital and politeal fossae, volar aspects of the wrists, ankle, and neck.
 **Adults**: skin flexures but less than younger, often face, neck, hands.
 
 Other features are included in as part of the "atopic stigmata":
@@ -110,6 +110,8 @@ The American Academy of Dermatology suggests the following criteria:
 There is no routine workup for atopic dermatitis.
 
 In select patients, histological examination of a skin biopsy or other laboratory tests (eg. serum IgE) may be helpful for ruling out other skin conditions.
+
+In cases where affected skin doesn't resolve with treatment, use skin shaving to rule out tinea corporis (Ringworm) - especially with annular eczema.
 ### Differential
 Allergic or irritant contact dermatitis:
 - Difficult to differentiate from AD (even with histology) and can also coexist
@@ -142,6 +144,7 @@ Bathing practices:
 - Less frequent bathing for infants and up to daily showering in older children/adults
 - Use of a mild or soap-free cleansers
 - Additives such as bath emollients may improve skin hydration
+- Consider dilute bleach bath (low evidence, but low harm)
 
 Use of emollients and moisturizers:
 - Skin hydration is a key component of management
