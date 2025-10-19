@@ -9,7 +9,7 @@ Many pages are currently work-in-progress and may be inaccurate. I only update t
 
 **Disclaimer**: the purpose of these notes is for my personal learning. They are hosted online for my own ease of access and are **not** intended to be used as a primary resource for studying or patient care.
 
-**Warning**: the content of the notes are medical in nature and as such may contain images, diagrams, and topics that a reader may find unplesant or upsetting.
+**Warning**: the content of the notes are medical in nature and as such may contain images, diagrams, and topics that a reader may find unpleasant or upsetting.
 ## Sources
 The notes taken are a combination of lecture material, notes from group discussion, clinical pearls from placements, and personal research. Thus, an exhaustive source list is impossible.
 

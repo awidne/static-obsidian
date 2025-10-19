@@ -18,7 +18,7 @@ In some definitions, the term "anaphylactoid reaction" has been used to describe
 ### Etiology
 A number of causes can result in anaphylaxis. Most often, it occurs from immunologic reactions to foods, medications, and insect stings.
 
-Rarer, it can be induced nonimmunologically by anything capable of producing sudden and systemic degranulation of mast cells or basophils.
+Rarer, it can be induced nonimmunologically by anything capable of producing sudden and systemic degranulation of mast cells or basophils. Examples of triggers are contrast medium and vancomycin.
 ### Pathophysiology
 In majority of cases, anaphylaxis involves immunoglobulin E (IgE). Interactions between environment and genetics may also contribute but are not well understood.
 
@@ -49,6 +49,8 @@ The effect of the chemical mediators on target cells are mediated by cytokines w
 The onset of these effects occur over a period of minutes to hours following exposure to allergen. The time course is affected by:
 - Route of entry (eg. injected allergen precipitate symptoms in seconds/minutes while ingested allergens occur in minutes to 1-2 hours)
 - Type of allergen (eg. protein allergens have quicker onset than carbohydrates)
+
+In cases of non-IgE-mediated anaphylaxis, mast cells are directly activated by the trigger.
 ## Clinical Presentation
 ### Signs & Symptoms
 The exact presentation can vary based on mode of exposure. Anaphylaxis generally begins as a mild allergic reaction.
@@ -180,7 +182,7 @@ As soon as anaphylaxis is recognized, epinephrine should be administered.
 - Assessment of airway, breathing, and circulation
 - Administration of oxygen, via nonrebreather mask at 15 L/min or high-flow oxygen mask until no significant bronchospasm or upper airway obstruction is confirmed
 - Removal of inciting cause if possible (eg. stopping infusion)
-- Position patient (in cases of hypotensive, place patient in recumbent position; position pregnent patients on left to avoid IVC compression)
+- Position patient (in cases of hypotensive, place patient in recumbent position; position pregnant patients on left to avoid IVC compression)
 - Establish IV access
 - Monitoring of BP, HR, respiratory rate, oxygen saturation
 
@@ -201,7 +203,7 @@ Recommended dose is 0.01 mg/kg up to a maximum dose of 0.5 mg per single dose. A
 
 In cases where IM injections are insufficient, IV infusion and then a slow IV bolus can be used (with differing dosing).
 
-There are no absolute contraindications to epinephrine for anaphylaxis but some conditions such as cardiovascular diseases and certain antidepressant use may put the patient at higher risk of adverse event.
+There are **no absolute contraindications** to epinephrine for anaphylaxis but some conditions such as cardiovascular diseases and certain antidepressant use may put the patient at higher risk of adverse event.
 
 **In patients taking beta-blockers** who are refractory to epinephrine, glucagon can be administered: 1-5 mg slow IV bolus over 5 minutes, followed by infusion of 5-15 mcg/min titrated to effect. Note, rapid administration can induce vomiting.
 

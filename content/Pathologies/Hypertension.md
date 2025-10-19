@@ -66,7 +66,7 @@ Hypertensive emergency is defined as DBP ≥130 with target organ damage.
 Diagnostic work-up requires ruling out white coat hypertension as seen in the above section.
 
 Following a confirmed diagnosis, baseline assessment should be done of the following:
-1. Cardiovascular risk factors (incl. screening for [[Diabetes Mellitus, Type 2|diabetes]], [[dyslipidemia]], and [[chronic kidney disease]])
+1. Cardiovascular risk factors (incl. screening for [[Diabetes Mellitus, Type 2|diabetes]], [[dyslipidemia]], and [[Chronic Kidney Disease]])
 2. Target organ damage
 3. Routine lab testing
 
@@ -88,7 +88,7 @@ Testing for secondary hypertension is not routine.
 ### Differential
 Unusual presentations, such as onset at a young age or unexpected elevation, may suggest secondary causes. Secondary causes include:
 - Renovascular hypertension - most common reversible cause due to decreased blood flow due to atherosclerotic renal artery stenosis causes activation of RAAS
-- Primary kidney disease ([[acute kidney injury]] or [[chronic kidney disease]]) - suggested by elevated serum creatinine and/or abnormal urinalysis
+- Primary kidney disease ([[Acute Kidney Injury]] or [[Chronic Kidney Disease]]) - suggested by elevated serum creatinine and/or abnormal urinalysis
 - Primary aldosteronism
 - [[Obstructive sleep apnea]]
 - Medication (incl. OCPs, corticosteroids)
@@ -109,7 +109,7 @@ Uncontrolled hypertension is associated with significant risk of target organ da
 ### Lifestyle / Social
 Lifestyle modifications should always be a component of treatment whether alone or with pharmacological therapy. Modifications include:
 - Dietary salt restriction
-- Potassium supplementation (unless contraindicated by presence of [[chronic kidney disease]])
+- Potassium supplementation (unless contraindicated by presence of [[Chronic Kidney Disease]])
 - Weight loss
 - Exercise
 - DASH diet (high in vegetables, fruits, low-fat dairy, whole grains, poultry, fish, and nuts; low in sweets, sugar-sweetened beverages, red meats)

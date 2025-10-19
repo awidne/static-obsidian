@@ -40,7 +40,7 @@ Other conditions include:
 - Asthma/[[Chronic Obstructive Pulmonary Disorder|COPD]]
 - Pleuritis
 - Sarcoidosis
-- Acute chest syndrome (sick cell anemia)
+- Acute chest syndrome (sickle cell anemia)
 - Pulmonary hypertension
 **Gastrointestinal**
 - [[Gastroesophageal reflux disease]]

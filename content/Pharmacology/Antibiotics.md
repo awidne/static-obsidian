@@ -139,6 +139,7 @@ Inhibits peptidoglycan cross-links in bacterial cell walls by binding to penicil
 - Intrinsic ß-lactamase resistance
 ###### Clinical use:
 - Often used as last-resort due to significant adverse effects
+- Reserved for known resistant organisms
 - Broad spectrum (except MRSA, and E. faecali and E. faecium)
 - Pseudomonas coverage except ertapenem
 ###### Adverse effects:

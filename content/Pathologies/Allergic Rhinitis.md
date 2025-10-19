@@ -28,7 +28,7 @@ In some terminology, allergic rhinitis is referred to as "seasonal" for symptoms
 A number of allergens can cause allergic rhinitis.
 
 Seasonal allergens include:
-- Pollen from trees, grasses, and weeds
+- Pollen from trees (spring), grasses (early summer), and weeds
 
 Perennial allergens include:
 - Dust mites
@@ -173,22 +173,15 @@ Pre-treatment with nasal saline or decongestant spray can be considered.
 
 **Mild or intermittent symptoms**
 While treatment if best when taken regularly, mild or intermittent symptoms such as those to predictable allergen exposures (eg. relative's pet), as needed use may be sufficient.
-- Glucocorticoid nasal spray (initial monotherapy)
-- Antihistamine nasal spray (alternative or if first-line insufficient)
-- Combination glucocorticoid/antihistamine nasal spray may be considered as first-line too
+- Antihistamine nasal spray
 - [[Antihistamines#Second-Generation|Minimally sedating oral antihistamines]]
-- Cromolyn nasal spray may be used prophylactically
 
 For patients with predictable seasonal allergies, initiating regular treatment a week or more prior to pollen season may be more effective.
 
 **Persistent or moderate-to-severe symptoms**
-Options are similar to mild/intermittent symptoms. However, it is recommended to start therapy with the maximum dose for age of glucocorticoid nasal spray and stepped down to lowest-effective dose once symptoms are controlled.
+Options are similar to mild/intermittent symptoms. Additionally, intranasal corticosteroids or antimuscarinics (or a combination of them) can be used as an adjunct.
 
-Recommended glucocorticoid spray are those with once-daily dosing and low bioavailability (for minimal systemic effect). Options include:
-- Fluticasone furoate
-- Fluticasone propionate
-- Mometasone
-- Ciclesonide
+Immunotherapy consisting of annual allergy injections are rare as they can be costly.
 ## References
 ### Tools / Guidelines
 ### Additional Reading

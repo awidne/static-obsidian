@@ -33,6 +33,7 @@ The antihistamine acts as competitive, reversible antagonist to:
 - Anti-alpha-adrenergic effects (eg. orthostatic hypotension)
 - Headaches
 ### First-Generation
+Duration 4-6h
 #### Indications
 - Allergies
 - Anaphylactic shock
@@ -41,7 +42,7 @@ The antihistamine acts as competitive, reversible antagonist to:
 - Pruritus
 - Motion sickness
 #### Contraindications
-- Benign prostatic hyperplasia
+- Benign prostatic hyperplasia (due to urinary retention risk)
 - Closed angle glaucoma
 - Pyloric stenosis
 #### Examples
@@ -51,6 +52,7 @@ The antihistamine acts as competitive, reversible antagonist to:
 - Triprolidine (Actifed)
 - Promethazine (Phenergan)
 ### Second-Generation
+Lasts 12-24 hours
 #### Indications
 - Allergies
 - Pruritus
@@ -81,7 +83,7 @@ Normal histamine function on the H2 receptor include:
 
 Antihistamine acts as a competitive, reversible antagonist on the parietal cells which has downstream effect of decreasing phosphorylation and activation of H+/K+ ATPase, resulting in reduced gastric acid secretion.
 ### Side Effects
-Side effects in H2 antihistamines are rare. Listed side effects are from cimetidine:
+Side effects in H2 antihistamines are rare. Listed side effects are from cimetidine (dc in Canada):
 - Antiandrogenic effects
 - Inhibition of cytochrome P450
 - Headaches, dizziness, confusion (crosses blood-brain barrier)
@@ -100,8 +102,8 @@ Relative CI include:
 - Nursing mothers
 - Children
 #### Examples
-- Cimetidine (Tagamet)
-- Ranitidine (Zantac)
+- Cimetidine (Tagamet) - discontinued in Canada
+- Ranitidine (Zantac) - was taken off shelves due to carcinogen suspicion but has recently returned
 - Famotidine (Pepcid)
 - Nizatidine (Axid)
 ## References

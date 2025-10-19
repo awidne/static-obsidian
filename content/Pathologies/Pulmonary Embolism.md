@@ -160,6 +160,7 @@ Common treatment options:
 - Sequential therapy using LMWH (eg. enoxaparin) x 5 days then oral factor Xa inhibitor (eg. edoxaban) or direct thrombin inhibitor (dabigatran)
 - Monotherapy of LMW heparin subq if PO not feasible or CI
 - UFH IV in inpatient setting (preferred for kidney failure and hemodynamic instability)
+- Avoid rivaroxaban in women with heavy menstrual bleeding (or other mucosal bleeding) - low evidence but hematologist recommended
 
 In cases where anticoagulation is absolutely contraindicated, a vena cava filter may be used to prevent recurrent emboli from entering the pulmonary circulation.
 #### Intermediate-risk PE (anticoagulation + monitoring)

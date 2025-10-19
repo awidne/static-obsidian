@@ -14,6 +14,7 @@ tags: [[Pharmacology]]
 
 ## First-line
 ### Angiotensin-converting enzyme inhibitors
+Note: electrolytes and renal function should be tested shortly after prescribing
 ###### Mechanism of action
 Inhibits ACE which reduces conversion of angiotensin I to angiotensin II. Decreased angiotensin II levels results in:
 - Decreased aldosterone and ADH secretion (less fluid retention)
@@ -38,6 +39,7 @@ Prils:
 - Ramipril
 - Captopril
 ### Angiotensin-receptor blockers
+Note: electrolytes and renal function should be tested shortly after prescribing
 ###### Mechanism of action
 Inhibits angiotensin II receptor type 1 resulting in:
 - Decreased aldosterone and ADH secretion (less fluid retention)
