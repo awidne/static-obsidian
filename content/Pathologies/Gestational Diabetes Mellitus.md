@@ -38,6 +38,11 @@ These factors include:
 ## Clinical Presentation
 ### Signs & Symptoms
 Gestational diabetes is generally asymptomatic and identified through screening.
+
+In some cases, clinical features may be present:
+- Disproportionate weight gain
+- Obesity
+- Elevated BMI
 ### History & Physical
 During preconception or early prenatal visits, ask about:
 - Past medical history of GDM
@@ -46,11 +51,14 @@ During preconception or early prenatal visits, ask about:
 - Diet and exercise habits
 ## Diagnosis
 ### Screening
-As an increasing proportion of patients have unrecognized [[Diabetes Mellitus, Type 2|type 2 diabetes]], screening for overt diabetes is recommended to reduce the risk of miscarriage and congenital anomalies.  During the initial prenatal visit, an A1C can be used for overt diabetes and [[Diabetes Mellitus, Type 2#Criteria|criteria]] for non-pregnant patients used.
+As an increasing proportion of patients have unrecognized [[Diabetes Mellitus, Type 2|type 2 diabetes]], screening for overt diabetes is recommended to reduce the risk of miscarriage and congenital anomalies.  During the initial prenatal visit, an A1C can be used for overt diabetes and risk assessment:
+- HbA1C < 6.0%: continue to usual screening at 24-28 weeks
+- HbA1C 6.0-6.4%: consider referral to diabetes education for diet and exercise guidance, continue to usual screening at 24-28 weeks
+- HbA1C ≥6.5%: refer to diabetes care, usual screening unnecessary (diagnosis of overt diabetes)
 
-Screening for gestational diabetes occurs at 24-28 week gestational age but may occur sooner in patients with risk factors.
+Screening for gestational diabetes occurs at 24-28 week gestational age but may occur sooner in patients with risk factors (within first trimester).
 ### Criteria
-For the diagnosis of GDM, the SOGC/CDA recommends the following.
+For the diagnosis of GDM, the SOGC/CDA recommends the following. Use of HbA1C is not recommended for diagnosis.
 
 A 2-step approach is preferred:
 1. 50g non-fasting OGCT
@@ -76,34 +84,63 @@ The differential for GDM consist of overt diabetes and other causes of hyperglyc
 Obstetrics:
 - Hypertensive disorders of pregnancy (insulin resistance implicated in hypertension etiology)
 - Polyhydramnios (due to fetal hyperglycemia and polyuria)
+- Spontaneous abortion
+- Preterm labour
 [[Diabetes Mellitus, Type 2#Red Flags / Complications|Diabetes]] related:
 - Diabetic emergencies
 - End-organ involvement/vascular complications
+- Increased risk of developing T2DM post-partum
 Other:
 - UTI (from glucosuria)
 - Increased risk of spontaneous abortion
 #### Fetal complications
+**Diabetic fetopathy**
 Growth abnormalities:
 - Macrosomnia (hyperinsulinism results in accelerated anabolism)
 - IUGR (due to placental vascular insufficiency)
 Delayed organ maturity:
-- Lung immaturity (hyperglycemia interferes with surfactant synthesis)
+- Lung immaturity (hyperglycemia interferes with surfactant synthesis) can result in ARDS/transient tachypnea
 Labour and delivery:
 - Preterm/prematurity
 - Increased incidence of stillbirth
 - Birth trauma (due to macrosomnia and/or shoulder dystocia)
 Neonatal:
-- Hypoglycemia (excess insulin secretion)
-- Hyperbilirubinemia and jaunice
-- Hypocalcemia
+- Hypoglycemia (excess insulin secretion from chronic hyperglycemia results in hypoglycemia following loss of maternal glucose supply)
+- Hyperbilirubinemia and jaunice (maternal and fetal hyperglycemia increases metabolic effects and oxygen demand resulting in increased erythropoietin and thus RBC count)
+- Hypocalcemia and hypomagnesemia (maternal hyperglcemia results in maternal hypomagnesemia and hypocalcemia)
 - Polycythemia (hyperglycemia stimulates fetal erythropoietin production)
+- ARDS (surfactant production impairment)
 
-Note, a number of congenital anomalies are associated with overt diabetes but not GDM as GDM develops after critical period of organogenesis in trimester 1:
+Note, a number of congenital anomalies are associated with overt diabetes but not GDM as GDM develops after critical period of organogenesis in trimester 1
+
+**Diabetic embryopathy**
+Hyperglycemia results in an inhibition of myo-inositol update. This causes abnormalities in arachidonic acid-prostaglandin pathway which results in early pregnancy loss and congenital anomalies.
+
+In should be noted that in true gestational diabetes (of which onset is following the critical period of organogenesis in trimester 1), diabetic embryopathies are uncommon.
+
+Congenital heart disease:
+- Transposition of the great vessels
 - Ventricular septal defect
-- Neural tube defect
-- Cystic kidneys
-- Anal atresia
-- Sacral agenesis
+- Truncus arteriosus
+- Coarctation of the aorta
+- Patent ductus arteriosis
+CNS defects:
+- Anencephaly
+- Spina bifida
+- Myelomeningocele
+Genitourinary defects:
+- Renal agenesis
+- Ureteral duplication
+- Hydronephrosis
+Skeletal defects:
+- Caudal regression syndrome (complete or partial absence of sacrum)
+- Vertebral anomalies
+Gastrointestinal defects:
+- Small left colon syndrome (transient intestinal obstruction)
+- Duodenal atresia
+- Anorectal malformation
+Others:
+- Cleft palate
 ## Management
 ### Prevention
 For patients with increased risk of developing GDM, lifestyle interventions may reduce risk. This includes:
@@ -121,15 +158,35 @@ Blood glucose should be kept >3.7 mmol/L for patients on insulin therapy.
 #### Non-pharmacological
 For patients highly motivated and borderline diabetic, a trial of lifestyle management may be attempted. This consist of:
 - Diet (replacing high-glycemic index food with low-GI foods) - possibly involve dietitian
-- Physical activity
+- Physical activity (30-60 minutes of moderate-intensity exercise at least 5 days a week)
 #### Pharmacological
 Insulin therapy is initiated if targets are not achieved within 1-2 weeks of lifestyle modifications. Options in order of preference are:
 1. Basal-bolus insulin injection (human regular insulin has lowest immunogenicity)
 2. Rapid-acting insulin analogue (eg. aspart, lispro, glulisine) - comparable to regular insulin but less evidence
 3. Metformin (note, crosses the placenta but studies are inconclusive) - insulin may still be necessary for adequate control
 4. Glyburide (if other options declined)
+
+Insulin is discontinued post-partum.
+#### Monitoring
+At home blood glucose monitoring should be done:
+- Before breakfast for fasting glucose level
+- One or two hours after each meal
+
+It is recommended to monitor blood glucose at least 4 times daily initially but once glucose levels are in target range after a week of frequent monitoring can consider monitoring every other day.
+
+Glucose target vary but the ACOG recommends:
+- Fasting BG: <5.3 mmol/L
+- 1hr PP: <7.8 mmol/L
+- 2hr PP: <6.7 mmol/L
+
+**Fetal surveillance**
+Monitoring of fetal growth, BPP, NST in late 2nd trimester and 3rd trimester:
+- Weekly testing at 34-36 weeks (may start earlier if overt))
+- Consider fetal echocardiogram in 2nd trimester, especially if overt diabetes
 #### Delivery
-Consider induction of labour at week 39-40 if glycemic control is poor or there is risk of complication (eg. macrosomnia)
+Consider induction of labour at week 39-40 if glycemic control is poor or there is risk of complication (eg. macrosomnia). This may vary slightly depending on the severity/level of control on hyperglycemia.
+
+The newborn must be monitored for hypoglycemia following birth. It should be noted that presentation may vary so a high level of suspicion should be maintained.
 ## References
 ### Tools / Guidelines
 

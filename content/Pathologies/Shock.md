@@ -77,7 +77,7 @@ Obstruction of heart or great vessels -> inability for heart to circulate blood 
 **Pulmonary vascular**
 - Due to right ventricular failure from hemodynamically significant [[pulmonary embolism]] or severe pulmonary hypertension and heart is unable to overcome pulmonary resistance
 **Mechanical**
-- A number of causes can cause mechanical obstruction which includes [[pneumothorax|tension pneumothorax]], cardiac tamponade, constrictive pericarditis, and restrictive cardiomyopathy.
+- A number of causes can cause mechanical obstruction which includes [[Pneumothorax|tension pneumothorax]], cardiac tamponade, constrictive pericarditis, and restrictive cardiomyopathy.
 ## Clinical Presentation
 ### Signs & Symptoms
 #### Stages of shock
@@ -222,6 +222,7 @@ In most patients the following are present:
 Initial steps to undifferentiated hypotension/shock should be done simultaneously with [[#Initial management|resuscitation and stabilization]] efforts once clinical condition is consistent with shock.
 
 Following a brief history and examination, **bedside telemetry, electrocardiography, and point-of-care ultrasonography** should be used to assess whether [[#Life-saving or early intervention and stabilization|immediate or early lifesaving therapy]] is needed.
+- Collapsed IVC on POCUS suggests fluid depletion and fluid challenge should be considered
 
 A number of POCUS algorithms are available, including the [[Rapid Ultrasound for Shock and Hypotension (RUSH)]] exam for undifferentiated shock and [[Focused Assessment with Sonography for Trauma (FAST)]] exam for trauma.
 
@@ -232,7 +233,7 @@ A number of POCUS algorithms are available, including the [[Rapid Ultrasound for
 	- Elevated BUN, creatinine, and transaminases due to end-organ damage
 	- Serum and urinary electrolytes may indicate hypovolemia
 - Cardiac enzymes and natriuretic peptides
-	- Elevated toponin, BNP, or NT-pro-BNP may indicate cardiogenic shock
+	- Elevated troponin, BNP, or NT-pro-BNP may indicate cardiogenic shock
 - Complete blood count and differential
 	- High hematocrit suggests hypovolemia
 	- Anemia in setting of bleeding supports hemorrhagic shock
@@ -270,7 +271,7 @@ First step consist of:
 IV fluids should be considered following IV access.
 - Administer bolus of IVF as fluid challenge
 - Consider aggressive fluids and blood products for those with obvious hemorrhage (eg. gunshot wound)
-- If cardiogenic shock is suspected, fluids should not be administered
+- If cardiogenic shock is suspected, fluids should not be administered - consider diuresis with volume overload (eg. IV furosemide)
 
 Balanced crystalloids are preferred over normal saline (0.9% sodium chloride) due to their electrolyte composition closer to physiologic plasma (normal saline is supraphysiological) which reduces the risk of adverse kidney events.
 - Lactated Ringer's
@@ -293,10 +294,29 @@ Common interventions include:
 		- Vancomycin plus two antipseudomonal agents (eg. fluoroquinolone, pip-tazo)
 - Adrenal crisis - IV hydrocortisone 100 mg
 - Hemorrhage - drainage or emergent surgery
-- Hemodynamically significant arrhythmias - cardioversion, atropine, pacemaker placement etc. following ACLS protocols
+- Hemodynamically significant arrhythmias - cardioversion, atropine, pacemaker placement, inotrops etc. following ACLS protocols
 - [[Acute Coronary Syndrome#Management|Myocardial infarction]] - antiplatelet and/or cardiac cath
 - Ruptured valve - surgical repair
 - [[Pulmonary Embolism#Management|Pulmonary embolism]] - thrombolysis
+
+#### Distributive shock
+#### Cardiogenic shock
+The goal of treatment is to:
+1. Restore perfusion (avoiding reducing BP, manage volume, antithrombotic if needed)
+2. Restore inotropy following reperfusion (using inotrops)
+
+**Dysrhythmias**
+With pulse:
+- Bradycardia - synchronized cardioversion and IV atropine
+- Tachycardia - synchronized cardioversion
+Without pulse:
+- Asystole or PEA - CPR (not shockable)
+- V-tachy/Vfib - CPR and defibrillation
+
+**Valvulopathies**
+- Surgery
+#### Hypovolemic shock
+#### Obstructive shock
 ### Treatment of underlying etiology
 Continue empiric therapies for presumed etiologies until patient is stabilized. Response to therapies should be monitored and refined as diagnosis is elucidated.
 

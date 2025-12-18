@@ -24,7 +24,20 @@ Afib typically progresses from paroxysmal to persistent states but this is not a
 ### Etiology and Pathogenesis
 Afib shares a strong association with other cardiovascular diseases. Any condition that results in inflammation, stress, damage, or ischemia can alter the anatomy and electrophysiology of the atrial myocardium resulting in developing afib. These conditions are listed as [[#Risk factors|risk factors]].
 
+The source of atrial fibrillation signals typically arises surrounding the pulmonary veins.
+
+Reversible causes of afib include (PIRATE):
+- Pulmonary disease / Pulmonary embolism
+- Infections / Ischemia
+- Remodelling of atria from cardiac disease / Rheumatic heart disease
+- Alcohol / Anemia / Age
+- Thyrotoxicosis
+- Electrolyte abnormalities (K/Mg)
+- Sepsis / Sleep apnea / Stress response
+
 Premature atrial complexes (PACs) are often the trigger for paroxysmal afib for patients with normal or near-normal hearts.
+
+In cases of **valvular afib**, the most common cause is mitral stenosis. This results in the dilation of the atria which changes the electrical circuitry.
 ## Clinical Presentation
 ### Signs & Symptoms
 Symptoms are often broad and nonspecific. Afib may present with or without associated symptoms. Typical accompanying symptoms include:
@@ -45,9 +58,9 @@ Severe symptoms may also be present which includes:
 - Symptoms of stroke or other systemic embolic event
 - Symptoms of [[Congestive Heart Failure|heart failure]]
 ### History & Physical Exam
-Asymptomatic screening of patients it not routine.
+Asymptomatic screening of patients is not routine.
 
-Discovery of afib may be during routine examination especially when associated symptoms are mentioned, incidentally during ECG, or during treatment of downstream complications such as stroke or other thromboembolism.
+Discovery of afib may occur during routine examination especially when associated symptoms are mentioned, incidentally during ECG, or during treatment of downstream complications such as stroke or other thromboembolism.
 
 History should involve aspects of associated symptoms as well as presence of any associated conditions such as cardiovascular disease.
 
@@ -87,17 +100,20 @@ An **transthoracic echocardiogram** should be done even if physical exam is norm
 - Assess peak right ventricular and right atrial pressures
 - Presence of thrombus (low sensitivity)
 
+A **transesophageal echocardiogram** is often used to check for thrombus prior to initiating rhythm control. A transesophageal view can better visualize the left atrial appendage which is where most thrombus will be.
+
 **Additional cardiac testing** (eg. stress test) may be indicated if there are signs of ischemic heart disease.
 
 Laboratory testing should be completed for **CBC, serum electrolytes, and renal function assessment**. Troponin is not indicated unless acute ischemia is suspected.
 ### Differential
-- Atrial flutter - would be regularly irregular
+- Sinus rhythm with premature atrial complexes (which gives impression of irregularity)
+- Atrial flutter - would be regular ventricular contraction
 - Atrial tachycardia
 - Multifocal atrial tachycardia
 - WPW syndrome
 - Atrioventricular nodal reentry tachycardia
 ### Red Flags / Complications
-The major complication of afib is the formation of thrombus. The rhythm irregularity causes heart blood flow to be turbulent and increases the likelihood of thrombus formation. This can dislodge and cause a **stroke**.
+The major complication of afib is the formation of thrombus. The rhythm irregularity causes heart blood flow to be turbulent and increases the likelihood of thrombus formation and systemic emboli, resulting in a **stroke**.
 ## Management
 ### Indication for emergency / in-patient
 Emergency room visit is indicated for patients with:
@@ -118,7 +134,7 @@ Patients should be hospitalized if:
 - Difficult to control ventricular rates with evidence of heart conditions
 ### Initial management
 **Anticoagulation**
-Antithrombotic therapy should be considered to prevent systemic embolization. Evaluation of risk for incidental stroke can be done using the [CHA2DS2-VASc score](https://www.mdcalc.com/calc/10583/cha2ds2-va-score-atrial-fibrillation-stroke-risk). Anticoagulation is indicated for a score ≥2 and should be considered for a score of 1.
+Antithrombotic therapy should be considered to prevent systemic embolization. Evaluation of risk for incidental stroke can be done using the [CHA2DS2-VASc score](https://www.mdcalc.com/calc/10583/cha2ds2-va-score-atrial-fibrillation-stroke-risk). Anticoagulation is indicated for a score ≥2 in males and ≥3 in females. This is weighed against the [HAS-BLED score](https://www.mdcalc.com/calc/807/has-bled-score-major-bleeding-risk) for bleeding risk.
 
 **Hemodynamically unstable**
 In hemodynamically unstable patient with signs of hypotension, altered mental status, or heart failure, ventricular rate control should be attempted. This may lead to spontaneous reversion to sinus rhythm.
@@ -132,12 +148,19 @@ If hypotensive:
 - If on vasopressor or symptomatic hypotension, consider electrical cardioversion
 
 Emergency **cardioversion** should be done if patient remains unstable. Cardioversion can be done pharmacologically or electrically and decision should be made based on factors such as patient preference, comorbidities, stability, and efficacy.
+- Synchronized cardioversion
+- Pharmacological cardioversion is typically by flecainide or propafenone
 
 **Hemodynamically stable**
 Afib can be managed in the outpatient setting. Evaluate whether rate needs to be controlled or if cardioversion is necessary. This is discussed below as part of long-term management.
 
 **Catheter ablation**
-In some cases, ablation may be an appropriate treatment for rhythm control. It is typically indicated for symptomatic patients with paroxysmal or persistent afib who are refractory or intolerant to antiarrhythmic drugs.
+In some cases, ablation may be an appropriate treatment for rhythm control. It is typically indicated for symptomatic patients with paroxysmal or persistent afib who are refractory or intolerant to antiarrhythmic drugs but still stable enough for procedure.
+- Pulmonary vein isolation
+- AV node ablation
+
+**Valvular surgery**
+In cases of valvular afib, treatment of underlying condition (eg. valve replacement) is indicated to resolve afib.
 ### Long-term management
 **Lifestyle changes**
 Modifications that can reduce afib recurrence and/or symptom burden include:
@@ -150,15 +173,18 @@ Based on assessment done on stroke risk, the decision to undergo anticoagulation
 [[Direct Oral Anticoagulants]] are discussed in detail separately. Some options are:
 - Apixaban 5 mg PO BID
 - Dabigatran 150mg PO BID
+
+In patients with with mechanical valves, warfarin is used. Warfarin is bound to albumin and may need to be adjusted in cases of cirrhosis, nephrotic syndrome, or malnutrition. Dosing is titrated based on regular INR measurements.
+
 Dosing may need to be adjusted based on renal impairment.
 
 **Rate control**
 Slowing of ventricular rate is often initiated during initial management. The target rate is typically 85 bpm in a patient without heart disease. In asymptomatic individuals with permanent afib, a more lenient rate goal of <110 bpm can be considered.
 
-This can be accomplished with an oral beta blocker, rate-slowing nondihydropyridine calcium channel blocker, or digoxin.
+This can be accomplished with an oral cardioselective beta blocker, rate-slowing nondihydropyridine calcium channel blocker, or digoxin.
 - Diltiazem or verapamil
 - Atenolol, metoprolol, timolol, pindolol, or nadolol
-- Digoxin is usually not preferred due to narrow therapeutic window
+- Digoxin is usually not preferred due to narrow therapeutic window but may be used with afib and heart failure due to its effect on improving cardiac output
 - A combination of a beta blocker and a calcium channel blocker may be considered if monotherapy is inadequate
 
 **Rhythm control**
@@ -166,10 +192,14 @@ Should rate control be inadequate for symptom management, rhythm control should 
 
 Prior to starting an antiarrhythmic, patient should be rate controlled and sinus rhythm should be restored (eg. with cardioversion).
 
-Several [[antiarrhythmics]] can be chosen but most commonly used are:
+Several [[Antiarrhythmics|antiarrhythmics]] can be chosen but most commonly used are:
 - Amiodarone 100-200mg PO once daily (lower dose for older or low BMI patients)
 - Other options include dofetilide, flecainide, propafenone, and sotalol
+
+Propafenone can also be carried around as a "pill-in-pocket" approach to paroxysmal afib for spontaneous onset.
 ## References
 ### Tools / Guidelines
 [MDCalc - Atrial fibrillation stroke risk calculator](https://www.mdcalc.com/calc/10583/cha2ds2-va-score-atrial-fibrillation-stroke-risk)
+[MDCalc - bleeding risk calculator](https://www.mdcalc.com/calc/807/has-bled-score-major-bleeding-risk)
 ### Additional Reading
+[CCS Atrial Fibrillation Guidelines](https://ccs.ca/app/uploads/2022/05/AF-Gui-Pocket-Guide-2021P2-EN-web.pdf)

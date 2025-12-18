@@ -44,12 +44,35 @@ Always order creatinine with electrolytes
 | ---------- | ----------- | ----------- | ------- |
 | Creatinine | 50          | 100         | mcmol/L |
 | GFR        |             |             |         |
+| ACR        | -           | 3.0         |         |
 
-## Liver function tests
+## Liver studies
+Note that reference ranges vary based on laboratory. Below are typical values.
+
+Liver enzymes:
+
 |     | Lower limit | Upper limit | Unit |
 | --- | ----------- | ----------- | ---- |
-|     |             |             |      |
+| ALT | 4           | 36          | IU/L |
+| AST | 5           | 30          | IU/L |
+| ALP | 30          | 120         | IU/L |
+| GGT | 6           | 50          | IU/L |
+Note: typically not a concern until 3 times upper normal limit
 
+Liver function tests (synthetic):
+
+|                          | Lower limit | Upper limit | Unit    |
+| ------------------------ | ----------- | ----------- | ------- |
+| Direct bilirubin (conj.) | 0           | 6           | mcmol/L |
+| Prothrombin time (PT)    | 10.9        | 12.5        | s       |
+| Albumin                  | 35          | 50          | g/L     |
+| Total protein            | 60          | 80          | g/L     |
+| Lactate dehydrogenase    | 50          | 150         | IU/L    |
+## Thyroid
+|     | Lower limit | Upper limit | Unit |
+| --- | ----------- | ----------- | ---- |
+| TSH |             | 5           |      |
+|     |             |             |      |
 ## Inflammatory markers
 |     | Lower limit | Upper limit | Unit |
 | --- | ----------- | ----------- | ---- |

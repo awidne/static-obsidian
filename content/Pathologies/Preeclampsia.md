@@ -48,6 +48,7 @@ Other features may be present:
 - Pulmonary edema
 - Headache
 - Visual disturbances
+- Abdominal pain
 ### History & Physical Exam
 Blood pressure measurements should be documented at each prenatal appointment. While diagnoses are made following 20 weeks gestation, measurements made prior to 20 weeks can be used as a baseline.
 

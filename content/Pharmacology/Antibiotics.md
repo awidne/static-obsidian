@@ -536,6 +536,7 @@ Inhibits DNA, RNA, cell wall, and protein synthesis by binding to bacterial ribo
 Inhibits protein synthesis by blocking mRNA synthesis through inhibition of RNA-polymerase; bacteriostatic and bactericidal.
 ###### Special characteristics:
 ###### Clinical use:
+- Tuberculosis treatment
 ###### Adverse effects:
 ###### Contraindications:
 ###### Examples:

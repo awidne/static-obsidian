@@ -13,6 +13,9 @@ tags: [[Pathologies]]
 ### Definitions
 Hyperthyroidism is a thyroid disorder characterized by excess thyroid hormone production.
 
+**Primary hyperthyroidism**: thyroid gland overproduces T3/T4 (TSH suppression by feedback)
+**Secondary hyperthyroidism**: pituitary gland (overproduces TSH, overstimulating T3/T4 secretion)
+
 **Overt hyperthyroidism**: low or suppressed TSH with elevated T3 and/or elevated T4
 **Subclinical hyperthyroidism**: low or suppressed TSH with normal levels of T3 and T4
 
@@ -49,7 +52,7 @@ Pathophysiology of hyperthyroidism depends on the etiology and variant. Common e
 
 **Graves disease**
 - Autoimmune process with antibodies against TSH receptor
-- Antibodies stimulate TSH receptor causing production of T3 adn T4
+- Antibodies stimulate TSH receptor causing production of T3 and T4
 - Trophic effect leads to thyroid growth
 **Toxic multinodular goiter (TMNG)** 
 - Initial phase of development of nodules (years)
@@ -60,7 +63,7 @@ Pathophysiology of hyperthyroidism depends on the etiology and variant. Common e
 **Iodine-induced hyperthyroidism (Jod-Basedow Phenomenon)**
 - Typically iatrogenic due to excessive iodine intake through diet or iodine-containing medication (eg. contrast media or amiodarone)
 - Normally, organification of iodine is self-regulating (Wolff-Chaikoff effect) but in the Jod-Basedow phenomenon (pre-existing thyroid disease), excess thyroid hormone is produced when there is excess iodine
-**Amiodarone-induced thyroiditis**
+**Amiodarone-induced thyroiditis** (risk if use >24 hr)
 Type 1:
 - Thyroid hormone production secondary to excess iodine exposure from amiodarone in the setting of pre-existing thyroid disease (Jod-Basedow)
 - Pre-existing disease usually latent Graves or TMNG
@@ -70,6 +73,7 @@ Type 2:
 - Inflammation or destruction of the thyroid follicular cells
 - Results in transient increase in circulating thyroid hormones
 - Clinical manifestation varies based on etiology of thyroiditis
+- Typically occurs over several weeks before depleting and hypothyroid phase begins
 
 In the case of factitious thyroiditis, exogenous thyroid hormone is in circulation whether unintentional (due to accidental overuse) or intentional (as the side effect of weight lost creates potential for abuse).
 ## Clinical Presentation
@@ -184,13 +188,13 @@ it can be presumed to be Graves disease and the workup is complete.
 
 If presentation is not obvious but **goiter is not nodular**, further assessed using an third generation assay for **thyrotropin receptor antibodies (TRAb)**, which is sensitive (97%) and specific (99%) for Graves disease causing overt hyperthyroidism (may not be as specific in mild cases).
 
-In cases of a **nodular goiter or if TRAb is negative**, a **radioiodine uptake (RAIU)** test can be done. Note that pregnancy and breastfeeding are absolute contraindications.
+In cases of a **nodular goiter or if TRAb is negative**, a **radioiodine uptake (RAIU)** test (scintigraphy) can be done. Note that pregnancy and breastfeeding are absolute contraindications.
 - High or normal radioiodine uptake indicates de novo synthesis such as with Graves disease (diffuse update), TMNG (patchy uptake), toxic adenoma (focal uptake at location of nodule)
 - Low or absent radioiodine uptake indicates inflammation/destruction of thyroid tissue (and thus hyperthyroidism due to release of preformed hormone) or extrathyroidal source of thyroid hormone
 
 If **TRAb is negative** and RAIU is not preferred/contraindicated and quantitative **Doppler ultrasound** is available, an assessment of thyroidal artery blood flow may be sufficient.
 - High flow suggests Graves disease
-- Low flow suggests Thyroiditis
+- Low flow suggests thyroiditis
 - Normal flow can be inconclusive but Graves disease is more likely
 
 The workup is also visualized as a [diagnosis algorithm](https://www.uptodate.com/contents/image?imageKey=ENDO%2F133238&topicKey=ENDO%2F7847&search=hyperthyroidism&rank=2~150&source=inline_graphic).
@@ -204,7 +208,7 @@ A number of conditions can cause low serum TSH without hyperthyroidism (in addit
 - Physiologic lowering of TSH during pregnancy
 - Altered set point of HPT axis in otherwise healthy older person
 ### Red Flags / Complications
-Untreated hyperthyroidism can result in extreme case of hyperthyroidism known as thyroid storm. This is a potentially fatal complication and manifests as with severe symptoms.
+Untreated hyperthyroidism can result in extreme case of hyperthyroidism known as [[Thyroid Storm|thyroid storm]]. This is a potentially fatal complication and manifests as with severe symptoms.
 
 Chronic hyperthyroidism is also associated with:
 - Increased risk of cardiovascular events and ischemic stroke
@@ -228,7 +232,9 @@ The first choice therapy are **anti-thyroid drugs (thioamides)** which function 
 	- Free T4 2-3x upper limit of normal: 30-40mg daily
 - Propylthiouracil PO BID or TID (due to shorter duration of action)
 
-Free T4 and/or total T3 should be assessed every 4-6 weeks. Drugs should be continued for 12-18 months and TRAb assessed for remission of Graves disease. For toxic nodular goiter, ATDs can be used initially but radioactive iodine or surgery are preferred for long-term management.
+Free T4 and/or total T3 should be assessed every 4-6 weeks. Side effects include agranulocytosis and aplastic anemia so baseline and follow-up CBC are recommended.
+
+Drugs should be continued for 12-18 months and TRAb assessed for remission of Graves disease. For toxic nodular goiter, ATDs can be used initially but radioactive iodine or surgery are preferred for long-term management.
 
 **Radioactive iodine** (RAI) are used for patients which can't use ATDs but should be avoiding in pregnant or planned to be pregnant patients and patients with Graves orbitopathy. Dosing depends on etiology but is typically a single dose.
 

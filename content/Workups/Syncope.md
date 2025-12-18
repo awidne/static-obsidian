@@ -16,12 +16,15 @@ Syncope refers to a transient loss of consciousness and postural tone followed b
 Syncope is the result of a decrease in cerebral blood flow. This can be due to an interruption in blood flow or a drop in systemic blood pressure.
 
 Cerebral blood flow is maintained by cardiac output, systemic vascular resistance, mean arterial pressure, and intravascular volume and any deficit in these systems can decreased blood flow.
+
+With vasovagal syncope, initial sympathetic activity (caused by some stimuli or venous stasis) results in an overcompensating parasympathetic response that decreased HR and BP, causing decreased cerebral perfusion
 ## Differential Diagnosis
 **Cardiovascular**
 - Cardiac arrhythmias
 - Structural and obstructive disorders (eg. valvular abnormalities, MI, PE)
-**Cerebrovascular**
+**Cerebrovascular/neurological** 
 - Vertebrobasilar insufficiency
+- Disrupted autoregulation
 **Disorders of blood flow and vascular tone**
 - Vasovagal syncope (50% of all syncope cases)
 	- Prolonged standing, crowded environments, hot conditions, severe pain, extreme fatigue, stress causes vasodilation and bradycardia
@@ -62,7 +65,7 @@ A thorough history and physical may be sufficient as most cases are vasovagal an
 
 In higher risk populations such as older adults, testing may include:
 - Routine blood work (including CBC and electrolytes)
-- Electrocardiogram
+- Electrocardiogram / Holter
 - Blood glucose
 
 If cardiac or cerebrovascular etiology is suspected, testing may include cardiac enzymes and head CT.

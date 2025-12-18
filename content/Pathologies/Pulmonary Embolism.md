@@ -22,13 +22,13 @@ In most cases, thrombus causing PE originate as lower extremity [[deep vein thro
 
 In addition to risk factors, triggers for VTE include infection and malignancy (esp. pancreatic, hematological, lung, gastric, and brain). Other causes include [[Acute Coronary Syndrome|myocardial infarction]] and [[congestive heart failure]].
 ### Pathogenesis
-PE occurs when thrombus enters the pulmonary circulation. In the case of a lower extremity DVT, a blood clot breaks off and returns to the heart via venous circulation and enters the pulmonary artery.
+PE occurs when thrombus enters the pulmonary circulation. In the case of a lower extremity DVT, a blood clot breaks off and returns to the heart via venous circulation and enters the pulmonary artery. Fat emoblus can occur following large bone fractures.
 
 Emboli more frequently affect the lower lobes than the upper. Larger emboli can obstruct the main pulmonary artery and cause saddle embolus.
 
 Embolism results in impaired gas exchange due to reduction in perfusion and thus mismatch in ventilation-to-perfusion ratio. This leads to dead space ventilation and hypoxemia. 
 
-Unaffected branches may be affected due to vasospasm from mediators such as serotonin. and local accumulation of inflammatory mediators stimulates respiratory drive results in hypocapnia and respiratory alkalosis.
+Unaffected branches may be affected due to vasospasm from mediators such as serotonin. and local accumulation of inflammatory mediators stimulates respiratory drive (tachypnea) results in hypocapnia and respiratory alkalosis.
 
 Pulmonary hypertension may occur if occlusion is >30-50% of total pulmonary arterial bed. This results in increased right ventricular afterload and subsequent impeded outflow and dilation, and eventually hemodynamic instability. 
 ## Clinical Presentation
@@ -149,7 +149,9 @@ Initial considerations include:
 
 Empiric anticoagulation may be considered based on the risk of bleeding, clinical suspicion, the patient's hemodynamic status, and the timing of diagnostic tests.
 #### Low-risk PE (anticoagulation)
-For patients without right ventricular dysfunction or hypotension and without bleeding risk, treatment consist of anticoagulation. Initial options for agents include:
+For patients without right ventricular dysfunction or hypotension and without bleeding risk, treatment consist of anticoagulation. DOACs are typically preferred.
+
+Initial options for agents include:
 - Low molecular weight heparin
 - Fondaparinux
 - Unfractionated heparin
@@ -180,5 +182,7 @@ Goal is to complete treatment of acute episode and prevent recurrence of VTE. Ma
 [MDCalc - Wells Score PE](https://www.mdcalc.com/calc/115/wells-criteria-pulmonary-embolism)
 [MDCalc - PERC](https://www.mdcalc.com/calc/347/perc-rule-pulmonary-embolism)
 [MDCalc - Wells Score DVT](https://www.mdcalc.com/calc/362/wells-criteria-dvt)
+
+[Thrombosis Canada - VTE treatment](https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=44)
 ### Additional Reading
 [Anticoagulation for VTE](https://www.uptodate.com/contents/venous-thromboembolism-initiation-of-anticoagulation?search=pulmonary%20embolism&topicRef=8265&source=see_link#H8155806)

@@ -1,13 +1,6 @@
 ---
 aliases:
   - ACS
-  - Unstable angina
-  - UA
-  - Myocardial infarction
-  - Myocardial ischemia
-  - MI
-  - STEMI
-  - NSTEMI
   - Acute coronary syndrome
 ---
 --- 
@@ -21,9 +14,11 @@ tags: [[Pathologies]] [[Incomplete]]
 ## Background
 ### Definitions
 ACS refers to a group of conditions that include:
-- ST-elevation myocardial infarction (STEMI)
-- Non-ST elevation myocardial infarction (NSTEMI)
+- [[ST Elevation Myocardial Infarction|ST-elevation myocardial infarction (STEMI)]]
+- [[Non-ST Elevation Myocardial Infarction|Non-ST elevation myocardial infarction (NSTEMI)]]
 - Unstable angina (UA)
+
+Each condition is discussed in more depth in their respective pages.
 
 These represent varying degree of manifestation of coronary heart disease (CHD).
 ### Etiology & Pathogenesis
@@ -112,6 +107,13 @@ NSTEMIs can manifest as one or both of the following in two anatomically contigu
 High-sensitivity troponin testing is used for evaluation of myocardial infarction. Acute myocardial injury is defined biochemically as:
 - Troponin above the 99th percentile of upper reference limit (URL) of assay
 - Observed rise and/or fall of troponin value - typically rises 2-3 hours after onset but late presentation may not see a changing pattern over short time frame between serial assays.
+
+Myocardial infarction can be subdivided into 5 types of which both STEMI and NSTEMI can manifest
+- Type 1 - spontaneous atherothrombotic MI
+- Type 2 - supply-demand mismatch without acute atherothrombosis
+- Type 3 - sudden cardiac death with presumed MI (diagnosis made postmortem)
+- Type 4 - PCI or stent related thrombosis
+- Type 5 - CABG related
 ### Work-up
 Diagnosis of ACS often cannot be made with an **initial 12-lead ECG**. A **follow-up ECG** should be done 15-30 minutes following initial ECG. Note, ACS can present with no ECG findings. If patient is at intermediate-to-high risk for ACS, serial ECGs should be done until pain resolves. 
 
@@ -147,7 +149,6 @@ The following therapies are used routinely:
 - Statins (if not already taking)
 
 With STEMIs, selection and implementation of reperfusion strategy is the highest priority. Selection is based on the availability of percutaneous coronary intervention (PCI) within 120 minutes of medical contact. If that is not possible, patient should be given thrombolytic therapy.
-
 ##### Non-ST elevation ACS:
 For NSTEMIs and UAs, treatment is indicated following confirmation with elevated biomarkers.
 
@@ -160,13 +161,13 @@ Aspirin, a platelet P2Y12 receptor blocker, and anticoagulant is recommended fol
 Further management can either be early PCI, or conservative medical therapy. Thrombolytic therapy is not indicated for NSTEACS.
 ### Follow-up management
 Long-term management of ACS focuses on secondary prevention of recurrent events and reducing cardiovascular mortality. The ACC and AHA recommends:
-1. Dual antiplatelet therapy with aspiring 81-325 mg daily and P2Y12 inhibitor
+1. Dual antiplatelet therapy with aspirin 81-325 mg daily and P2Y12 inhibitor
 2. Lipid-lowering therapy
 3. ACE inhibitor (or ARB) and beta-blocker
 4. Risk factor modifications
 ## References
 ### Tools / Guidelines
-
+[Prevention pathway of ACS](https://ccs.ca/wp-content/uploads/2025/10/CCS-ACS_Prevention_Pathway_Oct-2025.pdf)
 ### Additional Reading
 [Management of STEMI](https://www.uptodate.com/contents/overview-of-the-acute-management-of-st-elevation-myocardial-infarction)
 [Management of NSTEACS](https://www.uptodate.com/contents/overview-of-the-acute-management-of-non-st-elevation-acute-coronary-syndromes)

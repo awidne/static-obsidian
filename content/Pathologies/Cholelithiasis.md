@@ -34,7 +34,7 @@ Biliary stasis is a key contributor in gallstone formation. Some causes of impai
 - Pregnancy
 
 **Cholesterol stones**
-An increase in cholesterol concentration in bile and decrease in bile salts and lecithin results in hypersaturated bile that precipitates as cholesterol and calcium carbonate.
+An increase in cholesterol concentration in bile and decrease in bile salts and lecithin results in hypersaturated bile that precipitates as cholesterol and calcium carbonate. These make up 70% of stones.
 
 Risk factors include:
 - Obesity, insulin resistance, dyslipidemia
@@ -46,7 +46,7 @@ Risk factors include:
 - Rapid weight loss
 
 **Black pigment stones**
-Black pigmentation is due to increased hemolysis causing increased in conjugated bilirubin uptake. Bilirubin precipitation results in black colouring of stones.
+Black pigmentation is due to increased hemolysis causing increased in conjugated bilirubin formation. This overwhelms the conjugation process which results in an increase in unconjugated bilirubin that can precipitate. Bilirubin precipitation results in black colouring of stones.
 
 Risk factors include:
 - Chronic hemolytic anemia
@@ -104,7 +104,7 @@ Cholelithiasis:
 ![[Cholelithiasis-2.png]]
 ### Work-up
 Beyond imaging, workup includes ruling out complications.
-- Dilation of common bile duct may suggest [[choledocholithiasis]] and would require additional workup
+- Dilation of common bile duct may suggest [[Choledocholithiasis]] and would require additional workup
 - Gallbladder wall thickening and/or pericholecystic fluid may suggest acute cholecystitis
 
 Laboratory studies are typically normal but used to rule out additional conditions and other causes of acute abdominal pain.

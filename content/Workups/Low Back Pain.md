@@ -16,10 +16,17 @@ Low back pain is common and present at some point in most adult's lives. In most
 - Subacute: 4-12 weeks
 - Chronic ≥12 weeks
 ## Differential Diagnosis
-In majority of cases (>85%) , the diagnosis is **mechanical back pain** (aka nonspecific back pain). This is the diagnosis of exclusion after ruling out alternative diagnoses.
+In majority of cases (>85%) , the diagnosis is **mechanical back pain** (aka nonspecific back pain). This is the diagnosis of exclusion after ruling out alternative diagnoses. These include:
+- Muscle strain
+- Ligament sprain
+- Discogenic pain
+- Disc herniation
+- Spondylolysis
+- Spondylolisthesis
+- Apophyseal injury
+- Facet joint arthropathy
 
-Urgent, acute diagnoses, although rare, must be considered:
-
+**Urgent, acute diagnoses**, although rare, must be considered:
 **N**eurological
 - Spinal cord compression
 - Cauda equina syndrome (compression/spinal canal narrowing below conus medullaris)
@@ -32,9 +39,6 @@ Urgent, acute diagnoses, although rare, must be considered:
 **T**umour
 - Metastatic cancer of the vertebrae (commonly: prostate, breast, kidney, thyroid, lungs)
 **I**nflammation
-
-Other diagnoses (subacute and chronic):
-- Spinal stenosis (due to spondylosis, spondylolisthesis, and thickening of ligamentum flavum)
 ## Initial Evaluation
 ### History
 As mechanical back pain is the presumptive diagnosis, history should focus on identifying suspicious features suggestive of serious etiologies. 

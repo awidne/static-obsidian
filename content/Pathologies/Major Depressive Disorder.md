@@ -2,6 +2,7 @@
 aliases:
   - MDD
   - depression
+  - Major depressive disorder
 ---
 --- 
 
@@ -74,6 +75,16 @@ Five or more of the following symptoms have been present in a two-week period th
 The symptoms must also cause clinically significant distress or impairment in social, occupational, or other important areas of functioning. The episodes must also not be attributable to a substance or another medical condition.
 
 In cases of response to a significant life event such as bereavement, clinical judgement must be used to determine if symptoms are a normal response or if MDD is present.
+
+Additional specifiers can be added:
+- With anxious distress
+- With mixed features
+- With melancholic features
+- With atypical features
+- With psychotic features
+- With catatonia
+- With [[Postpartum Depression|peripartum onset]]
+- With seasonal pattern
 ### Work-up
 In cases of suspected MDD, the Patient Health Questionnaire-9 (PHQ-9) covers the DSM-5 criterion and should be used to evaluate for depression and severity. The PHQ-9 scores from 0-27, with scores ≥10 indicating possible MDD.
 

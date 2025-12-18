@@ -14,7 +14,7 @@ tags: [[Pathologies]]
 ### Definitions
 Exacerbation of [[chronic obstructive pulmonary disorder]]. This generally includes an acute change or worsening of one or more of the cardinal symptoms:
 - Increased frequency and severity of cough
-- Sputum production increases in volume and/or changes character
+- Sputum production increases in volume
 - Dyspnea increases
 ### Etiology and Pathogenesis
 There are several potential triggers of exacerbation:
@@ -65,8 +65,10 @@ Physical exam may find associated findings to symptoms:
 - Tachycardia
 ## Diagnosis
 ### Criteria
-AECOPD is diagnosed clinically using the following definition:
-- Event characterized by dyspnea and/or cough and sputum that worsens over ≤14 days
+AECOPD is diagnosed clinically by presence of two of the following three ≤14 days:
+- Increased cough
+- Increased sputum production
+- Increased dyspnea
 
 Severity is described as:
 
@@ -125,7 +127,7 @@ In addition to inhalers, glucocorticoids are prescribed. Oral options are typica
 - Budesonide-formoterol 320-9 mcg one inhalation qid
 
 In patients with ≥2 cardinal exacerbation symptoms (increased dyspnea, increased sputum volume/viscosity, or increased sputum purulence), empiric [[antibiotics]] are used. 
-- No risk factors: macrolide or 3rd-gen cephalosporin
+- No risk factors: macrolide or [[Antibiotics#3rd generation|3rd-gen cephalosporin]]
 - Risk factors for poor outcomes: amoxicillin-clavulanate or fluoroquinolone
 - Risk for Pseudomonas infection: ciprofloxacin
 ### Emergency / Inpatient

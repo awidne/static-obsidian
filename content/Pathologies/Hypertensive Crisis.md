@@ -17,7 +17,7 @@ Hypertensive crisis is defined as SBP ≥180 mmHg or DBP ≤120 mmHg.
 
 **Hypertensive urgency** refers to a crisis without acute target organ damage.
 
-**Hypertensive emergency** refers to a crisis with life-threatening complications such as stroke, myocardial infarction, acute kidney injury, or aoortic dissection. 
+**Hypertensive emergency** refers to a crisis with life-threatening complications such as stroke, myocardial infarction, acute kidney injury, or aortic dissection. 
 ### Etiology
 The etiology of crisis is multifactorial. Common etiologies and/or precipitating factors include:
 
@@ -49,7 +49,9 @@ The etiology of crisis is multifactorial. Common etiologies and/or precipitating
 ### Pathogenesis
 The manifestations of hypertensive emergencies arise when blood pressure increases rapidly and significantly over a short period.
 
-The mechanism behind the organ damage is complex and involves vascular, neurohormonal, and endothelial dysfunction. Some key factors include:
+The mechanism behind the organ damage is complex and involves vascular, neurohormonal, and endothelial dysfunction. The major mechanism resulting in symptoms is the **mechanical stress on the vasculature** caused by the raise in BP.
+
+Some other key factors include:
 - Increased systemic vascular resistance (from RAAS activation)
 - Pressure natriuresis
 - Tissue hypoperfusion
@@ -76,7 +78,7 @@ These mechanisms contribute to oxidative stress, vasoconstriction, vasospasms, a
 **Micro and macroangiopathy**
 Hypertension causes damage to the small and large blood vessels which can result in various conditions and syndromes based on where the vessels are.
 
-**Activation of inflammatory nad coagulation pathways**
+**Activation of inflammatory and coagulation pathways**
 Activation of coagulation cascade increases the risk of thrombosis and microthrombi formation. Thrombotic obliteration of small vessels and disseminated intravascular coagulation can compromise tissue perfusion, contributing organ damage.
 ## Clinical Presentation
 ### Signs & Symptoms
@@ -151,9 +153,11 @@ In patients without acute or worsening hypertension-mediated organ damage, hospi
 
 Management consists of adjustment of existing [[Antihypertensives|antihypertensive therapy]] or adding additional oral agents.
 
+The goal is to decrease BP over days to weeks.
+
 Note that there is an increased risk of developing hypertensive emergency and thus timely follow-up is crucial to confirm adequate blood pressure control.
 ### Hypertensive emergency
-The goal of treating hypertensive emergencies is to minimize organ damage through controlled reduction of blood pressure. A rapid or excessive reduction is not recommended as the body may have adapted to the chronically elevated pressures and doing so can lead to ischemic injury.
+The goal of treating hypertensive emergencies is to minimize organ damage through controlled reduction of blood pressure. A rapid or excessive reduction is not recommended as the body may have adapted to the chronically elevated pressures and doing so can lead to ischemic injury. The underlying condition should be treated.
 
 Generally, targets are:
 - Reduce by <25% in first hour

@@ -29,7 +29,7 @@ Other conditions include:
 - Stable myocardial ischemia (angina)
 - [[Congestive Heart Failure|Heart failure]]
 - Pericarditis/myopericarditis
-- Myocarditis
+- Myocarditis - not necessarily emergent but can worsen rapidly so consider sending to ED
 - Stress cardiomyopathy (takotsubo)
 - Aortic valve disease
 - Mitral valve disease
@@ -40,9 +40,9 @@ Other conditions include:
 - Asthma/[[Chronic Obstructive Pulmonary Disorder|COPD]]
 - Pleuritis
 - Sarcoidosis
-- Acute chest syndrome (sickle cell anemia)
+- Acute chest syndrome (anemia)
 - Pulmonary hypertension
-**Gastrointestinal**
+**Gastrointestinal** (symptoms after eating)
 - [[Gastroesophageal reflux disease]]
 - Peptic ulcer disease
 - Esophageal motility disorders
@@ -51,7 +51,7 @@ Other conditions include:
 - Hiatal hernia
 - Cholecystitis and associated gallbladder diseases
 - Pancreatitis
-**Musculoskeletal**
+**Musculoskeletal** (worse with palpation/movement)
 - Isolated MSK chest pain syndrome
 - Rheumatic diseases
 - Rib pain

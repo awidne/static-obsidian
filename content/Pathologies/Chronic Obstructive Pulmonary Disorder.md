@@ -30,7 +30,14 @@ The most common cause is **cigarette smoking**. Other causes include:
 ### Pathogenesis
 COPD is an inflammatory condition of the airways, lung parenchyma, and pulmonary vasculature. The inflammatory response is triggered by irritants which causes neutrophils and macrophages to be recruited and release inflammatory mediators.
 
-Oxidative stress and protease-antiprotease imbalances results destruction of the alveolar air sacs (emphysema) which causes obstructive physiology. The obstruction results in a decrease in forced expiratory volume (FEV1) and tissue destruction that leads to further airflow limitations and impaired gas exchange.
+Repeated injury to the bronchial tree results in fibrosis that narrows the airway (chronic bronchitis). This is due to mucosal thickening and excess mucus. Other airway changes that occur include increased goblet cells and loss of tethering due to destruction of alveolar walls.
+
+Oxidative stress and protease-antiprotease imbalances results destruction of the alveolar air sacs (emphysema) which causes alveolar collapse and obstruction. Types of emphysema are:
+- Centriacinar / centrilobular: central or proximal alveoli affected, primarily upper lobes, and associated with cigarette smoking
+- Panacinar: entire acinus is uniformly affected, primarily lower lobes, associated with alpha-1 antitrypsin deficiency
+- Paraseptal: distal alveoli, in periphery of the lobules
+
+The obstruction results in a decrease in forced expiratory volume (FEV1) and tissue destruction that leads to further airflow limitations and impaired gas exchange.
 
 Obstruction also causes hyperinflation and air trapping due to airway collapse during exhalation. CO2 retention and subsequent elevation in CO2 levels occur and pulmonary hypertension can occur due to vasoconstriction from hypoexemia.
 
@@ -72,15 +79,14 @@ An **assessment of the severity of symptoms** should be done in anticipation of 
 - Grade 1: SOB when hurrying on level ground or walking up slight hill
 - Grade 2: slower than people of same age walking due to SOB or have to pause for breath when walking
 - Grade 3: stop for breath <100m of walking or after a few minutes on level ground
-- Grade 4: too breathless to leave house or SOB when dressing
-or the [COPD assessment test](https://www.mdcalc.com/calc/10161/copd-assessment-test-cat#next-steps) (CAT) which scores and sums the following symptoms from 0-5:
-- Cough (no cough - cough all the time)
-- Phlegm (no phlegm - completely full of phlegm)
-- Chest tightness (none - very tight)
-- Breathlessness (none - with one flight of stairs)
-- Activities (no limitations - very limited at home)
-- Confidence (confident leaving home - not confident)
-- Sleep (lots of energy - no energy at all)
+- Grade 4: too breathless to leave house or SOB when dressing or the [COPD assessment test](https://www.mdcalc.com/calc/10161/copd-assessment-test-cat#next-steps) (CAT) which scores and sums the following symptoms from 0-5:
+	- Cough (no cough - cough all the time)
+	- Phlegm (no phlegm - completely full of phlegm)
+	- Chest tightness (none - very tight)
+	- Breathlessness (none - with one flight of stairs)
+	- Activities (no limitations - very limited at home)
+	- Confidence (confident leaving home - not confident)
+	- Sleep (lots of energy - no energy at all)
 
 A GOLD symptom group can be assigned:
 - GOLD Group A: 
@@ -100,6 +106,13 @@ Physical exams may or may not reveal findings but assessment of respiratory syst
 - History of fume and dust exposure
 - Pulmonary/systemic infections (eg. tuberculosis)
 - Possible genetic predisposition
+
+Other factors that exacerbates or associated with COPD are:
+- Sleep disorders
+- Lung cancer
+- Cardiovascular diseases
+- Bronchiectasis
+- Metabolic syndrome
 ## Diagnosis
 ### Criteria
 Diagnosis of COPD is made using clinical features, spirometry, and by exclusion of other alternatives.
@@ -120,7 +133,7 @@ An assessment of severity should be made using the GOLD strategy based on FEV1:
 - GOLD 3 (severe): 30-50%
 - GOLD 4 (very severe): <30%
 
-Further classification of symptoms can be made using the mMRC dyspnea and GOLD symptoms scale discussed [[#History & Physical Exam|above]].
+Further classification of symptoms can be made using the mMRC dyspnea and GOLD symptoms scale discussed [[#History & Physical Exam|above]] for treatment. The CTS guidelines can also be used to stratify patients based on the CAT score.
 
 In cases where spirometry is not possible, **thoracic CT** can find emphysema, air trapping, and airway remodelling which would support a diagnosis of COPD. This not routine.
 ### Work-up
@@ -137,7 +150,7 @@ Additional testing including bloodwork may be done to rule out alternative diagn
   ![[Chronic Obstructive Pulmonary Disorder-3.png|400]]
 - Other signs of COPD such as pulmonary hypertension
 
-In many patients, a smoking etiology is typically assumed. However, it is reasonable to perform alpha-1 antitrypsin testing as a potential cause or as a contributory factor.
+In many patients, a smoking etiology is typically assumed. However, it is reasonable to perform alpha-1 antitrypsin testing as a potential cause or as a contributory factor. In such a case, consider screening for [[Metabolic Dysfunction-Associated Steatotic Liver Disease|metabolic dysfunction-associated steatotic liver disease]].
 
 In cases of more severe disease, it may also be beneficial for the patient to undergo exercise capacity and pulmonary function testing.
 ### Differential
@@ -166,12 +179,16 @@ End-stage and chronic respiratory failure manifests as attempts to relieve dyspn
 - Cyanosis
 - Asterixis
 - Enlarged, tender liver (right heart failure)
+
+Other complications include:
+- Cor pulmonale and right heart failure
+- Polycythemia
 ## Management
 ### Lifestyle / Social
 Non-pharmacological management should be used whether pharmacological means are used or not.
 
 Patients should be educated/counselled on:
-- [[Smoking cessation]]
+- [[Smoking Cessation]]
 - Correct inhaler technique
 - Vaccination to prevent exacerbations
 - Healthy weight and nutrition
@@ -195,7 +212,7 @@ For patients taking a long-acting muscarinic antagonist (LAMA), a short-acting b
 For patients not taking a LAMA, a SABA-SAMA option is recommended. Without overlap with the LAMA, the combination is beneficial as muscarinic antagonists predominantly affect proximal large airways while beta agonist act on distal small airways and they have separate mechanisms of action.
 - Ipratropium-salbutamol (Combivent Respimat) 1 puff q4-6h prn
 
-**GOLD Group A**
+**GOLD Group A** 
 For less symptomatic patients at low risk of exacerbation, a **long-acting bronchodilator**, either a long-acting beta agonist (LABA) or LAMA, is recommended.
 
 LAMAs are generally preferred over LABAs as they have greater effect but efficacy is comparable enough that choice can be made based on their side effect profiles.
@@ -226,6 +243,9 @@ In patients with high risk of exacerbation and thus the highest risk of hospital
 Initial therapy consist of a **LAMA-LABA dual bronchodilator** and is generally sufficient.
 
 In patients presenting with elevated eosinophil counts or hospitalizations, it is reasonable to use a **LAMA-LABA-ICS** as initial therapy as the benefits may outweigh the side effects of the ICS.
+
+**End-stage**
+In the most severe forms, macrolide prophylaxis may be necessary and managed by respirology.
 ## References
 ### Tools / Guidelines
 [GOLD Report 2025](https://goldcopd.org/2025-gold-report/)

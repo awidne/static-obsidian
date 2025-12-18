@@ -39,6 +39,8 @@ Insulin also inhibits proteolysis and stimulates protein synthesis, maintains fa
 Normal blood glucose levels should be:
 - 3.8-6.1 mmol/L fasting
 - <7.8 mmol/L 2 hrs post-prandial
+
+The range for glucose should stay within 4.0-10.0 mmol/L. Glucose will enter the urine when blood glucose ≥14.0 mmol/L.
 ## Clinical Presentation
 
 ### Signs & Symptoms
@@ -59,8 +61,8 @@ Other non-specific symptoms may include:
 - Calf cramps/peripheral neuropathy
 
 Insulin resistance can also manifest with cutaneous signs such as:
-- Benign acanthosis nigricans
-- Acrochordons
+- Benign acanthosis nigricans (hyperpigmented plaque on neck and axilla)
+- Acrochordons (benign skin tags)
 ### History & Physical Exam
 Assessment of risk factors should be done annually for T2DM. Further screening by blood testing based on risk factors and age vary in frequency from every 6 months to every 3 years.
 ![[Diabetes Mellitus, Type 2-1.png]]
@@ -99,6 +101,8 @@ For FPG (≥8 hr fasting):
 OGTT:
 - Impaired fasting glucose: 7.8-11.0 mmol/L
 - Diabetes: ≥11.1 mmol/L
+
+A CBC is obtained to validate the A1C. A1C is a function of Hb turnover (longer RBC age is associated with falsely elevated A1C).
 ### Work-up
 Initial workup of blood glucose test can be done for screening and/or diagnosis.
 
@@ -121,11 +125,14 @@ C-peptide testing and islet autoantibody testing can distinguish between [[Diabe
 ### Red Flags / Complications
 Uncontrolled or poorly controlled diabetes can manifest in a number of complications, both acute and chronic.
 
-Acute complications include [[hyperglycemic crisis]] (incl. diabetic ketoacidosis and hyperglycemic hyperosmolar state) and hypoglycemia.
+Acute complications include hyperglycemic crisis (incl. [[Diabetic Ketoacidosis|diabetic ketoacidosis]] and [[Hyperosmolar Hyperglycemic State|hyperosmolar hyperglycemic state]]) and hypoglycemia.
 
-Chronic macrovascular complications are coronary artery disease, peripheral artery disease, and cerebrovascular disease. 
+Chronic macrovascular complications are [[Coronary Artery Disease|coronary artery disease]], peripheral artery disease, and cerebrovascular disease. 
 
-Chronic microvascular complications are neuropathy, retinopathy, and nephropathy.
+Chronic microvascular complications are:
+- Neuropathy (peripheral sensory loss which includes increased risk of foot ulcers and autonomic dysfunction which includes gastroparesis, cardiovascular, and sleep disturbances)
+- Retinopathy (vision loss and blindness, cotton wool spots)
+- Nephropathy 
 ## Management
 ### Targets
 In most adults, an A1C target of ≤7.0% is ideal to minimize risk of symptomatic hyperglycemia and complications.
@@ -140,15 +147,15 @@ Blood glucose targets for most patients:
 ### Lifestyle / Social
 Diet and physical activity modifications should be recommended for all diabetic patients regardless of pharmacological therapy. Management of weight can reduce insulin resistance and impaired beta cell function. 
 
-**Diet:**
+**Diet**
 Patients should be educated on caloric restriction and in reducing consumption of sugar-sweetened beverages and other high glycemic index foods.
 
-**Exercise:**
+**Exercise**
 Patients should be encouraged to decreased sedentary time and perform 30-60 minutes of moderate-intensity aerobic activity on most days, totalling at least 150 minutes per week. Consider resistance training especially in patients who are not overweight in the absence of contraindications.
 ### Pharmacological / Interventional
 Pharmacologic therapy should be initiated if A1C are at or above target levels in addition to lifestyle modifications. For highly motivated patients with A1C near target, a 3-6 month trial of lifestyle modifications can be considered prior to pharmacologic therapy.
 
-Pharmacological therapy consist of [[Antihyperglycemics|antihyperglycemics]] and/or [[insulin]].
+Pharmacological therapy consist of [[Antihyperglycemics|antihyperglycemics]] and/or [[Insulin]]. Insulin is often a late-stage treatment (following beta-cell dysfunction) as T2DM is characterized by insulin resistance which insulin does not address.
 
 Choice of medication often follows a sequential addition of agents:
 1. Initial monotherapy of metformin
@@ -168,4 +175,5 @@ Note that with sequential steps, previous step medications should be continued t
 ### Tools / Guidelines
 Diabetes Canada: https://guidelines.diabetes.ca/GuideLines/media/Docs/Quick%20Reference%20Guide/2024-CPG-Quick-Reference-Guide.pdf
 
+Insulin Precribing: https://guidelines.diabetes.ca/GuideLines/media/Docs/Key%20Messages/Insulin_Prescription_EN_09_23.pdf
 ### Additional Reading
