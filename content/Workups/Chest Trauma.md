@@ -87,7 +87,7 @@ A comprehensive assessment should be made for bruising, abrasions, and penetrati
 
 In cases of MVAs, the "seat belt sign" can indicate internal injury.
 ## Investigations
-Immediate evaluation with a [[Focused Assessment with Sonography for Trauma (FAST)]] should be used. 
+Immediate evaluation with a [[Extended Focused Assessment with Sonography in Trauma (eFAST)]] should be performed. 
 
 Chest radiography and CT is often used for evaluation of structures once patient is stable.
 

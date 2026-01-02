@@ -33,6 +33,7 @@ A number of causes can result in hypokalemia. Broadly, they are categorized:
 	- Renal tubular acidosis
 	- Genetic conditions
 - Diarrhea/vomiting
+- NG tube suctioning
 ### Pathogenesis
 Potassium is integral to many physiological processes within the body and disruption to its levels result in the myriad of symptoms which present.
 

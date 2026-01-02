@@ -124,7 +124,7 @@ Diagnoses with abdominal pain can be varied and discussed separately in its own 
 A number of other conditions are related to gallstones or the gallbladder which may present similarly.
 - Acute [[cholecystitis]] - more severe and unrelenting pain, mass may be palpated in RUQ due to edematous and thickened gallbladder. May also have fever and/or tachycardia
 - Common bile duct obstruction - jaundice is common and more epigastric pain if pancreas is affected
-- [[Ascending cholangitis]]
+- [[Ascending Cholangitis]]
 ### Red Flags / Complications
 Gallstones can impede gallbladder motility and result in inflammation:
 - Acute or chronic cholecystitis

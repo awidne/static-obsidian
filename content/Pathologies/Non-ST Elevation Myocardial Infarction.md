@@ -73,6 +73,13 @@ Additional therapy includes:
 Following diagnosis, angiography and intervention are indicated for early intervention and prevent worse cardiac events.
 
 Decision to revascularize depends on cardiac risk stratification using the **TIMI score** (score ≥2):
+- Age ≥65
+- Presence of at least three risk factor for CAD (ie. DM, hypertension, hyperlipidemia, smoking, FHx)
+- Previous hx of coronary stenosis of 50% or more
+- Presence of ≥2 episodes of angina 24 hours prior to presentation
+- Aspirin use in past 7 days
+- ST-segment deviations ≥0.05 mV on initial ECG at admission
+- Elevated serum cardiac markers of necrosis
 ### Prevention of arrhythmias
 Arrhythmias are often seen during and after the acute phase of NSTEMIs. Prophylactic use of beta blockers and treatment of hypokalemia and hypomagnesemia is recommended.
 ## References

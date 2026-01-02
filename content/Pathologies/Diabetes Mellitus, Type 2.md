@@ -163,17 +163,19 @@ Choice of medication often follows a sequential addition of agents:
 2. Addition of further antihyperglycemic agent(s)
 	- Selection may be due to comorbidities (such as kidney disease or heart failure) or risk factors (such as hypoglycemia risk)
 3. Add basal insulin
-	- Titrated to fasting glucose in target range
+	- Start with 10 units qHS
+	- Titrated to fasting glucose in target range (4-7 mmol/L) by increasing dose by 1 unit every night
 4. Add bolus insulin once daily
-	- Injected with largest meal of day, titrated to postprandial glucose
+	- Use bolus of 10% basal dose with largest meal of day
 5. Multiple bolus insulin at all meals
+	- Calculate total daily insulin (TDI) = 0.5 units/kg
+	- 40% TDI as basal insulin
+	- 60% TDI bolus split with each meal
 
 Note that with sequential steps, previous step medications should be continued to be optimized. With addition of insulin, consider hypoglycemic risk and interactions with antihyperglycemic agents such as secretagogues. 
-
 ## References
 
 ### Tools / Guidelines
 Diabetes Canada: https://guidelines.diabetes.ca/GuideLines/media/Docs/Quick%20Reference%20Guide/2024-CPG-Quick-Reference-Guide.pdf
-
-Insulin Precribing: https://guidelines.diabetes.ca/GuideLines/media/Docs/Key%20Messages/Insulin_Prescription_EN_09_23.pdf
+Insulin Prescribing: https://guidelines.diabetes.ca/GuideLines/media/Docs/Key%20Messages/Insulin_Prescription_EN_09_23.pdf
 ### Additional Reading

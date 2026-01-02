@@ -21,13 +21,13 @@ tags: [[Anatomy & Physiology]]
 | Platelet count     | 150         | 400         | x10^9 /L       |
 | Reticulocyte count | 20          | 100         | x10^9 /L       |
 
-| Leukocyte   | Lower limit | Upper limit | Unit |
-| ----------- | ----------- | ----------- | ---- |
-| Lymphocytes |             |             |      |
-| Neutrophils |             |             |      |
-| Basophils   |             |             |      |
-| Monocytes   |             |             |      |
-| Eosinophils |             |             |      |
+| Leukocyte   | Lower limit | Upper limit | Unit      |
+| ----------- | ----------- | ----------- | --------- |
+| Lymphocytes | 1000        | 4000        | cells/mm3 |
+| Neutrophils | 2500        | 8000        | cells/mm3 |
+| Basophils   | 25          | 100         | cells/mm3 |
+| Monocytes   | 100         | 700         | cells/mm3 |
+| Eosinophils | 50          | 500         | cells/mm3 |
 
 ## Electrolytes
 
@@ -35,17 +35,17 @@ tags: [[Anatomy & Physiology]]
 | ----------- | ----------- | ----------- | ------ |
 | Sodium      | 135         | 145         | mmol/L |
 | Potassium   | 3.5         | 5.0         | mmol/L |
-| Chloride    |             |             |        |
-| Bicarbonate |             |             |        |
+| Chloride    | 96          | 106         | mmol/L |
+| Bicarbonate | 22          | 29          | mmol/L |
 Always order creatinine with electrolytes
 ## Renal function tests
 
-|            | Lower limit | Upper limit | Unit    |
-| ---------- | ----------- | ----------- | ------- |
-| Creatinine | 50          | 100         | mcmol/L |
-| GFR        |             |             |         |
-| ACR        | -           | 3.0         |         |
-
+|            | Lower limit | Upper limit | Unit          |
+| ---------- | ----------- | ----------- | ------------- |
+| Creatinine | 50          | 100         | mcmol/L       |
+| GFR        | 90          | -           | mL/min/1.73m2 |
+| ACR        | -           | 3.0         |               |
+Note: GFR not concerning until ≤60
 ## Liver studies
 Note that reference ranges vary based on laboratory. Below are typical values.
 
@@ -72,7 +72,8 @@ Liver function tests (synthetic):
 |     | Lower limit | Upper limit | Unit |
 | --- | ----------- | ----------- | ---- |
 | TSH |             | 5           |      |
-|     |             |             |      |
+| T3  |             |             |      |
+| T4  |             |             |      |
 ## Inflammatory markers
 |     | Lower limit | Upper limit | Unit |
 | --- | ----------- | ----------- | ---- |
@@ -84,7 +85,7 @@ Arterial blood gas
 |       | Lower limit | Upper limit | Unit  |
 | ----- | ----------- | ----------- | ----- |
 | PaCO2 | 35          | 45          | mmHg  |
-| HCO3  | 22          | 26          | mEq/L |
+| HCO3  | 22          | 29          | mEq/L |
 
 ## Resources
 https://mcc.ca/examinations-assessments/resources-to-help-with-exam-prep/normal-lab-values/

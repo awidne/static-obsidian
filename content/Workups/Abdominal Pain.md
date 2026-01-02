@@ -31,7 +31,7 @@ Referred pain may also occur with the associated dermatome entering the spinal c
 **Right Upper Quadrant**
 - [[Cholelithiasis]] (gallstones)
 - [[Cholecystitis]]
-- [[Ascending cholangitis]]
+- [[Ascending Cholangitis]]
 - Sphincter of Oddi dysfunction
 - Hepatitis
 - Perihepatitis
