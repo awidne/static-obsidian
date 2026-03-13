@@ -100,7 +100,7 @@ For maintenance therapy and for milder hypertension (SBP 140-149 mmHg, DBP 90-99
 - Methyldopa PO
 - Hydralazine PO
 
-Some studies have suggested **low-dose aspirin** may reduce the risk of progression to preeclampsia. However, this is not routine.
+Some studies have suggested **low-dose aspirin** may reduce the risk of progression to preeclampsia. However, this is not routine and is generally only indicated for high risk individuals.
 
 **Delivery planning** is also crucial for hypertensive disorders of pregnancy. For patients with gestational hypertension and no other complications, a 38+0 to 39+0 weeks delivery is recommended for an optimal balance of low maternal and neonatal morbidity/mortality. In more complicated patients (eg. with comorbidities and risk factors), an earlier delivery may be considered (eg. 37+0 weeks).
 ## References

@@ -1,263 +1,237 @@
 ---
 aliases:
-  - AUB
-  - abnormal uterine bleeding
+  - antihyperglycemics
+  - diabetes medications
 ---
---- 
+---
 
-creation date: 2025-07-27 18:54 
-tags: [[Pathologies]]
+creation date: 2025-07-29 23:19 
+tags: [[Pharmacology]]
 
 ---
-# Abnormal Uterine Bleeding
+# Antihyperglycemics
+The typical prescribing order is as follows, moving down the list to improve glycemic control:
+1. Metformin
+2. SGLT2i
+3. GLP-1 (may be skipped if needle-adverse)
+4. DPP-4
+5. Sulfonylurea
+## Biguanide
+###### Mechanism of action
+Enhances the effect of insulin:
+- Reduce insulin resistance by inhibiting mitochondrial glycerophosphate dehydrogenase (mGPD) which reduces hepatic gluconeogenesis and intestinal glucose absorption
+- Increases peripheral insulin sensitivity which increases peripheral glucose update and glycolysis
+- Lowers postprandial and FBG levels
+- Reduces LDL, increases HDL
+###### Additional characteristics
+- Glycemic efficacy: reduce HbA1C by 1.2-2% over 3 months
+- Weight loss or stabilization
+- No risk of hypoglycemia
+- Beneficial effect on dyslipidemia
+- Reduces risk of macroangiopathic complications of diabetes
+###### Adverse effects
+- Metformin-associated lactic acidosis (especially in elderly or patients with renal insufficiency or CHF)
+- Vitamin B12 deficiency
+- Metallic taste in mouth
+###### Contraindications
+- Renal failure
+- IV contrast (due to reduction in elimination)
+- Heart failure, resp failure, shock, sepsis
+- Alcoholism/severe liver failure
+- Chronic pancreatitis, starvation ketosis, ketoacidosis
+- Simultaneous sulfonylurea use (due to increased cardiovascular mortality)
 
-## Background
-### Definitions
-Abnormal uterine bleeding (AUB) is a broad diagnosis that describes irregularities in the menstrual cycle, specifically in non-pregnancy patients.
+- Note: should be paused prior to surgery.
+###### Examples
+- Metformin
+- Many other medication classes have combination drugs with metformin
+## Incretin-related
+Incretins are digestive tract hormones that increases insulin secretion from the beta-cells of the pancreas. The two major incretins are GLP-1 and GIP.
 
-A normal menstrual cycle is defined as:
-- Frequency of 24-38 days regularly
-- Lasts 2-7 days
-- Consist of 5-80 mL of blood loss
-and as such, AUB is characterized by variations of frequency, regularity, duration, and volume outside of normal parameters (5th and 95th percentiles).
+Normal GLP-1 action: released on food intake, degraded by DPP-4
+### DPP-4 inhibitors
+Dipeptidyl peptidase-4 inhibitors (gliptins)
+###### Mechanism of action
+Indirectly increases endogenous incretin by inhibiting DPP-4. This results in greater insulin secretion and decreased glucagon secretion.
+###### Additional characteristics
+- Glycemic efficacy: reduce HbA1C by 0.5-0.75% over 3 months
+- No risk of hypoglycemia on its own as insulin release is glucose-dependent
+###### Adverse effects
+- Gastrointestinal symptoms (milder than GLP-1 agonist)
+- Arthralgia
+- Increased satiety due to delayed gastric emptying
+- Nasopharyngitis and URTI
+- Urinary infections
+- Increased risk of pancreatitis
+- Worsening renal function
+- Headache, dizziness
+###### Contraindications
+- Liver failure
+- Renal failure
+###### Examples
+- Sitagliptin (Januvia)
+- Saxagliptin (Onglyza)
+- Linagliptin (Trajenta)
+- Alogliptin (Nesina)
 
-A number of descriptive terms are used for specific variations (replaces former terms menorrhagia, metrorrhagia, and oligomenorrhea).
-- **Heavy menstrual bleeding** (HMB) is characterized by bleeding >80 mL or heavy enough to interfere with quality of life 
-- **Intermenstrual bleeding** refers to cyclical or random spontaneous bleeding between menstrual periods
-- **Breakthrough bleeding** (BTB) refers to bleeding on hormone medication
-
-AUB is also defined by acuity. 
-- Acute AUB refers to excessive bleeding that requires immediate intervention to prevent further blood loss
-- Chronic AUB refers to menstrual irregularities for most of the previous 6 months
-### Etiology
-Potential causes of AUB can be categorized into structural and nonstructural etiologies using the PALM-COEIN classification.
-
-**Structural etiologies**
-Polyp (P):
-- Endometrial or endocervical polyps - focal outgrowths of tissue
-- Can be asymptomatic or cause intermenstrual bleeding
-- Generally benign but can have malignancy risk
-Adenomyosis (A):
-- Presence of endometrial tissue within uterine muscle
-- Associated with heavy, painful, or prolonged menstruation
-- May result in uterine enlargement
-Leiomyoma (L):
-- Aka fibroids
-- Benign smooth muscle tumours
-- Can lead to heavy or prolonged menstrual bleeding, especially if large or submucosal; many are asymptomatic
-Malignancy and hyperplasia (M):
-- Includes hyperplasia and cancers
-- Presents with unpredictable bleeding
-- May be mediated by estrogen exposure without progesterone opposition
-
-**Nonstructural etiologies**
-Coagulopathy (C):
-- Systemic bleeding disorders resulting in heavy menstrual bleeding
-Ovulatory dysfunction (O):
-- Eg. PCOS, hypothalamic disorder, thyroid dysfunction
-- Leads to infrequent, irregular, heavy, or prolonged bleeding due to inconsistent ovulation
-Endometrial disorders (E):
-- Localized issues in endometrium resulting in inability to control bleeding
-- Eg. inflammation, infection, vasoconstriction abnormalities
-Iatrogenic (I):
-- Medications (eg. hormonal contraceptives, anticoagulants, tamoxifen)
-- Surgical injury
-Not otherwise classified (N):
-- Poorly understood causes
-- Eg. arteriovenous malformations, chronic endometritis, cesarean scar defects
-
-Note that causes are not exclusive and may occur simultaneously to contribute. 
-### Pathogenesis
-The menstrual cycle involves an intricate interplay between endocrine, immune, and vascular system. Endometrial changes involve epithelial and stromal apoptosis, inflammatory mediator release, etc. Hemostasis also requires spiral arteriole constriction, clot formation, and tissue regeneration.
-
-Any dysregulation of these processes may result in AUB. The exact mechanisms also differ based on the etiology. For example, ovulatory dysfunction results in disruptions to the hypothalamic-pituitary-ovarian axis while structural causes like fibroids can disrupt myometrial contractility, paracrine signalling, and vascular function.
-## Clinical Presentation
-### Signs & Symptoms
-As mentioned by definition, AUB consist of abnormalities in one or more flow parameters:
-- Frequency - frequent (<24 days), normal (24-38 days), infrequent (>38 days), or absent
-- Regularity - absent, regular (variation ±2-7 days), or irregular (variation >20 days)
-- Duration - prolonged (>8 days) or normal ≤8 days)
-- Volume - heavy (>80 mL), normal (5-80 mL), or light (<5 mL); note, measurements may not be possible, approx. change of pad/tampon every 1-2 hours
-
-Other findings that may be specific to an etiology include:
-- Intermenstrual and/or postcoital bleeding
+With metformin:
+- Sitagliptin/metformin (Janumet)
+- Saxagliptin/metformin (Komboglyze)
+- Linagliptin/metformin (Jentadueto)
+- Alogliptin/metformin (Kazano)
+### GLP-1 receptor agonists
+Glucagon-like peptide-1 receptor agonist
+###### Mechanism of action
+Incretin mimetic drugs bind to the GLP-1 receptors and are resistant to DPP-4 degradation. This results in increased insulin secretion, decreased glucagon secretion, and reduced gastric emptying.
+###### Additional characteristics
+- Glycemic efficacy: reduce HbA1C by 0.5-1.5% over 3 months
+- Subcutaneous injection (except semaglutide which is also PO)
 - Weight loss
-- Pain
-- Discharge
-- Bowel or bladder symptoms
-- Signs/symptoms of:
-	- Anemia
-	- Bleeding disorder
-	- Endocrine disorder
-### History & Physical Exam
-**Hemodynamic stability should be assessed initially**. Signs of instability (eg. tachycardia, hypotension, orthostatic) may require emergency department attention. This is discussed further [[#Red Flags / Complications|below]].
+- No risk of hypoglycemia
+- Cardiovascular benefit (MACE)
+###### Adverse effects
+- Gastrointestinal symptoms
+- Pancreatitis and possibly pancreatic cancer
+- Potential risk of medullary thyroid cancer (evidence unclear)
+###### Contraindications
+- Preexisting symptomatic GI motility disorders
+- Chronic pancreatitis or family history of pancreatic cancer
+- Personal or family history of medullary thyroid cancer
+###### Examples
+In order of effect magnitude:
+- Tirzepatide (GIP/GLP-1ra) (Mounjaro)
+- Semaglutide (Ozempic; Wegovy)
+- Liraglutide (Victoza; Saxenda)
+- Dulaglutide (Trulicity)
+- Exenatide (Byetta)
+- Lixisenatide (Adlyxine)
+## SGLT-2 inhibitors
+Sodium-glucose cotransporter 2 inhibitors (gliflozins)
+###### Mechanism of action
+Reversible inhibition of SGLT-2 in the proximal tubule of the kidney. This decreases glucose reabsorption in the kidney resulting in glycosuria and polyuria.
+###### Additional characteristics
+- Glycemic efficacy: reduces HbA1C by 0.6% over 3 months
+- Particularly effective for young, compliant patients without significant renal failure (even more-so with males due to reduced risk of UTI)
+- Promotes weight loss
+- Reduces blood pressure
+- Reduces cardiovascular risk in diabetics with cardiovascular disease (MACE)
+	- Mortality benefits for CHF
+	- Potential benefits for kidney disease
+###### Adverse effects
+- UTIs, genetals infections due to glucosuria
+- Dehydration can cause weight loss and orthostatic hypotension
+- Severe diabetic ketoacidosis
+- May increase risk of lower limb amputation and bladder/breast cancer
+###### Contraindications
+- Chronic kidney disease
+- Recurrent urinary tract infections
+- Peripheral arterial disease (relative due to risk of amputation)
+###### Examples
+- Dapagliflozin (Forxiga)
+- Empagliflozin (Jardiance)
+- Canagliflozin (Invokana)
 
-**Outpatient history** consist of gynecologic and obstetric history:
-- Recent or current pregnancy
-- Menstrual history including last menstrual period, frequency, regularity, duration, volume, intermenstrual bleeding, and associated symptoms such as cramping
-- Relation to sex (eg. deep penetration) or precipitating factor (eg. trauma, procedure)
+With metformin:
+- Dapagliflozin/metformin (Xigduo)
+- Empagliflozin/metformin (Synjardy)
+- Canagliflozin/metformin (Invokamet)
+## Alpha-glucosidase inhibitor
+**Not used in practice**
+###### Mechanism of action
+Inhibits alpha-glucosidase, a brush border enzyme expressed by intestinal epithelial cells, which breaks down complex carbohydrates into simple sugars such as glucose. 
 
-Sexual history:
-- Possible pregnancy
-- Risk of sexually transmitted infections (eg. causing cervicitis and cervical bleeding)
+Inhibition results in reduced carbohydrate breakdown and thus reduced glucose absorption.
+###### Additional characteristics
+- Glycemic efficacy: reduce HbA1C by 0.8% over 3 months
+- No risk of hypoglycemia
+- Particularly effective for controlling postprandial blood glucose levels
+###### Adverse effects
+- Gastrointestinal symptoms including flatulence and bloating due to degradation of undigested carbohydrates by intestinal bacteria
+###### Contraindications
+- Severe renal failure
+- Inflammatory bowel disease
+- Conditions associated with malabsorption
+###### Examples
+- Acarbose
+## Insulin secretagogue
+### Sulfonylureas
+###### Mechanism of action
+Blocks ATP-sensitive potassium channels of pancreatic beta-cells which depolarizes the cell membrane resulting in insulin secretion.
 
-Obstetric or gynecologic surgery:
-- C-sections
-- Myomectomy
-- Excisional cervical procedures
-
-Contraceptive history:
-- Estrogen-progestin or progestin-only contraceptives (unscheduled, decreased, absent menstruation)
-- Copper IUD (increased menstrual flow)
-
-Assessment of medical history:
-- Medications (eg. anticoagulants)
-- Bleeding disorders
-- Endocrine disorders
-- Risk factors for endometrial cancer
-- Other conditions (eg. diabetes, celiac disease, CKD, opioid use disorder)
-
-**Physical exam** should examine for:
-- Systemic illness
-- Evidence of endocrine disorders
-
-A complete pelvic exam should also be performed focusing on potential sites of bleeding, current bleeding (including presence of clots), size and contour of uterus, presence of mass or tenderness.
-### Risk factors
-Risk factors vary based on the etiology. Generally:
-- Overweight or obesity
-- Medication (eg. blood thinners)
-- Contraceptive/IUD use
-- Past history of specific etiology (eg. fibroids)
-## Diagnosis
-### Criteria
-
-### Work-up
-Beyond history and physical exam, patients should undergo:
-- **Pregnancy testing** - urine hCG; serum hCG should be considered if pregnancy is still suspected
-- **Pelvic ultrasound** - transvaginal generally sufficient, consider transabdominal if uterus cannot be assessed with transvaginal
-
-Specific details of the workup depends on the history and physical. 
-
-**Heavy menstrual bleeding**
-Imaging can assess for the following:
-- Uterine fibroids
-- Adenomyosis
-- Endometrial polyps
-- Uterine arteriovenous malformation (rare but may follow invasive procedure eg. D&C)
-
-Laboratory tests should be done to assess for anemia:
-- CBC
-- Ferritin and serum iron
-- Consider TSH if suspect thyroid disease
-
-Endometrial sampling can be performed if there are suspicions of uterine malignancy.
-
-**Intermenstrual bleeding**
-Imaging can assess for:
-- Endometrial polyps
-- Cesarean scar defect
-
-Endometrial sampling is typically performed, especially if uterine malignancy or chronic endometritis is suspected.
-
-**Irregular bleeding**
-Irregular bleeding is most commonly associated with ovulatory dysfunction which occurs at the extremes of reproductive age. Further evaluation is not necessarily required but identifying the etiology may be beneficial for treatment.
-
-Laboratory testing based on suspicion from history/physical:
-- TSH for thyroid disease
-- Prolactin levels
-- Androgen levels
-- FSH or LH
-- Estrogen levels
-
-Endometrial sampling is typically performed if bleeding has been irregular for ≥6 months due to risk of endometrial hyperplasia/neoplasm.
-
-**Amenorrhea**
-Discussed separately as its own [[Amenorrhea|workup]].
-
-**Suspicion of endometrial cancer**
-Patients with AUB and obesity or other risk factors should be evaluated with endometrial sampling. This is indicated for:
-- Age 45 - menopause if bleeding is frequent, heavy, prolonged, or occurs between cycles
-- Age <45 if bleeding is persistent for ≥6 months in the setting of history of unopposed estrogen exposure (eg. obesity, chronic ovulatory dysfunction), failed medical management of bleeding, or high risk of endometrial cancer
-### Differential
-Differential diagnoses consist of bleeding from the genitourinary tract (or even gastrointestinal tract).
-
-This could consist of benign growths, malignancy, STI, inflammation, and/or infection of the vulva, vagina, cervix, uterine tubes, ovaries, urinary tract, and GI tract.
-
-Pregnancy and pregnancy-related complications can also result in bleeding:
-- Intrauterine pregnancy
-- Spontaneous abortion
-- Ectopic pregnancy
-- Placenta previa
-### Red Flags / Complications
-Indication for emergency department:
-- Unstable
-- Tachycardia/hypotension
-- Flooding through >1 high protection product per hour consistently
-- Fever
-- Dizziness
-
-A pregnancy test should always be done for *new* dysfunctional bleeding.
-
-Complications of acute AUB are primarily due to severe blood loss:
-- Severe anemia
-- Hypotension
-- Renal dysfunction
-- Shock
-- Death
-
-Complications of chronic AUB include:
-- Anemia
-- Infertility
-- Endometrial cancer
-## Management
-Treatment of AUB depends on underlying cause, acuity of bleeding, fertility and contraceptive goals, comorbidities, and other medication considerations.
-
-Treatment is indicated when AUB results in anemia or significantly impact the patient's quality of life.
-### Acute Management
-Intervention include mechanical control of bleeding using balloon, Foley catheter, or gauze packing. High-dose medical treatment can be:
-
-**Hormonal**:
-- Conjugated estrogen 25 mg IV q4-6h for 24 hrs
-- Combined oral contraceptives TID for 7 days, then once daily tapered until bleeding cessation
-**Nonhormonal**:
-- Tranexamic acid 10 mg/kg IV up to 600 mg per dose, or 1.5 g PO q8h for 5 days
-- Adjunct with NSAID
-**Adjunctive measures**:
-- Antiemetic for hormonal therapy-induced nausea
-- Iron supplementation for anemia
-### Nonemergent Treatment
-For hemodynamically stable patients, medical management is generally preferred, especially for patients looking to avoid surgery and preserve fertility.
-
-**Hormonal**:
-- Levonorgestrel-releasing intrauterine system (LNG-IUD)
-- Estrogen-progestin oral contraceptive
-- Progestin-only therapy
-**Nonhormonal**:
-- Transexamic acid 1.5 g PO q8h for 5 days
-- Ibuprofen 600 mg q6h, or 800mg q8h (or another NSAID)
-
-### Surgical
-Surgery may be considered for patients unresponsive to medical management or those desiring definitive treatment. A number of surgical options are available including:
-- Dilatation and curettage 
-- Hysterectomy
-- Endometrial ablation
-- Hysteroscopic or laparoscopic myomectomy
-- Hysteroscopic polypectomy
-- Uterine artery embolization
-### Etiology-specific Management
-It should be noted that depending on the underlying causes, there may be specific treatment options that are indicated. In most cases, treatment of underlying cause will also resolve AUB symptoms.
-
-Briefly they are:
-- Polyps - surgical resection
-- Adenomyosis - hysterectomy
-- Leiomyomas - surgery (uterine artery embolization, endometrial ablation, hysterectomy) or [[#Nonemergent Treatment|medication]]
-- Malignancy - surgery or other, depending on stage
-- Coagulopathies - tranexamic acid or desmopressin
-- Ovulatory dysfunction - management of weight, correction of endocrine
-- Endometrial disorders - no specific treatment
-- Iatrogenic - Address offending medication with discontinuation, modification, or reassurance
-- Not otherwise classified causes - depends on condition
-## References
-### Tools / Guidelines
-
-### Additional Reading
+Extrapancreatic effects (decreased hepatic gluconeogenesis and increased peripheral insulin sensitivity) are suggested but evidence is unclear.
+###### Additional characteristics
+- Glycemic efficacy: reduces HbA1c by 1.2% over 3 months
+- Not frequently used
+- Patients should not be overweight, do not drink alcohol, and adhere to consistent dietary routine
+###### Adverse effects
+- Life-threatening hypoglycemia, particularly in cases of:
+	- Simultaneous intake of CYP2C9 inhibitors
+	- Renal failure
+	- Decreased carbohydrate intake
+	- Elevated glucose utilization
+	- Sulfonylurea overdose
+- Alcohol intolerance (first-generation agents)
+- Weight gain
+- Hematological changes (granulocytopenia, hemolytic anemia)
+- Allergic skin reactions
+- Macrovascular cardiovascular complications associated
+- Beta-cell apoptosis
+###### Contraindications
+- Beta blocker use
+- Severe cardiovascular comorbidity
+- Obesity
+- Sulfonamide allergy (eg. sulfa antibiotics, thiazide diuretics)
+- Severe liver and kidney failure
+###### Examples
+First generation:
+- Chlorpropamide
+- Tolbutamide
+Second generation:
+- Glyburide (Diabeta)
+- Gliclazide (Diamicron) - main one still used
+- Glimepiride (Amaryl)
+### Meglitinides
+**Not used in practice**
+###### Mechanism of action
+Similar mechanism as sulfonylurea except binds at a different site at the beta-cells with lower affinity.
+###### Additional characteristics
+- Glycemic efficacy: reduces HbA1C by 0.75% over 3 months
+- Lower affinity means shorter duration of action - should be taken shortly before meals
+- Tolerated well by patients with chronic kidney disease
+###### Adverse effects
+- Life-threatening hypoglycemia, especially in patients with renal failure (but less risk than sulfonylurea use)
+- Weight gain
+- Hepatoxicity, rarely
+###### Contraindications
+- Severe liver failure
+- Sulfonylurea use (increased risk of hypoglycemia)
+###### Examples
+- Nateglinide (Starlix)
+- Repaglinide (Gluconorm)
+## Thiazolidinediones (TZDs)
+**Not used in practice - cardiovascular harm outweighs benefits**
+###### Mechanism of action
+Activation of transcription factor PPARγ (peroxisome proliferator-activated receptor of gamma type) which increases transcription of genes involved in glucose and lipid metabolism. This results in:
+- Increased adipokine levels and insulin sensitivity
+- Increased storage of fatty acids in adipocytes
+- Reduced free fatty acids
+- Increased glucose utilization and hepatic glucose production
+###### Additional characteristics
+- Glycemic efficacy: reduces HbA1C by 1% in 3 months
+- Possible monotherapy for patients with severe renal failure
+- Favourable effect on lipids (decrease triglycerides and LDL, increased HDL)
+- No risk of hypoglycemia
+- Onset of action is delayed by several weeks
+###### Adverse effects
+- Increased risk of heart failure
+- Increased risk of bone fractures (osteoporosis)
+- Fluid retention and edema
+- Weight gain
+- Increased cardiovascular complications (rosiglitazone)
+###### Contraindications
+- Congestive heart failure (NYHA III-IV)
+- Liver failure
+- History of bladder cancer or macrohematuria of unknown origin (pioglitazone)
+###### Examples
+- Pioglitazone (Actos)
+- Rosiglitazone (Avandia)

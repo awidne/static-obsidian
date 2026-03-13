@@ -86,7 +86,9 @@ Other additional imaging and testing may be done for select patients and is typi
 There are a number of causes for LUTS ranging from obstructive urologic causes to nonurologic conditions such as neurologic diseases and may be considered as part of a [[Lower Urinary Tract Symptoms|LUTS workup]].
 
 Other considerations include:
+- UTI - dysuria
 - Prostatitis - if tender prostate
+- Prostatic abscess - CT
 - Malignancy - if presence of asymmetry or nodules
 ### Red Flags / Complications
 Untreated BPH may result in acute urinary retention.

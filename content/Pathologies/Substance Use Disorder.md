@@ -13,12 +13,12 @@ tags: [[Pathologies]]
 
 ## Background
 ### Definitions
-Substance use disorder (SUD) is an umbrella term used to describe a problematic pattern of substance use, which includes [[Alcohol Use Disorder|alcohol]], marijuana, opioids, and other illicit drugs.
+Substance use disorder (SUD) is an umbrella term used to describe a problematic pattern of substance use, which includes [[Alcohol Use Disorder|alcohol]], marijuana, [[Opioid Use Disorder|opioids]], and other illicit drugs.
 
 The exact details of each substance is discussed separately.
 ## Clinical Presentation
 ### Signs & Symptoms
-
+The presentation of SUD varies depending on the substance of abuse.
 ### History & Physical Exam
 History should include the type of substance which may include:
 - Caffeine, tobacco/nicotine, alcohol

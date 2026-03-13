@@ -14,6 +14,8 @@ tags: [[Assessments]]
 The mental status examination (MSE) is utilized to assess different aspects of mental function to provide insight on objective and subjective components of mental illness.
 
 The exam is elicited, in conjunction with the components of a standard patient encounter, when a patient's presenting complaint raises suspicion for a change in mental status, altered mental status, or when assess for improvement or deterioration of a condition.
+
+It is extremely important to have the suicidal ideation/risk component included in documentation for medicolegal purposes.
 ## Examination Categories
 ### Appearance
 Consists of objective observation from clinician, often immediately at the start of an encounter.
@@ -67,7 +69,7 @@ Examples (very non-exhaustive) of descriptions include:
 - Blunted
 - Euphoric
 
-It may also be beneficial to specify the degree (eg. slightly vs. extremely), whether the affect is appropriate for the situation, and/or whether it is congruent to the patient's mood.
+It may also be beneficial to specify the degree (eg. slightly vs. extremely), the range of emotions (eg. dysthymic vs. euthymic), whether the affect is appropriate for the situation, and/or whether it is congruent to the patient's mood.
 ### Thought process
 This component describes how a patient organizes their expressed thoughts. A normal thought process is linear and goal-directed.
 
@@ -111,6 +113,8 @@ The most common areas of cognition evaluated are:
 - Abstract reasoning (ability to infer meaning and concepts, eg. what two objects have in common)
 
 Assessment of cognition can be administered with a number of tools such as the [Mini-Mental State Examination (MMSE)](https://cgatoolkit.ca/Uploads/ContentDocuments/MMSE.pdf) or [Montreal Cognitive Assessment (MOCA)](https://www.mdcalc.com/calc/10044/montreal-cognitive-assessment-moca) 
+
+In many cases, documentations can be "cognition was grossly normal but not formally assessed" with or without A&Ox3.
 ### Insight
 This category refers to the patient's understanding of their illness and functionality.
 
@@ -123,6 +127,15 @@ Example questions to ask are:
 - "If you saw a fire in a crowded building, what steps would you take?"
 - "What would you do if you were at home and smelled gas?"
 - "If you ran out of your prescription medication, what would you do?"
+### Suicidal/Homicidal Ideation
+An assessment of suicidality should be made at every appointment and documented.
+
+Components of the suicide risk include:
+- Passive vs. active suicidal ideation
+- Chronic vs. acute
+- Is there plan or intent
+- Are they future oriented (has plans relating to life vs. "it doesn't even matter")
+- Protective factors
 ## References
 ### Tools / Guidelines
 ### Additional Reading

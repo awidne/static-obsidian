@@ -31,7 +31,7 @@ Peripheral causes account for ~80% of cases with BPPV, vestibular neuritis, and 
 **Peripheral causes**
 - [[Benign Paroxysmal Positional Vertigo]]
 - Vestibular neuritis
-- Meniere disease
+- Meniere disease (fullness of endolymph)
 - Herpes zoster oticus (Ramsay Hunt syndrome)
 - Labyrinthine concussion
 - Perilymphatic fistula
@@ -79,6 +79,7 @@ Further history should allow for **determination of etiology** of the vertigo.
 	- History of migraine (vestibular migraine)
 	- Older patient, vascular risk factors, and/or cervical trauma (vertebrobasilar TIA, brainstem infarction)
 	- Older patient, vascular risk factors like hypertension (cerebellar infarction or hemorrhage)
+	- Aural fullness (Meniere disease)
 - Auditory symptoms
 ### Physical Exam
 Examination should confirm vestibular dysfunction and distinguish between central and peripheral causes. 
@@ -111,8 +112,8 @@ Central:
 ## Investigations
 A number of tests are used to confirm their respective etiologies such as the Dix-Hallpike maneuver (BPPV). Audiometry may be indicated if there are suspicions of hearing loss.
 
-Importantly, the **HINTS examination** is used to rule in central vertigo, suggested by any one of the following signs:
-- Normal head impulse test: patient head is turned 30 degrees to one side while patient's eyes are fixated on examiner's nose, then head rapidly moved back to midline. Eyes track the nose normally (vestibulo-ocular reflex preserved).
+Importantly, the **HINTS examination** is used to rule in central vertigo. Central causes are suggested by any one of the following signs:
+- Normal head impulse test: patient head is turned 30 degrees to one side while patient's eyes are fixated on examiner's nose, then head rapidly moved back to midline. Eyes track the nose normally is a sign of central vertigo (vestibulo-ocular reflex preserved).
 - Direction changing nystagmus: nystagmus changes direction based on direction eyes are pointed.
 - Skew deviation: when left and right eyes are alternately covered, diagonal or vertical eye movement is observed
 

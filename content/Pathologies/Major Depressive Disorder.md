@@ -32,20 +32,20 @@ The classic symptoms are listed using the MSIGECAPS mnemonic:
 - Mood: depressed, can manifest as irritable
 - Sleep: insomnia or hypersomnia
 - Interest: reduced, anhedonia
-- Guilt: unrealistic
+- Guilt: unrealistic (note: this is not asked unless excessive)
 - Energy: mental and physical fatigue
-- Concentration: easily distractible
+- Concentration: easily distractible (note: hold this question if chief complaint may be ADHD related)
 - Appetite: decreased or increased
-- Psychomotor: retardation or agitation
+- Psychomotor: retardation or agitation (note: this is observed, not asked)
 - Suicide: thoughts, plans, behaviours
 
 These symptoms are also described as part of the DSM-5 diagnostic criteria.
 ### History & Physical Exam
-Clinical history should ascertain signs and symptoms of depression. A [[mental status examination]] should also be performed. Signs and symptoms can be screened using tools listed [[#Work-up|below]].
+Clinical history should ascertain signs and symptoms of depression. A [[mental status examination]] should also be performed. Signs and symptoms can be screened using tools listed [[#Work-up|below]]. History should confirm no presence of mania/hypomania.
 
 Inclusion of medical, family, social, and substance use history should be done. Collateral information from family and friends will aid assessment as well.
 
-A complete physical examination should be performed t o rule out underlying causes. 
+A complete physical examination should be performed to rule out underlying causes. 
 ### Risk factors
 - Alcohol use disorder
 - Childhood trauma / ACEs

@@ -56,6 +56,10 @@ History should also include:
 - Post-event manifestations
 
 Patient position at time of event (eg. standing vs. sitting) can suggest etiology, whereby standing is strongly suggestive of vasovagal syncope.
+
+**Risk stratification** can be done for risk of serious outcomes using:
+- EGSYS Score for Syncope (30 day risk of cardiac event)
+- Canadian Syncope Risk Score (good if more labs available)
 ### Physical Exam
 Physical examination should focus on any abnormalities in vital signs which may hint at underlying disease (eg. orthostatic hypotension).
 

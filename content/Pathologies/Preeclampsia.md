@@ -56,17 +56,22 @@ However, in cases of severe elevations (SBP ≥160 mmHg and/or DBP ≥110 mmHg),
 
 History elucidating seizures would upstage diagnosis to eclampsia.
 ### Risk factors
-Risk factors are similar to [[Gestational Hypertension|gestational hypertension]]:
-- Past history of gestational hypertension and/or pre-eclampsia
+Risk factors are similar to [[Gestational Hypertension|gestational hypertension]]. High risk factors include:
+- Past history of gestational/chronic hypertension and/or pre-eclampsia
 - Pre-existing diabetes
-- Pre-pregnancy overweight or obesity (BMI ≥25 and risk doubles with each 5-7 increase in BMI)
 - Chronic kidney disease
 - Multifetal pregnancy
+- Autoimmune disease with potential vascular complications (eg. antiphospholipid syndrome, systemic lupus erythematosus)
+
+Moderate risk factors include:
 - Nulliparity
-- Family history of preeeclampsia
+- Pre-pregnancy overweight or obesity (BMI ≥25 and risk doubles with each 5-7 increase in BMI)
+- Family history of preeeclampsia (mother or sister)
 - Prior pregnancy complications relating to placental insufficiency
 - Advanced maternal age or adolescent pregnancy
 - Use of reproductive technology
+
+In patients with high-risk factors, initiate [[#Prevention|prophylactic treatment]]. Consider doing so for moderate risk.
 ## Diagnosis
 ### Criteria
 **Preeclampsia without severe features**:
@@ -120,6 +125,11 @@ Patients with preeclampsia are at an increased risk for life-threatening obstetr
 
 Preeclampsia can also lead to growth restriction and oligohydramnios. It can also result in indicated preterm birth. Long-term risks include increased risk of complications in future pregnancies.
 ## Management
+### Prevention
+Prevention of preeclampsia is indicated for high-risk patients and some moderate-risk patients (≥2 moderate risk factors).
+- Aspirin 162 mg PO daily until delivery
+- Calcium supplementation of >500 mg/d if low dietary intake (<900 mg/d)
+- Exercise
 ### Non-pharmacological
 Consultation to neurology may be warranted if there are signs of neurologic deficits, abnormal neurologic exam, ocular signs and symptoms, or persistent headache that does not respond to acetaminophen.
 
@@ -129,7 +139,7 @@ For patients with moderate- and high-risk of developing preeclampsia, low-dose a
 
 Once diagnosis has been made:
 - **Antihypertensive therapy** for the treatment of [[Gestational Hypertension#Management|gestational hypertension]]
-- **Magnesium sulfate** to prevent seizures (eclampsia)
+- **Magnesium sulfate** to prevent seizures (eclampsia); note that magnesium must be monitored and calcium gluconate used to treat hypermagnesemia.
 
 **For patients with preeclampsia with severe features**, delivery may be necessary. The indication depends on the gestational age and stability of the mother and fetus:
 

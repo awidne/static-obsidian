@@ -98,7 +98,7 @@ Unusual presentations, such as onset at a young age or unexpected elevation, may
 - [[Coarctation of the aorta]] - typically seen in young children
 ### Red Flags / Complications
 Uncontrolled hypertension is associated with significant risk of target organ damage / adverse cardiovascular and renal outcomes. These include:
-- Cerebrovascular disease (incl. [[stroke]] and [[dementia]])
+- Cerebrovascular disease (incl. [[stroke]] and [[Dementia]])
 - Retinopathy
 - Left ventricular hypertrophy and/or [[congestive heart failure]]
 - [[Chronic Kidney Disease]]
