@@ -71,6 +71,15 @@ The most common presentation includes sudden onset of:
 - Difficulty walking, loss of balance or coordination
 
 Specific syndromes may be observed based on artery affected (see above).
+
+A posterior cerebral artery (cerebellar) stroke can be ascertained by the presence of the D's:
+- Dizziness
+- Diplopia (double vision)
+- Dysarthria (slurred speech)
+- Dysphagia
+- Dyspraxia/ataxia
+
+Left hemisphere strokes commonly are associated with language, reading, and writing problems, including aphasia. Right hemisphere strokes are associated with spatial/attention problems including left-sided spatial neglect.
 ### History & Physical Exam
 Initial assessment should alway assess vitals and ABCs.
 
@@ -81,7 +90,9 @@ As a complete history is likely not possible, important points to attempt to asc
 - Possible recent trauma
 - Insulin use/diabetes status and other causes that may cause symptoms
 
-A rapid neurological exam should be performed to confirm findings. The [National Institutes of Health Stroke Scale (NIHSS)](https://www.mdcalc.com/calc/715/nih-stroke-scale-score-nihss) is a standardized tool for assessing the severity of stroke.
+A rapid neurological exam should be performed to confirm findings. Additionally, signs of cerebellar stroke should be ascertained.
+
+The [National Institutes of Health Stroke Scale (NIHSS)](https://www.mdcalc.com/calc/715/nih-stroke-scale-score-nihss) is a standardized tool for assessing the severity of stroke.
 ### Risk Factors
 Risk factors for cardioembolic strokes include:
 - Atrial fibrillation and other arrhythmia 

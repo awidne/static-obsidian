@@ -43,7 +43,7 @@ Mania and hypomania is characterized by significant elevation in mood and energy
 - Flight of ideas
 - Agitation (psychomotor)
 - Sleep (decreased need)
-- Taking fast
+- Talking fast
 
 Mania is the presence of these symptoms for ≥7 days or if the severity requires hospitalization. Hypomania is if the symptoms are between 4-7 days in duration and doesn't involve psychosis.
 

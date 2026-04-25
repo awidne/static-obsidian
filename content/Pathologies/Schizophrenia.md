@@ -186,7 +186,9 @@ Dosing may be lower if it is the patient's first episode or is older.
 
 First generation antipsychotic, haloperidol, may be appropriate if the patient had prior treatment with the medication or severe agitation.
 
-Patients should be monitored for resolution of psychotic symptoms (typically several day to 4-6 weeks). Follow-up should occur weekly for the first 3 months of treatment.
+Patients should be monitored for resolution of psychotic symptoms (typically several day to 4-6 weeks). Follow-up should occur weekly for the first 3 months of treatment. 
+
+Additionally, presence of extrapyramidal symptoms can be managed by adjusting antipsychotic, reducing dose, or adding anticholinergics (eg. benztropine).
 ### Maintenance Therapy
 If a patient responds to acute treatment well, that antipsychotic is continued at the lowest effective dose.
 

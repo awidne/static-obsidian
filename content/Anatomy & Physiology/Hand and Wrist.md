@@ -19,6 +19,7 @@ Thumb side -- pinky side
 | **Trapezium** | **Trapezoid** | **Capitate**    | **Hamate**   |
 | ------------- | ------------- | --------------- | ------------ |
 | **Scaphoid**  | **Lunate**    | **Triquestrum** | **Pisiform** |
+
 Attached to the carpal bones are the five **metacarpal bones**. Each of which are attached the **phalanges**.
 
 There are 14 total phalanges with three making up each finger (distal, middle, and proximal) and two making up the thumb.

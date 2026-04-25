@@ -487,46 +487,135 @@ Apixaban is a direct factor Xa inhibitor that is more consistent at anticoagulat
 ## PARADIGM 2014
 Prospective comparison of ARni with Acei to Determine Impact on Global Mortality and mobidity in heart failure trial
 ### Findings
+
+**Limitations**
 ### Background
 
 ### Study Appraisal
-**Internal validity**
 
-| Criteria          | Acceptable? | Comments |
-| ----------------- | ----------- | -------- |
-| Focused           |             |          |
-| Randomized        |             |          |
-| Blinded           |             |          |
-| Similar baseline  |             |          |
-| Equal treatment   |             |          |
-| Loss to follow-up |             |          |
-| ITT analysis      |             |          |
-**External validity**
-
-| Criteria                      | Notes |
-| ----------------------------- | ----- |
-| Conflict of interests         |       |
-| Applicable population         |       |
-| Benefit vs. costs             |       |
-| Clinically important outcomes |       |
-
-
+| Criteria          | Acceptable? | Additional Comments |
+| ----------------- | ----------- | ------------------- |
+| Internal validity |             |                     |
+| External validity |             |                     |
 ## SPRINT 2015
 
+### Findings
+
+**Limitations**
+### Background
+
+### Study Appraisal
+
+| Criteria          | Acceptable? | Additional Comments |
+| ----------------- | ----------- | ------------------- |
+| Internal validity |             |                     |
+| External validity |             |                     |
 ## EMPA-REG-OUTCOME 2015
 
+### Findings
 
+**Limitations**
+### Background
+
+### Study Appraisal
+
+| Criteria          | Acceptable? | Additional Comments |
+| ----------------- | ----------- | ------------------- |
+| Internal validity |             |                     |
+| External validity |             |                     |
 ## TAVR Low-Risk Trials 2019
+### Findings
 
+**Limitations**
+### Background
+
+### Study Appraisal
+
+| Criteria          | Acceptable? | Additional Comments |
+| ----------------- | ----------- | ------------------- |
+| Internal validity |             |                     |
+| External validity |             |                     |
 ## RECOVERY 2020
+### Findings
 
+**Limitations**
+### Background
+
+### Study Appraisal
+
+| Criteria          | Acceptable? | Additional Comments |
+| ----------------- | ----------- | ------------------- |
+| Internal validity |             |                     |
+| External validity |             |                     |
 ## EMPEROR PRESERVED 2021
+### Findings
 
+**Limitations**
+### Background
 
+### Study Appraisal
+
+| Criteria          | Acceptable? | Additional Comments |
+| ----------------- | ----------- | ------------------- |
+| Internal validity |             |                     |
+| External validity |             |                     |
 ## STEP1 2021
+### Findings
 
+**Limitations**
+### Background
+
+### Study Appraisal
+
+| Criteria          | Acceptable? | Additional Comments |
+| ----------------- | ----------- | ------------------- |
+| Internal validity |             |                     |
+| External validity |             |                     |
 ## SELECT 2023
+### Findings
 
+**Limitations**
+### Background
+
+### Study Appraisal
+
+| Criteria          | Acceptable? | Additional Comments |
+| ----------------- | ----------- | ------------------- |
+| Internal validity |             |                     |
+| External validity |             |                     |
 ## BALANCE 2024
+### Findings
 
+**Limitations**
+### Background
+
+### Study Appraisal
+
+| Criteria          | Acceptable? | Additional Comments |
+| ----------------- | ----------- | ------------------- |
+| Internal validity |             |                     |
+| External validity |             |                     |
 ## CRASH 2013
+### Findings
+
+**Limitations**
+### Background
+
+### Study Appraisal
+
+| Criteria          | Acceptable? | Additional Comments |
+| ----------------- | ----------- | ------------------- |
+| Internal validity |             |                     |
+| External validity |             |                     |
+## COBRRA 2026
+### Findings
+
+**Limitations**
+### Background
+
+### Study Appraisal
+
+| Criteria          | Acceptable? | Additional Comments |
+| ----------------- | ----------- | ------------------- |
+| Internal validity |             |                     |
+| External validity |             |                     |

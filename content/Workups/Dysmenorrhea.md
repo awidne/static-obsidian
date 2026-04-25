@@ -21,7 +21,7 @@ Endometrial sloughing at the beginning of menses release prostaglandins which in
 
 When intrauterine pressures exceed arterial pressure, uterine ischemia develops which stimulate type C pain neurons and thus dysmenorrhea.
 ## Differential Diagnosis
-**Primary dysmenorrhea**: diagnosis of exclusion
+[[Primary Dysmenorrhea|Primary dysmenorrhea]]: dysmenorrhea in absence of demonstrable disease; diagnosis of exclusion typically made in adolescents and young females
 
 **Secondary dysmenorrhea**
 Urgent causes (requiring prompt evaluation and treatment):

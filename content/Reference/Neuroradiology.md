@@ -186,7 +186,7 @@ This is a radiographic sign for abnormal findings when using radiocontrast.
 - Brain abscess: can also have peripheral rim enhancement
 
 **Mass effects**
-As the intracranial space is fixed, any space-occupying lesion will increase intracranial pressure and displace the structures/soft tissue within the skull.
+As the intracranial space is fixed, any space-occupying lesion will increase intracranial pressure and displace the structures/soft tissue within the skull
 - Midline shift: structures found in the midline are deviated to the contralateral side of the mass
 - Ventricle effacement: edema surrounding the mass causes narrowing (effacement) of the ipsilateral ventricle
 - Sulci effacement: mass causes the sulci on the ipsilateral side to efface

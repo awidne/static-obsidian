@@ -7,7 +7,7 @@ aliases:
 --- 
 
 creation date: 2025-07-11 02:16 
-tags: [[Workups]][[Incomplete]]
+tags: [[Workups]]
 
 ---
 # Dyspnea
@@ -62,12 +62,28 @@ The differential for chronic dyspnea without a clear etiology is broad but is mo
 - Obesity/deconditioning
 ## Initial Evaluation
 ### History
+Pertinent positives/negatives include:
+- Positional (ie. orthopnea)
+- Timing (ie. PND)
+- Exertional (to what degree, new-onset worsening)
+- Cough
+- Sputum production (volume and characteristic)
+- Hemoptysis
+- Risk factors for PE (see Well's score)
+- Lower extremity edema
+- Recent infection, sick contacts
 
+Relevant PMHx include:
+- DVT/PE
+- COPD
+- CHF
 ### Physical Exam
-
+O/E should include:
+- Respiratory exam
+- Cardiovascular exam
+- Examination of lower extremities
+- ENT exam
 ## Investigations
-
-
 
 ## References
 ### Tools / Guidelines

@@ -35,14 +35,14 @@ export const defaultContentPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
+        // { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.TableOfContents(),
   ],
   right: [
     // Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
+    Component.DesktopOnly(Component.Explorer()),
     Component.Backlinks(),
   ],
 }

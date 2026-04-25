@@ -20,7 +20,9 @@ Tonicity refers to the activity of solutes (in most cases, sodium) that do not e
 - Hypertonicity refers to a high plasma sodium concentration
 - Hypotonicity refers to a low plasma sodium concentration
 ### Etiology
-Causes of hyponatremia is typically classified by the volume status of the extracellular fluid. 
+![[Hyponatremia-1.png]]
+
+Causes of hypoosmolar hyponatremia is typically classified by the volume status of the extracellular fluid. 
 
 **Hypovolemic hyponatremia** (TBW decreases less than sodium decrease)
 - Gastrointestinal fluid loss (eg. diarrhea, vomiting)

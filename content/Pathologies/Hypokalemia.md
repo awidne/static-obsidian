@@ -18,9 +18,11 @@ A number of causes can result in hypokalemia. Broadly, they are categorized:
 **Decreased sodium intake** (rarely results in hypokalemia alone)
 - Poor nutrition or dietary restriction
 - Eating disorders
+
 **Increased intracellular uptake**
 - Insulin injection
 - Beta-adrenergic inhalation
+
 **Increased potassium losses**
 - Excessive sweating
 - Loop diuretic intake (inhibits Na-K-Cl cotransporters which reduces reuptake in loop of Henle)

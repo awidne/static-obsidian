@@ -147,7 +147,7 @@ IV iron therapy:
 Blood transfusion:
 - Severe anemia with active bleeding or significant symptoms
 
-Other interventions can mitigate anemia such as use of hormonal [[contraceptives]] to reduce [[abnormal uterine bleeding|menstrual blood loss]].
+Other interventions can mitigate anemia such as use of hormonal [[contraceptives]] to reduce [[Antihyperglycemics|menstrual blood loss]].
 ## References
 
 ### Tools / Guidelines

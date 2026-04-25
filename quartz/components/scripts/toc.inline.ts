@@ -13,6 +13,19 @@ const observer = new IntersectionObserver((entries) => {
   }
 })
 
+function toggleTocMobile(this: HTMLElement) {
+  const nearestToc = this.closest(".toc") as HTMLElement
+  if (!nearestToc) return
+
+  const isOpening = nearestToc.classList.toggle("open")
+
+  if (isOpening) {
+    document.documentElement.classList.add("mobile-no-scroll")
+  } else {
+    document.documentElement.classList.remove("mobile-no-scroll")
+  }
+}
+
 function toggleToc(this: HTMLElement) {
   this.classList.toggle("collapsed")
   this.setAttribute(
@@ -24,13 +37,38 @@ function toggleToc(this: HTMLElement) {
   content.classList.toggle("collapsed")
 }
 
+function closeTocMobile() {
+  for (const toc of document.getElementsByClassName("toc")) {
+    const tocEl = toc as HTMLElement
+    tocEl.classList.remove("open")
+  }
+  document.documentElement.classList.remove("mobile-no-scroll")
+}
+
 function setupToc() {
   for (const toc of document.getElementsByClassName("toc")) {
-    const button = toc.querySelector(".toc-header")
-    const content = toc.querySelector(".toc-content")
-    if (!button || !content) return
-    button.addEventListener("click", toggleToc)
-    window.addCleanup(() => button.removeEventListener("click", toggleToc))
+    const desktopButton = toc.querySelector(".toc-header")
+    const mobileButton = toc.querySelector(".mobile-toc")
+
+    ;(toc as HTMLElement).classList.remove("open")
+
+    mobileButton?.classList.remove("hide-until-loaded")
+
+    if (desktopButton) {
+      desktopButton.addEventListener("click", toggleToc)
+      window.addCleanup(() => desktopButton.removeEventListener("click", toggleToc))
+    }
+
+    if (mobileButton) {
+      mobileButton.addEventListener("click", toggleTocMobile)
+      window.addCleanup(() => mobileButton.removeEventListener("click", toggleTocMobile))
+    }
+
+    const tocLinks = toc.querySelectorAll(".toc-content a")
+    tocLinks.forEach((link) => {
+      link.addEventListener("click", closeTocMobile)
+      window.addCleanup(() => link.removeEventListener("click", closeTocMobile))
+    })
   }
 }
 

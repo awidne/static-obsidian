@@ -1,13 +1,11 @@
 ---
-title: Jack's Med Notes
+title: Med Notes
 ---
-# Jack's Med Notes
+# Med Notes
 
-This is a repository of condensed notes organized by topic to consolidate information from a [*spiral curriculum*](https://med.virginia.edu/faculty-affairs/wp-content/uploads/sites/458/2016/04/2010-3-23.pdf).
+This is a repository of condensed notes to consolidate problem-based learning notes.
 
-Many pages are currently work-in-progress and may be inaccurate. I only update the notes when I feel like it.
-
-**Disclaimer**: the purpose of these notes is for my personal learning. They are hosted online for my own ease of access and are **not** intended to be used as a primary resource for studying or patient care.
+**Disclaimer**: the purpose of these notes is for my personal learning. They are hosted online for my own ease of access and are **not** intended to be used as a primary resource for studying or patient care. Many pages are work-in-progress and may be inaccurate and/or incomplete.
 
 **Warning**: the content of the notes are medical in nature and as such may contain images, diagrams, and topics that a reader may find unpleasant or upsetting.
 ## Sources
@@ -19,11 +17,7 @@ Some resources used for these notes include:
 - [AMBOSS](https://www.amboss.com/int)
 - [DynaMed](https://www.dynamed.com)
 
-Examples of textbooks used include:
+Textbooks used include:
 - Harrison's Principles of Internal Medicine
 - Toronto Notes
 - RXFiles
-
-Additionally, [OpenEvidence](https://openevidence.com) is used for specific clinical questions which aggregates evidence from:
-- The New England Journal of Medicine (NEJM)
-- The Journal of the American Medical Association (JAMA) and JAMA Network

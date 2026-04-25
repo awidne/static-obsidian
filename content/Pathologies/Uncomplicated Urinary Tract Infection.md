@@ -7,7 +7,7 @@ aliases:
 --- 
 
 creation date: 2024-12-29 14:08 
-tags: [[Pathologies]]
+tags: [[Pathologies]][[Update Pending]]
 
 ---
 # Uncomplicated Urinary Tract Infection
@@ -17,7 +17,7 @@ A simple or uncomplicated urinary tract infection (UTI) is an infection primaril
 
 Unlike a [[complicated urinary tract infection]], simple UTIs occur in otherwise healthy individuals without structural abnormalities or significant comorbidities.
 
-UTIs in immunocompromised patients, males, pregnant patients, and those associated with fevers, stones, sepsis, obstruction, catheters, or upper urinary tract involvement are considered complicated.
+UTIs in immunocompromised patients, males, pregnant patients, and those associated with fevers, stones, sepsis, obstruction, catheters, or upper urinary tract involvement are considered complicated. (ADDENDUM, 2025: to be updated per [new guidelines](https://www.idsociety.org/practice-guideline/complicated-urinary-tract-infections/))
 ### Etiology
 The most frequent microbial cause of simple UTIs is Escherichia coli, accounting for 75-95% of cases. Other occasional causes include klebseilla pneumoniae, proteus mirabilis, and staphylococcus saprophyticus.
 

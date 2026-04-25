@@ -92,7 +92,7 @@ For some patients, they may just be unaware of the cause and counselling the nee
 
 In many cases, especially long-standing FHA, in-patient management is necessary. Primary concerns of management include:
 - Adequate nutrition
-- Refeeding syndrome due to increase in intake (eg. cardiovascular collapse, hypophosphatemia)
+- [[Refeeding Syndrome|Refeeding syndrome]] due to increase in intake (eg. cardiovascular collapse, hypophosphatemia)
 ### Treatment of Complications
 Concurrently with treatment of underlying cause, additional management may be indicated.
 
