@@ -9,7 +9,6 @@ tags: [[Assessments]]
 
 ---
 # Neurological Assessment
-
 ## Background
 A quick neurologic exam is crucial for ruling out ominous diagnoses (primarily stroke). In the emergency department, this should not take longer than 5 minutes.
 

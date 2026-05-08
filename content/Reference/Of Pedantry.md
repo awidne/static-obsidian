@@ -12,7 +12,7 @@ tags:
 ## Foreword
 The intentions of this page are to:
 1. Differentiate between the near-irrelevant minutia of medical terminology
-2. Scratch the itch for word accuracy
+2. Appreciate word accuracy
 3. Be annoyingly pedantic
 ## Word(s)
 ##### Hypercarbia / Hypercapnia
@@ -46,4 +46,4 @@ Examples:
 **Anomalies**: refers to a finding that deviated from the expected. Ie. something that is "rare" or "odd". For example, "anatomical anomalies". 
 **Abnormalities**: refers to a problematic difference from the normal
 
-The key distinction here is the negative association that is attached to abnormalities. Contrastingly, anomalies can refer to negative, neutral, or even positive variations.
+The key distinction here is the negative (or pathological) association that is attached to abnormalities. Contrastingly, anomalies can refer to negative, neutral, or even positive variations.

@@ -5,6 +5,7 @@ aliases:
   - Venous blood gas
   - VBG
   - Blood gas analysis
+  - Acid-base status
 ---
 --- 
 

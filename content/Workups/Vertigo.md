@@ -29,9 +29,13 @@ Vertigo is most commonly organized into peripheral and central disorders.
 Peripheral causes account for ~80% of cases with BPPV, vestibular neuritis, and Meniere disease being most common.
 
 **Peripheral causes**
+The most common causes are:
 - [[Benign Paroxysmal Positional Vertigo]]
 - Vestibular neuritis
 - Meniere disease (fullness of endolymph)
+- Otosclerosis
+
+Other less common causes include:
 - Herpes zoster oticus (Ramsay Hunt syndrome)
 - Labyrinthine concussion
 - Perilymphatic fistula
@@ -83,7 +87,7 @@ Further history should allow for **determination of etiology** of the vertigo.
 - Auditory symptoms
 ### Physical Exam
 Examination should confirm vestibular dysfunction and distinguish between central and peripheral causes. 
-
+#### Signs and Symptoms
 **Nystagmus**
 Eyes slowly drift away from the target in one direction followed by a fast corrective "beat" in the reverse direction
 
@@ -109,15 +113,23 @@ Central:
 **Neurologic signs and symptoms**
 - Absent with peripheral vertigo
 - Often present with central
-## Investigations
-A number of tests are used to confirm their respective etiologies such as the Dix-Hallpike maneuver (BPPV). Audiometry may be indicated if there are suspicions of hearing loss.
+#### Tests
+A number of tests are used to confirm their respective etiologies such as the [[Benign Paroxysmal Positional Vertigo#History & Physical Exam|Dix-Hallpike maneuver (BPPV)]]. Audiometry may be indicated if there are suspicions of hearing loss.
 
-Importantly, the **HINTS examination** is used to rule in central vertigo. Central causes are suggested by any one of the following signs:
-- Normal head impulse test: patient head is turned 30 degrees to one side while patient's eyes are fixated on examiner's nose, then head rapidly moved back to midline. Eyes track the nose normally is a sign of central vertigo (vestibulo-ocular reflex preserved).
-- Direction changing nystagmus: nystagmus changes direction based on direction eyes are pointed.
+Importantly, the **HINTS examination** is used to rule in central vertigo. The exam is performed as follows:
+- **Head impulse test**: while patient sitting and looking at examiner's nose, thrust the head 20 degrees laterally then rapidly back to midline
+	- Note: oscillating between fast and slow movement keeps patient unaware. Only the rapid movement findings are relevant
+- **Nystagmus**: while patient sitting, have patient follow fingers to laterally, including holding at extremes; observe for nystagmus and when it occurs/worsens
+- **Test of skew**: while patient sitting and looking at examiner's nose or straight ahead, cover and uncover each eye
+
+Positive findings for central etiology are:
+- Normal head impulse test: eyes track the nose normally is a sign of central vertigo (vestibulo-ocular reflex preserved)
+- Direction changing nystagmus: nystagmus changes direction based on direction eyes are pointed or spontaneous nystagmus that is dominantly vertical or torsional.
 - Skew deviation: when left and right eyes are alternately covered, diagonal or vertical eye movement is observed
-
+## Investigations
 In patients suspected of having central vertigo, a **brain MRI** is indicated.
 ## References
 ### Tools / Guidelines
+[John Hopkins - HINTS Exam Video](https://www.kaltura.com/index.php/extwidget/preview/partner_id/797802/uiconf_id/27472092/entry_id/0_b9t6s0wh/embed/auto)
 ### Additional Reading
+[AAFP - Dizziness: Approach to Evaluation and Management](https://www.aafp.org/pubs/afp/issues/2017/0201/p154.html)

@@ -2,6 +2,7 @@
 aliases:
   - URI
   - URTI
+  - Upper respiratory tract infection
 ---
 --- 
 

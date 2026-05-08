@@ -55,9 +55,8 @@ The Bishop score, sums each component:
 | Station        | -3        | -2     | -1, 0    | >+1 |
 | Consistency    | Firm      | Medium | Soft     |     |
 | Position       | Posterior | Mid    | Anterior |     |
-As labour progresses, the state of each component moves from 0 to 3.
 
-A score of >8 is generally considered favourable for both spontaneous and induced labour.
+As labour progresses, the state of each component moves from 0 to 3. A score of >8 is generally considered favourable for both spontaneous and induced labour.
 
 Note that if the fetal lie was not determined or was inconclusive using the Leopold maneuvers, it can be confirmed during cervical examination by palpation and/or by ultrasound. 
 
@@ -72,7 +71,7 @@ Fetal monitoring consist of determination of baseline heart rate and variations 
 
 Additionally, an **external tocometer** with a pressure transducer is used to record contraction pressure through abdomen firmness which can provide information on the frequency of contraction and the fetal heart rate changes relative to contractions.
 
-In low risk pregnancies, **intermittent monitoring**, using auscultation or doppler, may be preferred with [no difference in complications/risks](https://www.cochrane.org/evidence/CD006066_continuous-cardiotocography-ctg-form-electronic-fetal-monitoring-efm-fetal-assessment-during-labour) and may result in more C-section deliveries.
+In low risk pregnancies, **intermittent monitoring**, using auscultation or doppler, may be preferred with [no difference in complications/risks](https://www.cochrane.org/evidence/CD006066_continuous-cardiotocography-ctg-form-electronic-fetal-monitoring-efm-fetal-assessment-during-labour).
 
 In cases of concerning findings on normal monitoring or if external monitoring is unreliable, a **fetal scalp electrode** can be used. Scalp pH from a blood draw may also be used when heart tracing is nonreassuring.
 #### Fetal heart rate evaluation
@@ -84,10 +83,18 @@ The normal range is **110-160 bpm**. A fetal heart rate variability (beat-to-bea
 - Moderate (5-25 beats per minute of variation)
 - Marked (>25 beats per minute of variation)
 
+Accelerations are a sign of reactivity and is a reassuring sign.
+
 Decelerations are seen in the tracing and should be examined with the tocometer to determine the type and severity:
 - **Early deceleration** (beginning and ends at same time as contractions) - due to increased vagal tone secondary to head compression and generally benign
 - **Variable deceleration** (occurs at any time and drop precipitously) - due to umbilical cord compression; repetitive variables with contractions may be due to cord around neck or shoulder being compressed with contraction
 - **Late decelerations** (begins at contraction peak and returns to baseline after contraction ends) - due to uteroplacental insufficiency and are ominous; may degrade to bradycardias with stronger contractions
+
+These findings are summarized by the mnemonic VEAL CHOP:
+- Variable - Cord
+- Early - Head compression
+- Acceleration - Okay
+- Late - Placenta
 ### Pain management
 Pain during labour can cause hyperventilation and increased catecholamine levels which may be problematic with patients with comorbidity. 
 #### Non-pharmacological
@@ -129,13 +136,14 @@ In addition to the progression of cervix, the descent of the fetus is used to ga
 5. **Extension**: as the fetus passes the pubic symphysis, the neck extends to deliver
 6. **External rotation**: once the head is delivered, the rest of the body externally rotates so the shoulders can be delivered
 7. **Expulsion**: the shoulders and body follows to be delivered
-### Stage 1
+### Stages
+#### Stage 1
 Onset of labour until dilation and effacement are completed. This stage on average last 10-12 hours in a nulliparous patient (range: 6-20 hrs) and 6-8 hours in a multiparous patient (range: 2-12 hrs).
-#### Latent phase
+##### Latent phase
 This phase ranges from onset of labour until approximately 3-4 cm of dilation.
 - Regular contractions
 - Slow cervical changes
-#### Active phase
+##### Active phase
 This phase follows the latent phase and extends until great than 9cm of dilation.
 - Rate of cervical change increases
 - In nulliparous patients, dilation expected to be >1.0 cm/hr
@@ -144,7 +152,7 @@ This phase follows the latent phase and extends until great than 9cm of dilation
 The transit time is based on the 3 P's - power, passenger, pelvis - and should be assessed if dilation rate drops below 1 cm/hr for possible cesarean section delivery. 
 - Cephalopelvic disproportion refers to a fetus (passenger) that is too large for the pelvis
 - Inadequate contractions as determined by an intrauterine pressure catheter measurement <200 Montevideo units
-### Stage 2
+#### Stage 2
 Time of full dilation until delivery. This phase is considered prolonged if:
 - Nulliparous and >2 hours; or >3 hours with an epidural
 - Multiparous and >1 hour; or >2 hours with an epidural
@@ -156,8 +164,8 @@ Management varies for this stage but may include a "labouring down or passive de
 Note that at this phase, repetitive early and variable decelerations often occur and are generally non-concerning if they resolve quickly after contraction.
 
 Repetitive late decelerations, bradycardias, and loss of variability are not reassuring and patient should be placed on mask O2  and turned to the left to reduce IVC compression. Nonresolving decelerations may require cesarean delivery or operative vaginal delivery depending on station.
-### Delivery
-#### Vaginal delivery
+#### Delivery
+##### Vaginal delivery
 As the fetus is crowning the clinician should don:
 - Eye protection
 - Sterile gown
@@ -185,7 +193,7 @@ Delivery of the rest of the infant follows:
 3. Gentle traction to deliver the torso and rest of infant
 
 If it hasn't been done, the cord is then clamped and cut. Note, episiotomies are not routine for vaginal delivery.
-#### Operative vaginal delivery
+##### Operative vaginal delivery
 In cases of a prolonged second stage, maternal exhaustion, or need to expedite, operative vaginal delivery using either forceps or vacuum-assist may be indicated. Safe conditions require:
 - Full dilation of cervix
 - Ruptured membrane
@@ -199,7 +207,7 @@ In cases of a prolonged second stage, maternal exhaustion, or need to expedite, 
 **Forceps delivery** involves placing the curved blades of the forceps around the fetal head to guide the fetus and aid expulsive efforts through the pelvis.
 
 **Vacuum extraction** involves placing a vacuum cup to the fetal scalp and a suction device used to aid expulsion.
-### Stage 3
+#### Stage 3
 Following delivery of the infant until delivery of the placenta. 
 
 Following the birth of the infant, **immediate skin-to-skin contact** is indicated for at least an hour, although the longer the more beneficial.
@@ -226,6 +234,7 @@ Immediately following delivery, the neonate is assessed using the APGAR score:
 | Grimace     | No response      | Grimace               | Coughing and crying |
 | Activity    | Limp             | Weak                  | Strong              |
 | Respiration | Absent           | Irregular, slow       | Good, crying        |
+
 A score of ≥7 is reassuring. This is done immediately after birth and 5 minutes post-delivery. If the infant scores <7 at 5 minutes, scores will be checked at five-minute intervals for 20 minutes. Resuscitative efforts may be necessary for low scores.
 
 Other tests done include:

@@ -91,7 +91,7 @@ Inhibits peptidoglycan cross-links in bacterial cell walls by binding to penicil
 - No coverage against: Listeria, Atypicals (Chalmydia, Mycoplasma, Legionella), MRSA, Enterococcus
 - Perioperative wound infection prophylaxis (cefazolin)
 ###### Examples:
-- Cephalexin PO
+- Cephalexin (Keflex) PO
 - Cefazolin (Ancef) IV or IM
 ##### 2nd generation
 ###### Clinical uses:
@@ -133,7 +133,7 @@ Inhibits peptidoglycan cross-links in bacterial cell walls by binding to penicil
 - No coverage against: Atypicals (Chalmydia, Mycoplasma, Legionella), Enterococcus (except E. faecalis)
 - Pseudomonas, Listeria, and MRSA coverage
 ###### Examples:
-- Ceftaroline IV
+- Ceftaroline IV (US only)
 #### Carbapenems
 ###### Special characteristics:
 - Intrinsic ß-lactamase resistance

@@ -188,7 +188,7 @@ In patients at risk of developing glucocorticoid toxicity, do not use lower dose
 - Tocilizumab 162 mg subcutaneous weekly injection or IV infusion monthly
 
 **Possible visual loss or cerebrovascular events**
-Patients with signs of ischemic organ damage require a higher initial dose of glucocorticoids.
+Patients with signs of ischemic organ damage require a higher initial dose of glucocorticoids. Refer to opthalmology.
 - Methylprednisolone 500-1000 mg IV daily for three days
 - Followed by: prednisone 40-60 mg (or 1 mg/kg) PO once daily 
 

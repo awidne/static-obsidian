@@ -4,7 +4,6 @@ aliases:
 --- 
 
 creation date: 2025-10-16 12:05 
-status: #note
 tags:
 
 ---
@@ -485,44 +484,80 @@ Apixaban is a direct factor Xa inhibitor that is more consistent at anticoagulat
 | Benefit vs. costs             |                                                                                                                                                                                                                                                                         |
 | Clinically important outcomes | Apixaban is superior to warfarin for prevention of stroke or systemic embolism, caused less bleeding, and resulted in lower mortality                                                                                                                                   |
 ## PARADIGM 2014
-Prospective comparison of ARni with Acei to Determine Impact on Global Mortality and mobidity in heart failure trial
+Prospective comparison of ARni with Acei to Determine Impact on Global Mortality and morbidity in heart failure trial
 ### Findings
+In adult patients with reduced ejection fraction heart failure, use of sacubitril/valsartan (Entresto), an angiotensin receptor-neprilysin inhibitor, compared to an ACEi reduced:
+- All cause mortality (HR 0.84)
+- Cardiovascular causes mortality (HR 0.80)
+- Risk of hospitalization for HF by 21%
 
-**Limitations**
+Study ended prematurely due to overwhelming benefit.
 ### Background
+Established treatment for CHF have included ACE inhibitors for decades (see [[#CONSENSUS 1987]]). Angiotensin-receptor blockers have been thought to be equivalent, although the evidence is less consistent, and has thus been used in patients who have ACEi-associated side effects. 
 
+Neprilysin degrades endogenous vasoactive peptides (natriuretic peptides, bradykinin, adrenomedullin) which causes vasoconstriction, sodium retention, and maladaptive remodelling. Inhibition of neprilysin would counter this.
+
+Entresto is a combination of an ARB and neprilysin inhibitor.
 ### Study Appraisal
 
 | Criteria          | Acceptable? | Additional Comments |
 | ----------------- | ----------- | ------------------- |
-| Internal validity |             |                     |
-| External validity |             |                     |
+| Internal validity | Yes         |                     |
+| External validity | Yes         |                     |
 ## SPRINT 2015
-
+Systolic blood PRessure INtervention Trial
 ### Findings
+Along patients with high risk of cardiovascular events (but without diabetes/prior stroke), a systolic blood pressure target of <120 mmHg compared to a target of <140 mmHg reduced:
+- Cardiovascular events (ACS, stroke, HF, death from CVD) (HR 0.75)
+- All-case mortality (HR 0.73)
+
+Risk of adverse events were higher in the lower target group:
+- Hypotension (HR 1.67)
+- Syncope (HR 1.33)
+- Electrolyte abnormalities (HR 1.35)
+- Acute kidney injury (HR 1.66)
 
 **Limitations**
-### Background
+Study population limited to those with:
+- Age ≥50
+- Increased risk of cardiovascular events (CKD, >15% on Framingham score, age ≥75)
 
+The study also excluded patients with either:
+- Diabetes
+- Prior stroke
+### Background
+Treatment of hypertension reduces risk of cardiovascular outcomes. However, the target SBP was uncertain with studies suggesting risk begins with SBP above 115 to 150 mmHg. 
 ### Study Appraisal
 
 | Criteria          | Acceptable? | Additional Comments |
 | ----------------- | ----------- | ------------------- |
-| Internal validity |             |                     |
-| External validity |             |                     |
+| Internal validity | Y           |                     |
+| External validity | Y           |                     |
 ## EMPA-REG-OUTCOME 2015
-
+EMPAgliflozin Removal of Excess Glucose: cardiovascular OUTCOME event trial in type 2 diabetes mellitus patients
 ### Findings
+In adult patients with type 2 diabetes at high risk of cardiovascular events, use of empagliflozin, an SGLT2 inhibitor, compared to placebo, saw reduced:
+- Death from cardiovascular causes, nonfatal MI, or nonfatal stroke (composite; HR 0.86)
+- Death from cardiovascular causes (RR 0.62)
+- Hospitalization from heart failure (RR 0.65)
+- All cause mortality (RR 0.68)
 
-**Limitations**
+The intervention group saw higher rates of genital infection but no imbalance for uncomplicated or complicated UTI.
 ### Background
+While type 2 diabetes and cardiovascular disease both increase the risk of death, evidence for the benefit of glucose lowering therapy on reducing cardiovascular events and death has been unclear.
 
+In particular, prior antihyperglycemics have caused adverse cardiovascular events (rosiglitazone) and thus addition vigilance was required.
+
+Sodium-glucose cotransporter 2 (SGLT2) inhibitors reduce blood glucose levels by increasing urinary glucose excretion. Other effects included:
+- Weight loss
+- Reduction in blood pressure without increases in heart rate
+- Favourable effect on markers of arterial stiffness and vascular resistance
 ### Study Appraisal
 
 | Criteria          | Acceptable? | Additional Comments |
 | ----------------- | ----------- | ------------------- |
-| Internal validity |             |                     |
-| External validity |             |                     |
+| Internal validity | Y           |                     |
+| External validity | Y           |                     |
 ## TAVR Low-Risk Trials 2019
 ### Findings
 

@@ -119,7 +119,7 @@ Classification of allergic rhinitis can be made to guide treatment:
 - **Mild**: there is *no* sleep disturbance, impairment of activities, school, or work, or troublesome symptoms
 - **Moderate-severe**: there is sleep disturbance, impairment, and/or troublesome symptoms
 ### Work-up
-While a work-up is not required for presumptive diagnosis and treatment, allergy testing can aid in finding triggers when history alone is insufficient.
+While a work-up is not required for presumptive diagnosis and treatment, allergy testing can aid in finding triggers when history alone is insufficient. Further evaluation may be indicated if symptoms prove difficult to manage as well.
 
 This primarily consist of skin testing through allergist referral. In rare cases, serum IgE immunoassays and nasal cytology can be performed.
 ### Differential
@@ -181,7 +181,9 @@ For patients with predictable seasonal allergies, initiating regular treatment a
 **Persistent or moderate-to-severe symptoms**
 Options are similar to mild/intermittent symptoms. Additionally, intranasal corticosteroids or antimuscarinics (or a combination of them) can be used as an adjunct.
 
-Immunotherapy consisting of annual allergy injections are rare as they can be costly.
+Immunotherapy consisting of regular allergy injections are rare as they can be costly. Types include:
+- Subcutaneous immunotherapy (injection; generates more pronouced allergen-specific IgG4 responses)
+- Sublingual immunotherapy (oral induction)
 ## References
 ### Tools / Guidelines
 ### Additional Reading

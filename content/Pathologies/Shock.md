@@ -3,7 +3,7 @@ aliases:
 ---
 ---
 creation date: 2025-05-01 18:49 
-tags: [[Pathologies]]
+tags: [[Pathologies]][[Incomplete]]
 
 ---
 # Shock

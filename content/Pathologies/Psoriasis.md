@@ -140,7 +140,7 @@ Phototherapy
 - Preference and availability
 - Response to prior therapies
 
-Generally, a topical therapy is used initially but consideration of systemic therapy should be done if there is difficulty in application, risk of inadequate response, or if regimen is not feasible for long term.
+	Generally, a topical therapy is used initially but consideration of systemic therapy should be done if there is difficulty in application, risk of inadequate response, or if regimen is not feasible for long term.
 ## References
 ### Tools / Guidelines
 ### Additional Reading
