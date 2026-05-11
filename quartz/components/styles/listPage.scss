@@ -7,7 +7,7 @@ ul.section-ul {
 }
 
 li.section-li {
-  margin-bottom: 1em;
+  margin-bottom: 0.95em;
 
   & > .section {
     display: grid;
@@ -38,6 +38,7 @@ li.section-li {
       white-space: normal;
       overflow-wrap: anywhere;
       word-break: break-word;
+      font-size: 1.2rem;
     }
   }
 }

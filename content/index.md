@@ -1,14 +1,31 @@
 ---
 title: Med Notes
+navLinks:
+    - label: Anatomy & Physiology
+      url: "/Anatomy--and--Physiology"
+    - label: Assessments
+      url: "/Assessments"
+    - label: Interventions
+      url: "/Interventions"
+    - label: Pathologies
+      url: "/Pathologies"
+    - label: Pharmacology
+      url: "/Pharmacology"
+    - label: Reference
+      url: "/Reference"
+    - label: Workups
+      url: "/Workups"
+    - label: External Resources
+      url: "https://jackxue.com/links/resources/"
 ---
 # Med Notes
 
 This is a repository of condensed notes to consolidate problem-based learning notes.
 
-**Disclaimer**: the purpose of these notes is for my personal learning. They are hosted online for my own ease of access and are **not** intended to be used as a primary resource for studying or patient care. Many pages are work-in-progress and may be inaccurate and/or incomplete.
+**Disclaimer**: the purpose of this site is for personal use. Accuracy is not guaranteed. Many pages are work-in-progress and may be inaccurate and/or incomplete.
 
-**Warning**: the content of the notes are medical in nature and as such may contain images, diagrams, and topics that a reader may find unpleasant or upsetting.
-## Sources
+**Warning**: content is medical in nature and may contain images, diagrams, and topics that are unpleasant or upsetting.
+##### Sources
 The notes taken are a combination of lecture material, notes from group discussion, clinical pearls from placements, and personal research. Thus, an exhaustive source list is impossible.
 
 Some resources used for these notes include:
