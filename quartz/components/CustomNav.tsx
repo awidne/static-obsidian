@@ -56,6 +56,12 @@ export default ((opts?: Options) => {
     .custom-nav a:hover {
       color: var(--tertiary);
     }
+
+    @media all and (max-width: 800px) {
+      .custom-nav {
+        display: none;
+      }
+    }
   `
 
   return CustomNav
