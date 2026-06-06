@@ -14,7 +14,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "goatcounter",
+      websiteId: "notes-jackxue",
     },
     locale: "en-US",
     baseUrl: "notes.jackxue.com",

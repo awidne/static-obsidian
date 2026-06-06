@@ -70,6 +70,8 @@ Secretory diarrhea occurs due to active intestinal secretions of electrolytes. T
 **Exudative, inflammatory, infectious**
 Mucosal damage of the intestine results in leakage of mucus, proteins, and blood. This increases the concentration of osmotically active components within the intestinal lumen resulting in increased water content. Additionally, bacteria can stimulate fluid secretion through toxins, stimulation of inflammatory cascade, and disruption of physiological microbiota.
 
+Bloody diarrhea is associated with Salmonella, Shigella, EHEC, Campylobacter jejuni, Yersinia enterocolitica, and C. difficile.
+
 **Motility-related**
 Rapid transit of content through the bowel reduces the capability to absorb water. Stasis may allow for bacterial overgrowth.
 ## Clinical Presentation

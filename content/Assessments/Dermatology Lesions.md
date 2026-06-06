@@ -34,7 +34,7 @@ Evaluation of skin lesions should consider elements of the history including:
 ###### Diagnosis/Treatment
 - Clinical diagnosis
 - Snip excision, electrocautery, or cryotherapy if symptomatic
-- Consider metabolic risk review given obesity and diabetes.
+- Consider metabolic risk review given obesity and diabetes
 ###### Differential Diagnosis
 - Intradermal nevus
 - Neurofibroma

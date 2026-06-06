@@ -11,52 +11,6 @@ tags:
 ## CONSENSUS 1987
 ### Findings
 Use of enalapril (ACEi) reduced mortality and improved symptoms in patients with severe congestive heart failure.
-### Background
-
-### Study Appraisal
-**Internal validity**
-
-| Criteria          | Acceptable? | Comments |
-| ----------------- | ----------- | -------- |
-| Focused           |             |          |
-| Randomized        |             |          |
-| Blinded           |             |          |
-| Similar baseline  |             |          |
-| Equal treatment   |             |          |
-| Loss to follow-up |             |          |
-| ITT analysis      |             |          |
-**External validity**
-
-| Criteria                      | Notes |
-| ----------------------------- | ----- |
-| Conflict of interests         |       |
-| Applicable population         |       |
-| Benefit vs. costs             |       |
-| Clinically important outcomes |       |
-## ISIS II 1988
-### Findings
-### Background
-
-### Study Appraisal
-**Internal validity**
-
-| Criteria          | Acceptable? | Comments |
-| ----------------- | ----------- | -------- |
-| Focused           |             |          |
-| Randomized        |             |          |
-| Blinded           |             |          |
-| Similar baseline  |             |          |
-| Equal treatment   |             |          |
-| Loss to follow-up |             |          |
-| ITT analysis      |             |          |
-**External validity**
-
-| Criteria                      | Notes |
-| ----------------------------- | ----- |
-| Conflict of interests         |       |
-| Applicable population         |       |
-| Benefit vs. costs             |       |
-| Clinically important outcomes |       |
 ## 4 “S” Study 1994
 Scandinavian Simvastatin Survival Study
 ### Findings
@@ -64,28 +18,7 @@ Use of simvastatin reduced death compared to placebo in patients with CHD:
 - All-cause: RR 0.7
 - Coronary deaths: RR 0.58
 
-37% reduction of risk of myocardial revascularisation need.
-### Background
-### Study Appraisal
-**Internal validity**
-
-| Criteria          | Acceptable? | Comments |
-| ----------------- | ----------- | -------- |
-| Focused           |             |          |
-| Randomized        |             |          |
-| Blinded           |             |          |
-| Similar baseline  |             |          |
-| Equal treatment   |             |          |
-| Loss to follow-up |             |          |
-| ITT analysis      |             |          |
-**External validity**
-
-| Criteria                      | Notes                                                                                                    |
-| ----------------------------- | -------------------------------------------------------------------------------------------------------- |
-| Conflict of interests         |                                                                                                          |
-| Applicable population         | Patients with angina pectoris or previous MI and serum cholesterol 5.5-8.0 mmol/L on lipid-lowering diet |
-| Benefit vs. costs             |                                                                                                          |
-| Clinically important outcomes |                                                                                                          |
+37% reduction of risk of myocardial revascularization need.
 ## NINDS Trial 1995
 ### Findings
 Use of IV t-PA within 3 hours of onset of ischemic stroke improved clinical outcome at three months.
@@ -316,6 +249,29 @@ Additionally, warfarin required regular INR monitoring.
 | Applicable population         | **Inclusion**<br>-ECG evidence of afib<br>-At least one of the following:<br>-> Age 75 or older<br>-> On treatment for htn<br>-> Previous stroke, TIA, or non-CNS systemic embolus<br>-> LVEF <45%<br>-> PAD<br>-> Age 55-74 if diabetes or CAD<br>**Exclusion**<br>-CI for medications<br>-Peptic ulcer disease in previous 6 months<br>-PMHx IC hemorrhage<br>-Significant thrombocytopenia<br>-Mitro stenosis |
 | Benefit vs. costs             |                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Clinically important outcomes | Oral anticoagulation therapy is superior to clopidogrel + aspirin for afib pervention of stroke                                                                                                                                                                                                                                                                                                                  |
+## Rosiglitazone and Risk of MI/Death
+Effect of Rosiglitazone on Risk of Myocardial Infarction and Death from Cardiovascular Causes
+### Findings
+In a meta-analysis of clinical trials relating to rosiglitzone with outcome data (MI and death from cardiovascular causes):
+
+Patients who received rosiglitazone, compared to those with a non-rosiglitazone comparator, had:
+- Increased risk of myocardial infarction (OR 1.43, 95CI 1.03-1.98)
+- Increased risk of death (OR 1.64, 95CI 0.98-2.74)
+
+Effect: rosiglitazone is no longer used.
+
+**Limitations**
+Limited access to original source data - no time-to-event analysis.
+### Background
+Thiazolidinedione drugs were widely used as antihyperglycemic agents in treatment of type 2 diabetes.
+
+At the time of study, troglitazone was already removed from use prior to this study due to hepatotoxicity, with rosiglitazone and pioglitazone remaining on the market.
+### Study Appraisal
+
+| Criteria          | Acceptable? | Additional Comments           |
+| ----------------- | ----------- | ---------------------------- |
+| Internal validity | Y           No funnel plot, Jadad scores ,  |
+| External validity | Y                                           |
 ## HYVET 2008
 ### Findings
 In patients who are 80 years of age or older (mean BP 173/91), treatment with antihypertensive therapy (mean BP 15/6 lower than placebo) compared to placebo reduced:
@@ -483,6 +439,38 @@ Apixaban is a direct factor Xa inhibitor that is more consistent at anticoagulat
 | Applicable population         | **Inclusion:**<br>-Afib or aflutter with 2 episodes prior<br>-Risk factor for stroke<br>**Exclusion:**<br>-Afib was due to reversible cause<br>-Mod/severe mitral stenosis<br>-Other conditions requiring anticoag<br>-Need for antiplatelet or severe renal impairment |
 | Benefit vs. costs             |                                                                                                                                                                                                                                                                         |
 | Clinically important outcomes | Apixaban is superior to warfarin for prevention of stroke or systemic embolism, caused less bleeding, and resulted in lower mortality                                                                                                                                   |
+## CRASH 2013
+Clinical Randomization of an Antifibrinolytic in Significant Hemorrhage-2
+### Findings
+In adult patients with either
+- significant hemorrhage (SBP <90, HR >110, or both)
+- at risk of significant hemorrhage and within 8 hours of injury
+
+without clear indication for or against use of TXA, use of TXA (1g over 10 min then 1g over 8 hours) compared to placebo, resulted in:
+- Reduced all cause mortality (RR 0.91)
+- Reduced death due to bleeding if administered within 3 hours (RR 0.85)
+	- Early treatment, ≤1 hour from injury: RR 0.68
+	- Treatment between 1-3 hours: RR 0.79
+	- Late treatment after 3 hours: RR 1.44
+- No difference in blood product transfusion requirements
+
+**Limitations**
+### Background
+Exsanguination is common cause of death in trauma patients. In major surgery (which trigger similar hemostatic response to trauma), a fibrinolytic response occurs which can become pathological (hyper-fibrinolysis).
+
+Antifibrinolytic agents have been shown to reduce blood loss in patients with fibrinolytic responses to surgery without increasing risk of complications (eg. VTE).
+
+A number of antifibrinolytics exist, but TXA has been used previously for bleeding trauma and thus selected for the trial.
+
+Associated studies are:
+- CRASH-1: Corticosteroid use after significant head injury
+- CRASH-3: Antifibrinolytic in significant head injury
+### Study Appraisal
+
+| Criteria          | Acceptable? | Additional Comments                                               |
+| ----------------- | ----------- | ----------------------------------------------------------------- |
+| Internal validity | Y           | Telephone randomization wasn't used in some low-resource settings |
+| External validity | Y           |                                                                   |
 ## PARADIGM 2014
 Prospective comparison of ARni with Acei to Determine Impact on Global Mortality and morbidity in heart failure trial
 ### Findings
@@ -558,99 +546,253 @@ Sodium-glucose cotransporter 2 (SGLT2) inhibitors reduce blood glucose levels by
 | ----------------- | ----------- | ------------------- |
 | Internal validity | Y           |                     |
 | External validity | Y           |                     |
+## PECARN DKA FLUID 2018
+Clinical Trial of Fluid Infusion Rates for Pediatric Diabetic Ketoacidosis (Kuppermann et al.)
+### Findings
+In patients aged <18 years old with a diagnosis of DKA, the rate of infusion (rapid vs. slow) and sodium content (0.45% vs. 0.9%) did not differ significantly for:
+- Magnitude of GCS score decrease
+- Incidence of clinically apparently brain injury
+- Memory and IQ scores obtained after recovery
+- Occurrence of serious adverse events
+
+**Limitations**
+Exclusion criteria:
+- Underlying disorders affecting mental status testing
+- Concurrent alcohol/narcotics use, head trauma, or other neurologic conditions
+- Known pregnancy
+- GCS ≤11
+### Background
+Prior to study, fluid administration has undergone several evolutions, such as the introduction of slow rehydration with isotonic fluids to prevent cerebral edema.
+
+Infusion rates varied based on centres, with numerous infusion protocols requiring calculations for rate of administration and sodium chloride content.
+### Study Appraisal
+
+| Criteria          | Acceptable? | Additional Comments |
+| ----------------- | ----------- | ------------------- |
+| Internal validity | Y           |                     |
+| External validity | Y           |                     |
 ## TAVR Low-Risk Trials 2019
+Transcatheter Aortic-Valve Replacement with a self-expanding valve in Low-Risk patients
 ### Findings
+In patients with severe aortic-valve stenosis with a low risk of death (≤3% predicted), use of a transcatheter aortic valve replacement (TAVR) instead of surgery saw:
+- Reduced risk of death or disabling stroke at 24 months (RR 0.79)
+- Lower incidence of:
+	- Disabling stroke
+	- Bleeding complications
+	- Acute kidney injury
+	- Atrial fibrillation
+
+TAVR had:
+- Lower aortic-valve gradients
+- Larger effective orifice area
+
+TAVR increased the risk of:
+- Moderate or severe regurgitation
+- Pacemaker implantation
 
 **Limitations**
+- Study only did 12 month follow up
+- Bicuspid valves or those candidates for mechanical valves were excluded
 ### Background
-
+TAVR was shown to be effective and noninferior for patients at intermediate surgical risk. However, patients with low surgical risk were not included for TAVR as surgical risk was low enough compelling evidence was required before TAVR was attempted for this population.
 ### Study Appraisal
 
-| Criteria          | Acceptable? | Additional Comments |
-| ----------------- | ----------- | ------------------- |
-| Internal validity |             |                     |
-| External validity |             |                     |
+| Criteria          | Acceptable? | Additional Comments                                                |
+| ----------------- | ----------- | ------------------------------------------------------------------ |
+| Internal validity | Y           | End-point data collection was not fully blinded for all end points |
+| External validity | Y           |                                                                    |
 ## RECOVERY 2020
+Randomized Evaluation of COVid-19 thERapY trial
 ### Findings
+In patients hospitalized for SARS-CoV-2 infection, addition of oral or intravenous dexmethasone to usual treatment resulted in:
+- Reduced death among those receiving mechanical ventilation (RR 0.64)
+- Reduced death among those receiving supplemental oxygen without invasive mechanical ventilation (RR 0.82)
+- No effect on those not receiving respiratory support (RR 1.19 (CI 0.92-1.55))
+
+Note that the categorization by use of ventilation and oxygen are that at randomization.
 
 **Limitations**
+Unknown true effect of use in patients not receiving respiratory support (suggests possible harm or no effect).
 ### Background
-
+Severe Covid-19 infection in early 2020 resulted in high mortality and increased risk of needing invasive mechanical ventilation. At the time of the study, no therapeutic agents have been shown to reduce mortality.
 ### Study Appraisal
 
-| Criteria          | Acceptable? | Additional Comments |
-| ----------------- | ----------- | ------------------- |
-| Internal validity |             |                     |
-| External validity |             |                     |
+| Criteria          | Acceptable? | Additional Comments                                                                                                  |
+| ----------------- | ----------- | -------------------------------------------------------------------------------------------------------------------- |
+| Internal validity | Y           | Randomization was completed without age stratification but analysis was made with stratification for prognostication |
+| External validity | Y           |                                                                                                                      |
+Findings in this trial has been further confirmed by meta-analysis.
 ## EMPEROR PRESERVED 2021
+EMPagliflozin outcomE tRial in patients with chrOnic heaRt failure with PRESERVED ejection fraction
 ### Findings
+In adults with HFpEF (EF>40%, HYHA II-IV; NT-proBNP >300 or >900 if concurrent afib), use of empagliflozin compared to placebo, saw:
+- Reduced composite death from cardiovascular causes or hospitalization of HF (HR 0.79)
+	- Reduced hospitalization for HF (HR 0.71)
+	- Reduced death from cardiovascular causes (HR 0.91)
+- Reduced rate of decline of GFR (-1.25 vs. -2.62 mL/min/1.73m2/year)
+- No difference in all cause mortality (HR 1.00)
+
+Benefit is consistent across subgroups, with or without diabetes. It is also consistent with findings of EMPEROR-Reduced, suggesting SGLT2i benefits do not depend on heart failure phenotype.
 
 **Limitations**
+High rate of discontinuation (23% in both groups) due to reasons other than death may have skewed effect to the null hypothesis resulting in the lack of effect on all-cause mortality.
 ### Background
-
+SGLT2 inhibitors have been show to reduce development and progression of HF in patients with type 2 diabetes and progression in patients with HFrEF. Findings have been inconclusive for those with HFpEF.
 ### Study Appraisal
 
 | Criteria          | Acceptable? | Additional Comments |
 | ----------------- | ----------- | ------------------- |
-| Internal validity |             |                     |
-| External validity |             |                     |
+| Internal validity | Y           |                     |
+| External validity | Y           |                     |
 ## STEP1 2021
+Semaglutide Treatment Effect in People with obesity
 ### Findings
+In adult patients
+- unsuccessful in dietary efforts to lose weight
+- without diabetes or pancreatitis
+- BMI of ≥30 or ≥27 with a weight-related comorbid condition
+
+use of once weekly 2.4 mg subcutaneous semaglutide (0.25 mg initially x4wk increased every 4 weeks until 2.4 mg), compared to placebo saw:
+- Greater change in body weight from baseline (-14.9% vs. -2.4%)
+- Greater improvement in cardiometabolic risk factors
+- Greater increase in participant-reported physical function from baseline
+
+Both groups also received additional lifestyle interventions consisting of reduced-calorie diet and increased physical activity.
+
+Use of semaglutide resulted in increased reported side effects:
+- Nausea (44.2% of participants vs. 17.4%)
+- Diarrhea (31.5% vs. 15.9%)
+- Vomiting (24.8% vs. 6.6%)
+- Constipation (23.4% vs. 9.5%)
 
 **Limitations**
-### Background
+The study had a majority of women (73.1% of treatment arm and 76% of placebo) and White (74.5% of treatment and 76.2% of placebo) patients and excluded patients with type 2 diabetes.
 
+The authors also suggest a potential the participants were a more motivated subgroup than the general population.
+### Background
+Obesity is associated with a number of health concerns. Lifestyle intervention is a cornerstone in management but long-term maintenance of weight loss is challenging and adjunctive pharmacotherapy are limited.
+
+Prior antiobesity drugs are daily, BID, or TID which may affect adherence.
+
+Semaglutide is a GLP-1 agonist used for type 2 diabetes. It was found to induce weight loss in adults with obesity and type 2 diabetes (phase 2 STEP). It is available once weekly and has shown to be beneficial for weight loss (SCALE study).
 ### Study Appraisal
 
 | Criteria          | Acceptable? | Additional Comments |
 | ----------------- | ----------- | ------------------- |
-| Internal validity |             |                     |
-| External validity |             |                     |
+| Internal validity | Y           |                     |
+| External validity | Y           |                     |
 ## SELECT 2023
+SEmagLutide Effects on Cardiovascular ouTcomes in people with overweight or obesity
 ### Findings
+In adults ≥45 years of age with a BMI ≥27 and established cardiovascular disease and without diabetes, use of a once-weekly subcutaneous semaglutide at 2.4 mg (initial 0.24 mg increased q4wk to 0.5, 1.0, 1.7, then 2.4) compared to placebo, resulted in:
+- Reduced composite death (cardiovascular causes, nonfatal MI, nonfatal stroke) (HR 0.80)
+- Decreases in body weight and waist circumference
+- Increased incidence of serious adverse events leading to discontinuation (eg. GI disorders)
 
 **Limitations**
+Study only included patients with preexisting cardiovascular disease. Population of study also skewed away from women (27.7%) and Black (3.8%) patients, which is lower than general population.
 ### Background
+Overweight and obesity are independently associated with an increased risk of cardiovascular events, even after accounting for metabolic cardiovascular RFs linked to excess weight.
 
+Previous methods for reducing cardiovascular risk include treating dyslipidemia, hypertension, and diabetes. However, treatment of obesity to reduce cardiovascular complications is limited.
+
+GLP-1 agonists are used in the management of type 2 diabetes and obesity. However, whether there is a dirrect effect on reduction of cardiovascular risk is unknown. Studies in animals have shown:
+- Reduced inflammation
+- Improved endothelial and LV function
+- Improved plaque stability
+- Decreased platelet aggregation
 ### Study Appraisal
 
 | Criteria          | Acceptable? | Additional Comments |
 | ----------------- | ----------- | ------------------- |
-| Internal validity |             |                     |
-| External validity |             |                     |
+| Internal validity | Y           |                     |
+| External validity | Y           |                     |
 ## BALANCE 2024
+Bacteremia Antibiotic Length Actually Needed for Clinical Effectiveness
 ### Findings
+In admitted patients with a positive blood culture, use of a shorter duration course of antibiotics (7 days) compared to a longer duration (14 days) resulted in:
+- Noninferiority relating to 90-day mortality (-1.6%, CI -4.0 to 0.8)
+
+Findings consistent with subsequent smaller trials.
 
 **Limitations**
+Exclusion criteria:
+- Severely immunocompromised
+- Had prosthetic heart valves or endovascular grafts
+- Suspected or documented syndrome requiring prolonged treatment (eg. endocarditis, osteomyelitis, septic arthritis, undrained abscess, or prosthetic-associated infection)
 ### Background
+Antibiotic therapy improves survival but duration of treatment is understudied.
 
+Traditionally, short-course antibiotics bring concern for insufficient treatment and thus cause relapsing infection and selection of resistance. However, excessive durations results in avoidable adverse events including C. difficile infection. 
+
+Prior studies have found noninferiority of short-course antibiotics (≤7 days) for bacterial infections (HAP and CAP, uncomplicated intraabdominal infection, pyelonephritis, cellulitis) but excluded or did not focus on bacteremia.
 ### Study Appraisal
 
-| Criteria          | Acceptable? | Additional Comments |
-| ----------------- | ----------- | ------------------- |
-| Internal validity |             |                     |
-| External validity |             |                     |
-## CRASH 2013
+| Criteria          | Acceptable? | Additional Comments                |
+| ----------------- | ----------- | ---------------------------------- |
+| Internal validity | Y           | Consistent results with ITT and PP |
+| External validity | Y           |                                    |
+## FLUID 2025
+A Crossover Trial of Hospital-Wide Lactated Ringer's Solution versus Normal Saline
 ### Findings
+In admitted patients, use of lactated Ringer's solution compared to normal saline resulted in no significant difference in:
+- Composite death or readmission within 90 days (RR 0.97, 95CI 0.90-1.05)
+- ED visits within 90 days (RR 1.01, CI 0.88-1.15)
+- Hospital length of stay
 
 **Limitations**
-### Background
+Exclusion criteria:
+- Age < 1 month
 
+Only included 7/16 intended hospitals and thus reduced power.
+### Background
+Crystalloid fluids, including normal saline and lactated Ringer's, are commonly used for treatment.
+
+Lactated Ringer's is balanced and thus does not contain excess chloride compared to normal saline (aside: NS contains 154:154 mEq/L while plasma contains 140:100). This thus reduce the risk of hyperchloremic acidosis.
+
+Prior studies have found use of balanced crystalloids are associated with lower incidence of adverse kidney events but the evidence has been inconclusive on the effects on mortality.
 ### Study Appraisal
 
-| Criteria          | Acceptable? | Additional Comments |
-| ----------------- | ----------- | ------------------- |
-| Internal validity |             |                     |
-| External validity |             |                     |
+| Criteria          | Acceptable? | Additional Comments                                                               |
+| ----------------- | ----------- | --------------------------------------------------------------------------------- |
+| Internal validity | Y           | Cluster randomized (hospital-wide intervention selection) and cross-over at wk 15 |
+| External validity | Y           |                                                                                   |
 ## COBRRA 2026
+Comparison Of Bleeding Risk between Rivaroxaban and Apixaban for the treatment of acute venous thromboembolism
+Bleeding Risk with Apixaban vs. Rivaroxaban in Acute Venous Thromboembolism
 ### Findings
+In adult patients with acute VTE, use of apixaban compared to rivaroxaban resulted in:
+- Reduced risk of clinically relevant bleeding (RR 0.46)
+- Reduced risk of major bleeding (RR 0.16)
+- Reduced risk of clinically relevant nonmajor bleeding (RR 0.59)
+
+Note:
+- Apixaban had lower adherence (65.7% vs 75.1%)
+- 3 month recurrence of VTE was 1% in both group
+- Thus, nonadherence does not (necessarily) explain bleeding risk
 
 **Limitations**
-### Background
+Exclusion criteria:
+- GFR <30
+- Active bleeding
+- Cancer-related (standard of care is LMWH)
+- Weight >120 kg
 
+Limitations:
+ - Findings are from first 3 months, may vary beyond
+ - Exclusion criteria of obesity
+ - Not extrapolatable to other indications (VTE secondary prevention, cancer-associated VTE, [atrial fibrillation](https://clinicaltrials.gov/study/NCT04642430))
+### Background
+DOACs are frequently used for treatment of acute VTE, both acutely and afterwards for prevention of recurrent thrombotic events.
+
+Prior studies have shown DOACs
+- Rivaroxaban 15 mg BID x21d followed by 20mg daily
+- Apixaban 10mg BID x7d followed by 5mg BID
+
+were noninferior to warfarin but also found differences in bleeding risk (4.3% of apixaban vs. 9.7% of rivaroxaban). These findings were hypothesized to be due to patient populations but definitive comparison was not made.
 ### Study Appraisal
 
-| Criteria          | Acceptable? | Additional Comments |
-| ----------------- | ----------- | ------------------- |
-| Internal validity |             |                     |
-| External validity |             |                     |
+| Criteria          | Acceptable? | Additional Comments                                            |
+| ----------------- | ----------- | -------------------------------------------------------------- |
+| Internal validity | Y           | Open-label, but assessment of bleed made by objective criteria |
+| External validity | Y           |                                                                |

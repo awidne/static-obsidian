@@ -117,6 +117,8 @@ The osmolar gap is similar to the anion gap but is used to detect hidden osmoles
 - **Normal osmolar gap < 10**
 
 An elevated osmolar gap represents an excess of low molecular weight substance. In the majority of cases, this is ethanol. However, if ethanol level is normal, it is highly suspicious for other toxic alcohols.
+
+Osmolar gap can be adjusted for ethanol levels.
 ### Elevated Anion Gap: Mixed Process
 Even with an elevated anion gap, it is important to still consider non-anion gap causes of metabolic acidosis. 
 - **ΔAG = calculated AG - expected AG**
@@ -131,7 +133,17 @@ Low HCO3 levels may be due to:
 - Excessive loss of bicarbonate
 - Intake/production of acid
 #### Anion Gap
-Causes of elevated anion gap metabolic acidosis is classically summarized by the mnemonic "MUDPILES". However, "KULT IMPACT" better groups causes:
+Causes of elevated anion gap metabolic acidosis is classically summarized by the mnemonic "MUDPILES":
+- Methanol/Metformin
+- Uremia
+- Diabetic ketoacidosis
+- Paraldehyde
+- Isoniazid/Iron
+- Lactic acidosis
+- Ethylene glycol
+- Salicylates
+
+"KULT IMPACT" better groups causes:
 - Ketones (DKA, alcoholic ketoacidosis, starvation ketoacidosis)
 - Uremia
 - Lactate
@@ -140,7 +152,7 @@ Causes of elevated anion gap metabolic acidosis is classically summarized by the
 - Metformin
 - Phenformin, Paraldehyde
 - Aspirin, Acetaminophen, Alcohols (toxic)
-- Cyanide. Carbon monoxide
+- Cyanide, Carbon monoxide
 - Toluene
 
 KULT denotes the most common organic causes, and IMPACT denotes toxicological cause which may be less common.

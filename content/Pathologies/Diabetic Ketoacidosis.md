@@ -87,7 +87,7 @@ Initial evaluation consist of laboratory studies:
 - Plasma osmolality
 - Serum beta-hydroxybutyrate
 
-ABG or VBG should be obtained if serum bicarbonate is substantially reduced, with an ABG preferred if hypoxia is suspected. Additionally, an ECG should be obtained.
+[[Arterial Blood Gas|ABG or VBG]] should be obtained if serum bicarbonate is substantially reduced, with an ABG preferred if hypoxia is suspected. Additionally, an ECG should be obtained.
 ### Differential
 Other causes of ketosis include:
 - Alcoholic ketoacidosis
@@ -108,7 +108,7 @@ Other causes of anion gap elevated metabolic acidosis is described by the mnemon
 - Salicylates
 ### Red Flags / Complications
 Complications include:
-- Cerebral edema (possible during fluid resuscitation)
+- Cerebral edema (possible during fluid resuscitation; RFs: <5 years of age, first presentation, prolonged symptoms, severe dehydration, greater acidosis)
 - Cardiac arrhythmias
 - Heart failure
 - Kidney failure
@@ -125,7 +125,8 @@ In patients without shock, heart failure, or kidney failure, isotonic fluid is i
 
 After 2-3 hours of infusion, hypotonic fluid may be used in place of isotonic saline if sodium concentration is ≥135 mEq/L. It should be noted that sodium concentration must be corrected for degree of hyperglycemia (add 2 mEq/L for each 5.5 mmol/L elevation of glucose over 5.5 mmol/L).
 
-For patients with kidney or cardiac function impairment, care must be given to avoid iatrogenic fluid overload. Small-volume boluses may be preferred over continuous infusion.
+For patients with kidney or cardiac function impairment, care must be given to avoid iatrogenic fluid overload. Small-volume boluses may be preferred over continuous infusion. Monitor for:
+- Confusion, GCS <14, neurologic deterioration, headache, vomiting
 
 If major potassium replacement is needed, KCl may be added to the fluid. 
 ### Electrolytes correction
@@ -153,6 +154,8 @@ Monitor serum potassium levels q1-2h and adjust plan accordingly to maintain ade
 **Other electrolytes**
 Bicarbonates and phosphate only administered in severe cases.
 ### Insulin treatment
+Insulin is not given immediate and should be administered 60-90 minutes after the start of IV fluids. Initiation of insulin within the first hour is associated with increased risk of complications.
+
 **Moderate to severe DKA**
 Regular insulin should be given with a fixed-rate continuous infusion of 0.1 units/kg per hour. Rapid-acting insulin analogs are equally effective and choice comes down to institutional and clinician preference.
 

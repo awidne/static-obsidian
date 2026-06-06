@@ -10,12 +10,16 @@ tags: [[Pharmacology]]
 
 ---
 # Antihyperglycemics
+Antihyperglycemic agents are medication used for control of glucose levels for [[Diabetes Mellitus, Type 2|type 2 diabetes]].
+
 The typical prescribing order is as follows, moving down the list to improve glycemic control:
 1. Metformin
 2. SGLT2i
 3. GLP-1 (may be skipped if needle-adverse)
 4. DPP-4
 5. Sulfonylurea
+
+Failure of adequate control through medication typically require progression to [[Insulin|insulin therapy]].
 ## Biguanide
 ###### Mechanism of action
 Enhances the effect of insulin:
@@ -209,7 +213,8 @@ Similar mechanism as sulfonylurea except binds at a different site at the beta-c
 - Nateglinide (Starlix)
 - Repaglinide (Gluconorm)
 ## Thiazolidinediones (TZDs)
-**Not used in practice - cardiovascular harm outweighs benefits**
+**Not used in practice - cardiovascular harm outweighs benefits** 
+- [[High Impact Studies in Medicine#Rosiglitazone and Risk of MI/Death|NEJM - Effect of Rosiglitazone on Risk of Myocardial Infarction and Death from Cardiovascular Causes]]
 ###### Mechanism of action
 Activation of transcription factor PPARγ (peroxisome proliferator-activated receptor of gamma type) which increases transcription of genes involved in glucose and lipid metabolism. This results in:
 - Increased adipokine levels and insulin sensitivity

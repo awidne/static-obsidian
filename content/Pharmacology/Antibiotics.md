@@ -27,7 +27,7 @@ Inhibits peptidoglycan cross-links in bacterial cell walls by binding to penicil
 - Seizures
 ###### Examples:
 - Penicillin G (benzylpenicillin) - IV or IM due to acid lability
-	- Benzathine benzylpenicillin - long acting IM; for prophylaxis against rheumatic fever
+	- Benzathine benzylpenicillin - long acting IM; for prophylaxis against rheumatic fever, syphilis
 - Penicillin V (phenoxymethylpenicillin) - PO
 ##### Penicillinase-resistant penicillins
 ###### Special characteristics: 
@@ -93,6 +93,7 @@ Inhibits peptidoglycan cross-links in bacterial cell walls by binding to penicil
 ###### Examples:
 - Cephalexin (Keflex) PO
 - Cefazolin (Ancef) IV or IM
+- Cefadroxil PO
 ##### 2nd generation
 ###### Clinical uses:
 - Gram-positive bacteria (less active than 1st gen)
@@ -202,7 +203,6 @@ Disrupts peptidoglycan synthesis by inactivating enolpyruvate transferase; bacte
 ## Disrupt cell membrane integrity
 ### Lipopeptides
 Depolarizes cell membrane by forming ion-conducting channels when lipid portion of antibiotic binds to bacterial cytoplasmic membrane; bactericidal.
-
 ###### Clinical use:
 - Gram-positive bacteria
 - S. aureus, especially MRSA
@@ -267,6 +267,7 @@ Inhibits protein synthesis by blocking incoming tRNA to acceptor site; bacterios
 - Intracellular bacteria (eg. Rickettsia, Chlamydia, Anaplasma)
 - Coverage for: Borrelia burgdorferi (Lyme disease pathogen), Ehrlichia (tick-borne), Vibrio cholerae (causes cholera), Francisella tularensis (tick-borne)
 - Cutibacterium acnes using doxycycline PO
+- Anthrax
 - MRSA using doxycycline
 ###### Adverse effects:
 - Hepatotoxicity
@@ -317,6 +318,7 @@ Inhibits protein synthesis by binding to 23S rRNA and inhibiting transpeptidatio
 - Neisseria meningitidis (2nd line prophylaxis) and Neisseria gonorrhoeae (dual therapy: ceftriaxone and azithromycin)
 - Mycobacterium avium prophylaxis (azithromycin) and treatment (azithromycin or clarithromycin)
 - H. pylori triple therapy (clarithromycin)
+- Traveller's diarrhea (azithromycin)
 ###### Adverse effects:
 - GI upset from motility increase
 - QT-interval prolongation
@@ -326,7 +328,7 @@ Inhibits protein synthesis by binding to 23S rRNA and inhibiting transpeptidatio
 ###### Contraindications:
 - Pregnancy
 - Hepatic failure (azithromycin and clarithromycin)
-- Possible risk with children <12 years (erythromycin), <6 months (clarithromycin and azithromycin)
+- Possible risk with children <12 years (erythromycin), <6 months (clarithromycin and azithromycin) - usually fine for 2nd line
 
 - Erythromycin enhances effects of oral anticoagulants
 - Erythromycin and clarithromycins are CYP3A4 inhibitors
@@ -334,7 +336,6 @@ Inhibits protein synthesis by binding to 23S rRNA and inhibiting transpeptidatio
 - Erythromycin PO or IV
 - Azithromycin PO or IV
 - Clarithromycin PO or IV
-- Roxithromycin PO
 ### Lincosamides
 Inhibits protein synthesis by impairing transpeptidation; bacteriostatic.
 ###### Special characteristics:
@@ -344,7 +345,7 @@ Inhibits protein synthesis by impairing transpeptidation; bacteriostatic.
 - Group A streptococcus
 - Partially effective: gram-positive aerobes including MRSA
 ###### Adverse effects:
-- GI upset (including C. difficile)
+- GI upset (including C. difficile)!!!
 - Pseudomembranous colitis
 - Fever
 - Teratogenicity
@@ -427,7 +428,7 @@ Inhibits DNA synthesis by inhibiting prokaryotic topoisomerase II (DNA gyrase) a
 - Skin rash
 - Superinfection
 - Life threatening exacerbation of myasthenia gravis
-- Damange to growing cartilage
+- Damage to growing cartilage
 - Muscle ache, leg cramps, tendinitis
 - Tendon rupture (esp. Achilles tendon)
 
@@ -484,9 +485,10 @@ Causes single-strand breaks in DNA via free radical formation; bactericidal and 
 - Possible disulfiram-like reaction (evidence shows no association)
 - Metallic taste and GI side effects
 - Peripheral neuropathy with prolonged use
+- Projectile vomiting if taken with alcohol (72 hours)
 ###### Contraindications:
 - Pregnant and breastfeeding women
-- Chidlren
+- Children
 ###### Examples
 - Metronidazole PO or IV
 - Tinidazole PO or IV
@@ -527,7 +529,9 @@ Diaminopyrimidine derivatives:
 - Hyperkalemia
 - Increased creatinine
 ###### Examples:
-- Sulfamethoxazole-trimethoprim (Septra) PO or IV
+- Sulfamethoxazole-trimethoprim (Septra; TMP-SMX) PO or IV
+	- "Single strength": 80 mg TMP, 400 mg SMX
+	- "Double strength": 160 mg, 800 mg
 - Sulfadiazine PO with pyrimethamine PO
 - Sulfisoxazole PO
 ## Antimycobacterials
