@@ -3,6 +3,7 @@ aliases:
   - pna
   - CAP
   - Pneumonia
+  - Community-acquired pneumonia
 ---
 --- 
 

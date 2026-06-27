@@ -3,11 +3,10 @@ aliases:
 ---
 ---
 creation date: 2025-05-01 18:49 
-tags: [[Pathologies]][[Incomplete]]
+tags: [[Pathologies]]
 
 ---
 # Shock
-
 ## Background
 ### Definitions
 Shock is defined as a life-threatening condition of circulatory failure. It is a state of cellular tissue hypoxia due to inadequate oxygen delivery for the metabolic demands.
@@ -15,7 +14,7 @@ Shock is defined as a life-threatening condition of circulatory failure. It is a
 The effects of shock are initially reversible but can deteriorate to an irreversible state with multiorgan failure and death.
 
 Four types of shock are recognized, of which multifactorial shock is possible:
-- Distributive (62% septic shock, 4% other)
+- Distributive (66% – 62% septic shock, 4% other)
 - Cardiogenic (16%)
 - Hypovolemic (16%)
 - Obstructive (2%)
@@ -31,19 +30,28 @@ Cardiac output may increase initially but with drop in preload and cardiac depre
 **Septic shock**
 - A subset of sepsis, which is defined as a dysregulated host response to infection resulting in capillary leakage and systemic vasodilation
 - Circulating inflammatory cytokines causes myocardial depression
-- Types of pathogens varies and ranges from gram-positive bacteria (eg. Pneumococcus, Enterococcus), gram-negative organisms (eg. Pseudomonas, Klebsiella, Enterobacter), antibiotic-resistant organisms (eg. MRSA), and fungi (eg. Candida).
+- Types of pathogens varies and ranges from:
+	- Gram-positive bacteria (eg. Pneumococcus, Enterococcus)
+	- Gram-negative organisms (eg. Pseudomonas, Klebsiella, Enterobacter)
+	- Antibiotic-resistant organisms (eg. MRSA)
+	- Fungi (eg. Candida)
+
 **Systemic inflammatory response syndrome (SIRS)**
 - Characterized by robust inflammatory response
 - Induced by infectious (similar to septic shock) or noninfectious (eg. pancreatitis, blunt trauma, air/fat/fluid embolism)
+
 **Neurogenic shock**
 - Interruption of autonomic pathways due to severe brain and/or spinal cord injury results in unopposed vagal tone
 - Vagal tone causes peripheral vasodilation and pooling of peripheral blood
+
 **Anaphylactic shock**
 - Severe immunoglobulin-E mediated allergic reaction resulting in degranulation of mast cell
 - Massive histamine release causes vasodilation and capillary leakage
+
 **Drug and toxin-induced shock**
 - SIRS-like syndrome can be induced by drug overdoses (eg. narcotics), snake/insect/spider bites, heavy-metal poisoning, transfusion reactions
 - Cyanide and carbon monoxide causes shock from mitochondrial dysfunction
+
 **Endocrine shock**
 - Addisonian crisis (due to mineralocorticoid deficiency) and myxedema
 - In mineralocorticoid deficiency, vascular tone is altered
@@ -55,10 +63,12 @@ Characterized by intracardiac causes of cardiac pump failure -> decreased cardia
 - Consist of failure of cardiac myocardium
 - Most common cause is [[Acute Coronary Syndrome|myocardial infarction]] (typically requires at least 40% of LV to be affected or any amount if there is significant ischemia or other conditions such as heart failure)
 - Other causes include hypertrophic cardiomyopathy or diastolic heart failure but these rarely result in shock
+
 **Arrhythmic**
 - Both atrial and ventricular tachyarrhythmias and bradyarrhythmias can contribute to shock
 - Can become shock is CO is compromised significantly such as with complete heart block
 - CO can also become absent due to underlying rhythm (eg. pulseless VTach, Vfib)
+
 **Mechanical**
 - Mitral valve insufficiency or due to valvular defects from rupture of papillary muscle or chordae tendineae.
 - Aortic insufficiency due to retrograde dissection into aortic valve ring or abscess of aortic ring
@@ -69,6 +79,7 @@ Loss of intravascular fluid -> decreased preload and stroke volume -> decreased 
 - Shock due to a reduction in intravascular volume from blood loss
 - Can be due to blunt or penetrating trauma, upper, and lower GI bleed (in order of prevalence).
 - Less common causes include intra- and postoperative bleeding, ruptured aneurysm, and more
+
 **Non-hemorrhagic**
 - Loss of fluid other than blood
 - Could be from GI (eg. diarrhea, vomitting), skin loss (eg. burns), renal loss (eg. salt-wasting nephropathies), or third space losses into extravascular space or body cavities
@@ -76,6 +87,7 @@ Loss of intravascular fluid -> decreased preload and stroke volume -> decreased 
 Obstruction of heart or great vessels -> inability for heart to circulate blood -> decreased cardiac output
 **Pulmonary vascular**
 - Due to right ventricular failure from hemodynamically significant [[pulmonary embolism]] or severe pulmonary hypertension and heart is unable to overcome pulmonary resistance
+
 **Mechanical**
 - A number of causes can cause mechanical obstruction which includes [[Pneumothorax|tension pneumothorax]], cardiac tamponade, constrictive pericarditis, and restrictive cardiomyopathy.
 ## Clinical Presentation
@@ -86,6 +98,7 @@ Shock begins with an inciting event and progresses through several stages. Early
 **Pre-shock**: aka compensated shock
 - Characterized by compensatory responses to diminished tissue perfusion
 - Eg. hypovolemic shock may see tachycardia and peripheral vasoconstriction
+
 **Shock**:
 - Characterized by compensatory mechanisms being overwhelmed and signs of organ dysfunction appear
 - Signs may include:
@@ -97,6 +110,7 @@ Shock begins with an inciting event and progresses through several stages. Early
 	- Hypotension
 	- Oliguria
 	- Cool, clammy skin
+
 **End-organ dysfunction**
 - Irreversible organ damage, multiorgan failure, and death
 - At this stage, anuria and acute kidney failure develop, acidemia further depresses cardiac output, hypotension becomes severe, and hyperlactatemia worsens
@@ -129,6 +143,7 @@ Septic shock
 - Symptoms suggestive of source of infection
 - Cutaneous manifestation of infective endocarditis
 - Fever
+
 Anaphylactic shock
 - Flushing
 - Urticaria
@@ -143,6 +158,7 @@ Presents with hypotension with manifestation of:
 - Low SvO2 (<70%)
 - Large, dilated ventricles and poor LV function
 - Valvular or septal abnormalities on echocardiography
+
 Specific findings also present based on etiology (eg. findings of MI)
 
 **Hypovolemic shock**:
@@ -155,6 +171,7 @@ Presents with characteristic reduced preload with suspected/known cause:
 - Pallor
 - Flattened JVP
 - Sequelae of chronic liver disease
+
 Findings may vary additionally based on hemorrhagic or nonhemorrhagic etiology.
 
 **Obstructive shock**:
@@ -224,7 +241,7 @@ Initial steps to undifferentiated hypotension/shock should be done simultaneousl
 Following a brief history and examination, **bedside telemetry, electrocardiography, and point-of-care ultrasonography** should be used to assess whether [[#Life-saving or early intervention and stabilization|immediate or early lifesaving therapy]] is needed.
 - Collapsed IVC on POCUS suggests fluid depletion and fluid challenge should be considered
 
-A number of POCUS algorithms are available, including the [[Rapid Ultrasound for Shock and Hypotension (RUSH)]] exam for undifferentiated shock and [[Focused Assessment with Sonography for Trauma (FAST)]] exam for trauma.
+A number of POCUS algorithms are available, including the [[Rapid Ultrasound for Shock and Hypotension (RUSH)]] exam for undifferentiated shock and the [[Extended Focused Assessment with Sonography in Trauma (eFAST)]] exam for trauma.
 
 **Laboratory evaluation** should be done as soon as possible:
 - Serum lactate
@@ -285,21 +302,17 @@ Common interventions include:
 - Anaphylaxis - IM epinephrine 0.3-0.5mg (1:1000, 1 mg/mL) 
 	- q 5min prn up to 3 times before IV epinephrine
 	- Exact dosing: 0.01 mg/kg up to maximum of 0.5mg per dose
-- Overwhelming sepsis - IV antibiotics
-	- If Pseudomonas unlikely:
-		- Vancomycin plus third or fourth-generation cephalosporin
-		- Beta-lactam/beta-lactamase inhibitor (eg. pip-tazo)
-		- Carbapenem (eg. imipenem, meropenem)
-	- If Pseudomonas likely:
-		- Vancomycin plus two antipseudomonal agents (eg. fluoroquinolone, pip-tazo)
+- [[Sepsis]] - IV antibiotics
 - Adrenal crisis - IV hydrocortisone 100 mg
 - Hemorrhage - drainage or emergent surgery
 - Hemodynamically significant arrhythmias - cardioversion, atropine, pacemaker placement, inotrops etc. following ACLS protocols
 - [[Acute Coronary Syndrome#Management|Myocardial infarction]] - antiplatelet and/or cardiac cath
 - Ruptured valve - surgical repair
 - [[Pulmonary Embolism#Management|Pulmonary embolism]] - thrombolysis
-
 #### Distributive shock
+The management of common forms is discusssed separately:
+- [[Sepsis|Sepsis and septic shock]]
+- [[Anaphylaxis]]
 #### Cardiogenic shock
 The goal of treatment is to:
 1. Restore perfusion (avoiding reducing BP, manage volume, antithrombotic if needed)
@@ -309,6 +322,7 @@ The goal of treatment is to:
 With pulse:
 - Bradycardia - synchronized cardioversion and IV atropine
 - Tachycardia - synchronized cardioversion
+
 Without pulse:
 - Asystole or PEA - CPR (not shockable)
 - V-tachy/Vfib - CPR and defibrillation
@@ -316,7 +330,13 @@ Without pulse:
 **Valvulopathies**
 - Surgery
 #### Hypovolemic shock
+The mainstay treatment for hypovolemia is source control and fluids/blood products.
+
+Volume resuscitation begins with a 500 mL bolus of NS or LR. Further fluids may be administered at a minimum but ideally blood products should be used.
+
+Consider [[Massive Transfusion Protocol|massive transfusion]] as indicated.
 #### Obstructive shock
+Fluids should be used with caution. Excessive use of fluids may result in cor pulmonale and venous hypertension, worsening cardiac output.
 ### Treatment of underlying etiology
 Continue empiric therapies for presumed etiologies until patient is stabilized. Response to therapies should be monitored and refined as diagnosis is elucidated.
 

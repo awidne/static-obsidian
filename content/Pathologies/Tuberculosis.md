@@ -5,7 +5,7 @@ aliases:
 --- 
 
 creation date: 2025-09-11 16:23 
-tags: [[Pathologies]] [[Incomplete]]
+tags: [[Pathologies]]
 
 ---
 # Tuberculosis
@@ -192,48 +192,49 @@ Generally preferred are rifamycin-based:
 
 It is important treatment is monitored monthly for side effects and symptoms of hepatitis. 
 ### Treatment of pulmonary tuberculosis
-#### Drug-susceptible TB in nonpregnant adults without HIV
-Treatment consist of a traditional regimen or a shortened regimen. The traditional regimen is the standard of care but the shorten regimen may be considered should they meet the criteria.
+#### Drugs and Treatment Phases
+A number of regimens exists and preference is based on drug-susceptibility and patient characteristics.
 
 It is recommended to ensure adherence and safety, and to prevent drug resistance by having the medication be taken under supervision of a healthcare provider.
 
-**Traditional regimen**
-This regimen lasts 6 months. It begins with a two month intensive phase of the "RIPE therapy":
-- Rifampin (RIF)
-- Isoniazid (INH)
-- Pyrazinamide (PZA)
-- Ethambutol (EMB)
-followed by a continuation phase of:
-- RIF
-- INH
-for at least 4 additional months. During the continuation phase, assessment should be made two months should be made based on chest radiograph and sputum AFB culture which determines the approach to completing treatment.
+Drugs used are:
 
-Note that dosing is based on weight. PZA can be excluded based on side effects but doing so will extend the continuation phase to seven months.
+| Drug         | Abbreviation | Daily dosing (daily max) |
+| ------------ | ------------ | ------------------------ |
+| Rifampin     | RIF          | 10 mg/kg (no max)        |
+| Isoniazid    | INH          | 5 mg/kg (300 mg)         |
+| Pyrazinamide | PZA          | 25 mg/kg (2000 mg)       |
+| Ethambutol   | EMB          | 15 mg/kg (1600 mg)       |
 
-Note that due to adverse effects, patients must not drink alcohol (RIF), 
+Multidrug therapy is used due to slow but consistent resistance conference. As such, use of multiple drugs prevents resistance build up. 
 
-**Shortened regimen**
-This regimen is rifapentine-moxifloacin-based and lasts 4 months. It consists of and 8 week intensive phase of daily:
-- Rifapentine
-- Isoniazid (INH)
-- Pyrazinamide (PZA)
-- Moxifloxacin
-followed by a 9 week continuation phase of daily:
-- Rifapentine
-- INH
-- Moxifloxacin
+Treatment consist of an initial phase of intensive therapy (2 months) followed by a continuation phase. 
+#### Regimens
+The **standard regimen** lasts 6 months. It remains the preferred regimen for drug susceptible TB.
+- Initial: INH RMP PZA EMB daily
+- Continuation: INH RMP EMB daily for 4 months
 
-The criteria for this regimen requires the patient:
-- Has no suspected or confirmed resistance to the medication
-- Has no history of cardiac morbidities
-- Does not have liver disease, renal insufficiency, and/or laboratory abnormalities
-- Is not pregnant or lactating
-- Is not on medication that may interact
-- Is unwilling or unable to afford, assess, or take on the increased pill burden associated with the regimen
-#### Drug-susceptible TB in nonpregnant adults with HIV
-#### Drug-susceptible TB in pregnant or breastfeeding adult
-#### Drug-resistant TB in adults
+PZA can be excluded based on side effects but doing so will extend the continuation phase to seven months.
 
+If drug susceptibility is confirmed:
+- Initial: INH RMP PZA daily
+- Continuation: INH RMP daily for 4 months
+
+Note that due to adverse effects, patients must not drink alcohol (RIF).
+
+A **shortened regimen** is available and statistically noninferior for patients that meet criteria. However, it is associated with higher rates of failure and relapse.
+- Initial: rifapentine, INH, PZA, moxifloxacin
+- Continuation: rifapentine, INH, moxifloxacin
+#### Special Populations
+Note that for special populations, treatment vary. These include:
+- Elderly populations
+- People with HIV
+- Liver or kidney disease
+- Solid organ transplant recipients
+- People taking TNF inhibitors
+- People with drug and alcohol use disorders
+- Pregnant or breastfeeding patients
 ## References
 ### Tools / Guidelines
+[Canadian TB Standards, 8th Edition](https://www.canada.ca/en/public-health/services/diseases/tuberculosis/health-professionals/canadian-tuberculosis-standards.html)
 ### Additional Reading

@@ -69,11 +69,11 @@ Liver function tests (synthetic):
 | Total protein            | 60          | 80          | g/L     |
 | Lactate dehydrogenase    | 50          | 150         | IU/L    |
 ## Thyroid
-|     | Lower limit | Upper limit | Unit |
-| --- | ----------- | ----------- | ---- |
-| TSH |             | 5           |      |
-| T3  |             |             |      |
-| T4  |             |             |      |
+|     | Lower limit | Upper limit | Unit   |
+| --- | ----------- | ----------- | ------ |
+| TSH | 0.4         | 5           | mIU/L  |
+| T3  | 1.3         | 3.1         | nmol/L |
+| T4  | 12          | 22          | pmol/L |
 ## Inflammatory markers
 |     | Lower limit | Upper limit | Unit |
 | --- | ----------- | ----------- | ---- |

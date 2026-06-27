@@ -30,16 +30,19 @@ Salicylate toxicity, also referred to as salicylism, is a somewhat common cause 
 Absorption
 - Rapidly absorbed in the jejunum; slightly in stomach and duodenum
 - Peak blood concentration within one hour for regular tabs or caps; 4-15 for delayed or enteric coated
+
 Distribution
 - At therapeutic concentration, 90% of salicylate is albumin-bound
 - Overdose results in free salicylic acid that can cross blood-brain barrier and renal tubular epithelium; lowers pH
+
 Metabolism
 - Half-life of 2-4 hours via liver metabolism
 - Major metabolite is salicyluric acid which is less toxic and more rapidly excreted
 - At high concentrations, liver enzymes become saturated and rate of metabolism drops (zero-order)
+
 Elimination
 - Excreted through the kidney
-### Toxic Doses and Mechanism of Toxicity
+### Toxic Doses & Mechanism of Toxicity
 **Toxic doses**
 - <150 mg/kg: no/minimal symptoms
 - 150-300 mg/kg: mild to moderate toxicity
@@ -129,6 +132,11 @@ Major complications include:
 - Asystole
 - Hypotension
 - Encephalopathy, seizures, coma
+
+In children, salicylate use is a major precipitating factor in the development of Reye syndrome. This is characterized by rapidly progressive encephalopathy with hepatic dysfunction:
+- Vomiting and confusion
+- Evolution to seizures and coma
+- Hepatomegaly
 ## Management
 ### General Management
 **Stabilization and supportive care**

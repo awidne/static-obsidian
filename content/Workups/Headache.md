@@ -22,7 +22,7 @@ The brain parenchyma does not have cociceptors and thus headaches are a result o
 The may be due to stretching, dilation, constriction, or nociceptor stimulation of those structures but the pathophysiology of primary headaches are not fully understood. The pathophysiology of secondary headaches depends on the underlying process.
 ## Differential Diagnosis
 **Primary headaches**
-- Migraine (episodic, usually unilateral,  throbbing/pulsatile)
+- [[Migraine]] (episodic, usually unilateral,  throbbing/pulsatile)
 - Tension-type headache (mild-to-moderate, bilateral, nonthrobbing headache)
 - Cluster headache (unilateral, severe headache with ipsilateral cranial autonomic symptoms)
 

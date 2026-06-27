@@ -48,6 +48,10 @@ Physical exam should include:
 - Temperature
 - Pulses
 - Neurologic assessment (sensation)
+
+Buerger's test can be used to test for PAD. Patient is supine and leg raised to 45 degrees for 1-2 minutes, then patients sit up and let down legs to hang over the edge 
+- Elevation pallor: foot turns pale during elevation phase
+- Rubor dependency: during dependent phase, foot takes longer to return to normal and turns a dusky, dark red (compensation from previous ischemia during elevation)
 ### Risk Factors
 Risk factors are those consistent with atherosclerosis:
 - Older age

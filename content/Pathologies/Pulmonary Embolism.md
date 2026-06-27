@@ -16,9 +16,9 @@ tags: [[Pathologies]]
 ### Definitions
 Pulmonary embolisms are defined as obstruction(s) of the pulmonary artery or one/multiple of its branches by thrombus, tumour, air, or fat.
 
-Most commonly though, PE refers to those formed by thrombus and as such as a form of venous thromboembolism which is the form discussed here.
+Most commonly though, PE refers to those formed by thrombus–and as such is a form of venous thromboembolism–which is the form discussed here.
 ### Etiology
-In most cases, thrombus causing PE originate as lower extremity [[deep vein thrombosis]] (DVT) and thus causes reflect those of DVT. A number of factors predispose DVTs and PEs and are discussed in the [[#Risk factors|risk factor section below]].
+In most cases, thrombus causing PE originate as lower extremity [[Deep Vein Thrombosis|deep vein thrombosis]] (DVT) and thus causes reflect those of DVT. A number of factors predispose DVTs and PEs and are discussed in the [[#Risk factors|risk factor section below]].
 
 In addition to risk factors, triggers for VTE include infection and malignancy (esp. pancreatic, hematological, lung, gastric, and brain). Other causes include [[Acute Coronary Syndrome|myocardial infarction]] and [[congestive heart failure]].
 ### Pathogenesis
@@ -58,13 +58,13 @@ Other signs found on examination include:
 - Pleural effusion
 - Fever
 ### History & Physical Exam
-Evaluation must be done vigilantly for PE as up to 1/3 of patients do not have mild or absent symptoms. Clinical suspicion should be investigated with assessment of risk factors.
+Evaluation must be done vigilantly for PE as up to 1/3 of patients have mild or absent symptoms. Clinical suspicion should be investigated with assessment of risk factors.
 
 Assess for shock and hemodynamic instability in cases of suspected PE.
 ### Risk factors
 The risk factors for PE are summarized by the Virchow triad: hypercoagulability, venous stasis, and endothelial injury.
 
-Risks can be separated into genetic ([[Thrombophilia]]) or acquired which includes:
+Risks can be separated into genetic (thrombophilia) or acquired. Acquired factors includes:
 - Immobilization for prolonged period (eg. bed rest >3d, travel >4h)
 - Recent orthopedic surgery
 - Malignancy
@@ -88,12 +88,10 @@ Other predisposing factors for VTE include:
 ### Criteria
 Diagnosis of PE is made by **CT pulmonary angiography**. Decision to undergo CTPA can be made using risk stratification criteria (see work-up). CTPA is both sensitive and specific for PE and provide information on location, prognosis, thrombus load, and right ventricular enlargement.
 
-Indeterminant CTPAs may require a repeat (eg. if contrast bolus was poorly timed)
+Indeterminant CTPAs may require a repeat (eg. if contrast bolus was poorly timed). If CTPA is unavailable, a V/Q scan can be done. Findings are used with Wells criteria for diagnosis.
 #### CTPA findings
 PE will manifest as filling defects or an abrupt cutoff in a branch within the pulmonary vasculature. This can also manifest as the polo mint sign (ring of contrast around central filling defect) if artery viewed in the axial plane.
 ![[Pulmonary Embolism-1.png|300]]
-
-If CTPA is unavailable, a V/Q scan can be done. Findings are used with Wells criteria for diagnosis.
 ### Work-up
 In cases of hemodynamic instability with high suspicion of PE, once stability is re-established, anticoagulant treatment may be initiated prior to definitive diagnosis.
 
@@ -124,7 +122,8 @@ Wells score <2 and not hospitalized, the PERC rule can be applied to see if a d-
 Wells scores from 2-6 or those <2 but scored at least one of the PERC criteria, a d-dimer can be done.
 - D-dimers <500 ng/mL can exclude PE
 - D-dimers ≥500 ng/mL indicates diagnostic imaging
-Note that d-dimer levels may rise with age, resulting in a reduced specificity for patients >50 years of age. Consider using an adjust adjusted d-dimer.
+
+Note that d-dimer levels may rise with age, resulting in a reduced specificity for patients >50 years of age. Consider using an adjusted d-dimer.
 
 **CTPA**
 Wells score >6 or those with a positive d-dimer should be assessed with CTPA. In cases of a high clinical suspicion but negative d-dimer, CTPA may still be considered.

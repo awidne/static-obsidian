@@ -39,7 +39,7 @@ This list is non-exhaustive.
 **Ovulatory dysfunction**
 Conditions that result in oligo- or anovulation:
 - Primary hypothalamic-pituitary dysfunction (results in low FSH/LH)
-- [[Polycystic Ovary Syndrome|Polycystic ovary syndrome]]
+- [[Polyendocrine Metabolic Ovarian Syndrome|Polycystic ovary syndrome]]
 - Cushing's/nonclassic congenital adrenal hyperplasia (androgen and cortisol excess disrupts GnRH)
 - [[Hypothyroidism]] and hyperprolactinemia (prolactin suppresses GnRH)
 

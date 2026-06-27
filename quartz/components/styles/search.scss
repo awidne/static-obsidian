@@ -161,11 +161,28 @@
           line-height: 1.5em;
           font-weight: $normalWeight;
           overflow-y: auto;
-          padding: 0 2rem;
+          padding: 1.8rem 2rem;
 
           & .preview-inner {
             margin: 0 auto;
             width: min($pageWidth, 100%);
+
+            & h1, & h2, & h3 {
+              margin-top: 0;
+              padding-top: 0;
+            }
+            & h1 {
+              font-size: 1.55rem;
+            }
+
+            & h2 {
+              font-size: 1.3rem;
+            }
+
+            & h3 {
+              font-size: 1.1rem;
+            }
+
           }
 
           a[role="anchor"] {
@@ -204,6 +221,8 @@
 
             & > h3 {
               margin: 0;
+              font-size: 1.1rem;
+              font-weight: 550;
             }
 
             @media all and not ($mobile) {

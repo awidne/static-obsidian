@@ -10,7 +10,6 @@ tags: [[Pharmacology]]
 
 ---
 # Contraceptives
-
 ## Short- and Intermediate-Acting Hormonal
 ### Oral Contraceptive Pill
 #### Combined oral contraceptive (COCs)

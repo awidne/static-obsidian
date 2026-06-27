@@ -162,6 +162,8 @@ Local complications include:
 - Walled-off necrosis (infection risk)
 
 Systemic complications include exacerbation of underlying comorbidity, ARDS SIRS, DIC, and organ failure.
+
+Released fatty acids from pancreatic enzyme leak can also bind to calcium forming calcium soaps. This results in serum hypocalcemia.
 ## Management
 ### Initial Management
 **Fluid replacement**

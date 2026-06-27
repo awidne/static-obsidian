@@ -121,7 +121,7 @@ Non-pharmacological management include:
 - Weight management
 
 Management of other risk factors such as hypertension and diabetes are also important.
-### Pharmacological
+### Pharmacological / Interventional
 For stable disease, guidelines suggest the initiation of:
 - Low-dose aspirin
 - Beta-blocker
@@ -133,7 +133,7 @@ If symptoms are not controlled even with guideline-directed medical therapy:
 - Addition of calcium channel blocker
 - Addition of long-acting nitrates
 
-If symptoms are still refractor, PCI or CABG may be considered.
+If symptoms are still refractor, PCI or CABG may be considered for revascularization.
 ## References
 ### Tools / Guidelines
 ### Additional Reading

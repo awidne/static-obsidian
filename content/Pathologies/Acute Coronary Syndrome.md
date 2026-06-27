@@ -6,7 +6,7 @@ aliases:
 --- 
 
 creation date: 2025-06-18 01:31 
-tags: [[Pathologies]] [[Incomplete]]
+tags: [[Pathologies]]
 
 ---
 # Acute Coronary Syndrome

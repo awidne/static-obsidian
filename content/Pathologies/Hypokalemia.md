@@ -37,6 +37,14 @@ A number of causes can result in hypokalemia. Broadly, they are categorized:
 - Diarrhea/vomiting
 - NG tube suctioning
 ### Pathogenesis
+#### Vomiting
+Vomiting causes hypokalemia in through several mechanisms.
+- GI loss of potassium
+- Fluid losses activates RAAS, increasing aldosterone which drives renal excretion of potassium
+- Loss of GI acid content causes metabolic alkalosis
+	- Resorption of hydrogen in kidneys further excrete potassium
+	- Metabolic alkalosis causes intracellular potassium shift, further lowering serum potassium
+#### Manifestations
 Potassium is integral to many physiological processes within the body and disruption to its levels result in the myriad of symptoms which present.
 
 Briefly, potassium is involved in maintaining cell membrane potentials, nerve impulse conduction, muscle functions, and acid-base balance.

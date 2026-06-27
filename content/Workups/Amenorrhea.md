@@ -40,7 +40,7 @@ Other endocrine gland disorders:
 - Androgen-secreting tumour
 - Cushings
 - Uncontrolled diabetes mellitus
-- [[Polycystic Ovary Syndrome|Polycystic ovary syndrome]]
+- [[Polyendocrine Metabolic Ovarian Syndrome|Polycystic ovary syndrome]]
 - Thyroid disease
 Chronic disease:
 - Celiac disease

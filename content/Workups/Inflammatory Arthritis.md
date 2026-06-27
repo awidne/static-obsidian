@@ -35,7 +35,7 @@ Crystal-induced arthritis due to deposition of crystals in the synovial space:
 **Autoimmune inflammatory arthritis**
 - [[Rheumatoid Arthritis|Rheumatoid arthritis]]
 - Juvenile idiopathic arthritis
-- Seronegative spondyloarthritis (includes [[Psoriatic Arthritis|psoriatic arthritis]], ankylosing spondylitis, reactive arthritis, arthritis associated with IBD, non-radiographic spondyloarthritis)
+- Seronegative spondyloarthritis (includes [[Psoriatic Arthritis|psoriatic arthritis]], ankylosing spondylitis, [[Reactive Arthritis|reactive arthritis]], arthritis associated with IBD, non-radiographic spondyloarthritis)
 - SAPHO syndrome (synovitis, acne, pustulosis, hyperostosis, osteitis)
 - Arthritis associated with connective tissue or autoimmune diseases
 	- [[Systemic Lupus Erythematosus|Systemic lupus erythematosus]]

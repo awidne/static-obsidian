@@ -74,7 +74,7 @@ Consider the following laboratory tests for metabolic abnormalities:
 - CBC
 - Toxicity screen
 
-For patients with any of the following atypical features, further [[Seizure|workup]] (generally, neuroimaging) and referral to neurologist is recommended:
+For patients with any of the following atypical features, further [[Notes/Organized Notes/Workups/Seizure|workup]] (generally, neuroimaging) and referral to neurologist is recommended:
 - Does not meet diagnosis for preeclampsia, HELLP syndrome, or gestational hypertension
 - Persistent neurological deficits
 - Prolonged loss of consciousness
@@ -86,7 +86,7 @@ The evaluation of eclampsia requires ruling out new-onset seizures that are inci
 
 Prior to 20 weeks gestation (rare for eclampsia to occur this early):
 - Molar pregnancy
-- [[Seizure|Seizure unrelated to pregnancy]]
+- [[Notes/Organized Notes/Workups/Seizure|Seizure unrelated to pregnancy]]
 
 Persistent neurologic deficits suggests anatomical abnormality, of which eclampsia may be concurrent:
 - Stroke

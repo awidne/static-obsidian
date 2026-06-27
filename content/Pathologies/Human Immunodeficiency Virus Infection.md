@@ -2,6 +2,9 @@
 aliases:
   - Human immunodeficiency virus infection
   - HIV infection
+  - HIV
+  - AIDS
+  - HIV/AIDS
 ---
 --- 
 
@@ -16,6 +19,7 @@ Infection with human immunodeficiency virus (HIV) was clinically described in 19
 
 **Early HIV infection** refers to the approximately 6-month period following acquisition of HIV. 
 **Acute HIV infection** refers to symptomatic early infection.
+**Acquired immunodeficiency syndrome** (AIDS): sequelae of HIV untreated infection characterized by marked CD4 depletion.
 
 Other terminology exist in the literature but early and acute are the commonly used terms in clinical care.
 ### Pathogenesis
@@ -29,7 +33,7 @@ HIV continues to target CD4 cells, depleting stores within mucosa. Systemic CD4 
 
 HIV-specific immunity occurs simultaneously with infection, predominantly with CD8+ which lowers plasma RNA levels and within six months, will bring RNA levels to a stabilized set point.
 
-Eventually, untreated HIV progresses to advance disease if untreated, and if criteria is met, a diagnosis of [[Acquired Immunodeficiency Syndrome|AIDS]].
+Eventually, untreated HIV progresses to advance disease if untreated, CD4 cell counts decreases until a diagnosis of AIDS is made.
 ## Clinical Presentation
 ### Signs & Symptoms
 In some patients, early HIV infection will be asymptomatic.
@@ -49,6 +53,8 @@ Within 2-4 weeks (or longer in some cases), signs and symptoms may arise:
 	- Aseptic meningitis and/or self-limited encephalopathy (uncommon)
 
 In patients receiving PrEP (cabotegravir), presentation may be different, wherein classic symptoms are absent.
+
+In the absence of antiretroviral therapy, patients will deplete their CD4 cells.
 ### History & Physical Exam
 History:
 - Complete review of system
@@ -61,9 +67,11 @@ History:
 In the case of suspected exposure, determine how long ago was high-risk exposure.
 ## Diagnosis
 ### Criteria
-Diagnosis is made with clinical suspicion by:
+Diagnosis of HIV is made with clinical suspicion by:
 - RT-PCR-based viral load test (detectable load is diagnostic)
 - Antigen/antibody test (negative in early infection, positive in early or established)
+
+A diagnosis of AIDS is made in a diagnosed HIV patient with CD4 count <200 cells/mcL or the presence of an [[#Red Flags / Complications|AIDS-defining condition]]. Note, if patients achieve immune reconstitution >200 cells/mcL with ART, they are no longer considered to have AIDS.
 ### Work-up
 **Additional evaluation following diagnosis**
 - Drug resistance testing
@@ -78,7 +86,12 @@ Other diagnoses include:
 - Viral hepatitis
 - Viral infection
 ### Red Flags / Complications
-The primary complication of HIV infection is progression to [[Acquired Immunodeficiency Syndrome|AIDS]], at which the immune system cannot prevent infection and death due to opportunistic infection can occur.
+The primary complication of HIV infection is progression to AIDS, at which the immune system cannot prevent infection and death due to opportunistic infection can occur. 
+
+**AIDS-Defining Conditions** are opportunistic illnesses that occur more frequently/severely due to immunosuppression.
+- Opportunistic infections (eg. bacterial, candidiasis, Mycobacterium, Salmonella, toxoplasmosis, Cytomegalovirus) – recurrent or multiple
+- Malignancies (eg. cervical cancer, lymphoma)
+- Conditions with no clear etiology thought to be related to uncontrolled HIV (eg. generalized wasting, encephalopathy)
 ## Management
 ### Pre-Exposure Prophylaxis
 Pre-exposure prophylaxis (PrEP) is an antiretroviral used to reduce the risk of HIV transmission. Adherent treatment can reduce the risk by >99%. 

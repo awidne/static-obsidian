@@ -15,9 +15,10 @@ tags: [[Pathologies]][[Update Pending]]
 ### Definitions
 A simple or uncomplicated urinary tract infection (UTI) is an infection primarily affecting the lower urinary tract.
 
-Unlike a [[complicated urinary tract infection]], simple UTIs occur in otherwise healthy individuals without structural abnormalities or significant comorbidities.
+**Uncomplicated UTI** refers to infection confined to the bladder in afebrile women or men.
+**Complicated UTI** refers to infection beyond the bladder (pyelonephritis, febrile or bacteremic UTI, catheter-associated UTI, and prostatitis)
 
-UTIs in immunocompromised patients, males, pregnant patients, and those associated with fevers, stones, sepsis, obstruction, catheters, or upper urinary tract involvement are considered complicated. (ADDENDUM, 2025: to be updated per [new guidelines](https://www.idsociety.org/practice-guideline/complicated-urinary-tract-infections/))
+It should be noted that prior to July 2025, uncomplicated UTI referred to only acute cystitis in afebrile, nonpregnent, premenopausal women without diabetes nor urologic abnormalities. This classification is now depreciated as per [new IDSA guidelines](https://www.idsociety.org/practice-guideline/complicated-urinary-tract-infections/).
 ### Etiology
 The most frequent microbial cause of simple UTIs is Escherichia coli, accounting for 75-95% of cases. Other occasional causes include klebseilla pneumoniae, proteus mirabilis, and staphylococcus saprophyticus.
 
@@ -44,7 +45,7 @@ In older adults, symptoms may be more subtle and may present as:
 - Falls
 - Altered mental status
 
-Systemic symptoms such as fever may warrant consideration of [[complicated urinary tract infection]].
+Systemic symptoms such as fever may warrant consideration of complicated UTI.
 ### History & Physical Exam
 History should involve detailed investigation of classic symptoms. Vaginal symptoms should be absent (eg. vaginal pruritus or discharge).
 
@@ -132,8 +133,5 @@ For patients with MDR risk, it is important to obtain urine culture and suscepti
 
 It should be noted that bacteriuria without symptoms is considered asymptomatic bacteriuria and does not warrant treatment in most cases (exceptions incl. pregnancy or procedure).
 ## References
-
 ### Tools / Guidelines
-
-
 ### Additional Reading

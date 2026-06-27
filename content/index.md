@@ -28,7 +28,7 @@ Use the search function to access notes.
 
 **Warning**: content may contain images, diagrams, and topics that are unpleasant or upsetting.
 ##### Sources
-The notes taken are a combination of lecture material, notes from small group discussion, clinical pearls from preceptors, and independent research.
+Notes taken are a combination of lecture material, notes from group discussion, clinical pearls from mentors, and independent research.
 
 Some resources used for these notes include:
 - [Uptodate](https://www.uptodate.com)

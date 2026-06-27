@@ -2,6 +2,7 @@
 aliases:
   - PCOS
   - Polycystic ovary syndrome
+  - Polyendocrine metabolic ovarian syndrome
 ---
 --- 
 
@@ -9,11 +10,13 @@ creation date: 2026-01-08 23:11
 tags: [[Pathologies]]
 
 ---
-# Polycystic Ovary Syndrome
+# Polyendocrine Metabolic Ovarian Syndrome
 
 ## Background
 ### Definitions
-Polycystic ovary syndrome (PCOS) is the most common endocrine condition in females of reproductive age, affecting up to 6-10% of women.
+Polyendocrine metabolic ovarian syndrome (PMOS), formerly polycystic ovary syndrome (PCOS), is the most common endocrine condition in females of reproductive age, affecting up to 6-10% of women.
+
+As of May 2026, PCOS has been renamed to polyendocrine metabolic ovarian syndrome to better reflect the diagnostic critera (involving metabolic syndrome while not requiring polycystic ovaries).
 ### Etiology and Pathogenesis
 PCOS is a multigenic disorder with strong epigenetics associated. 
 

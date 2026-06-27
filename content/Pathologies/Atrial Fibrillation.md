@@ -1,6 +1,7 @@
 ---
 aliases:
   - Afib
+  - Atrial fibrillation
 ---
 --- 
 
@@ -147,7 +148,7 @@ If hypotensive:
 - If vasopressor not used, metoprolol tartrate 25mg PO q6h and up-titrated
 - If on vasopressor or symptomatic hypotension, consider electrical cardioversion
 
-Emergency **cardioversion** should be done if patient remains unstable. Cardioversion can be done pharmacologically or electrically and decision should be made based on factors such as patient preference, comorbidities, stability, and efficacy.
+Emergency **cardioversion** should be done if patient remains unstable. [[Cardioversion]] can be done pharmacologically or electrically and decision should be made based on factors such as patient preference, comorbidities, stability, and efficacy.
 - Synchronized cardioversion
 - Pharmacological cardioversion is typically by flecainide or propafenone
 

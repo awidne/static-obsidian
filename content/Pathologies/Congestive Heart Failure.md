@@ -4,6 +4,7 @@ aliases:
   - Heart Failure
   - Heart failure
   - heart failure
+  - Congestive heart failure
 ---
 --- 
 
@@ -59,6 +60,7 @@ Symptoms of HF consist of those relating to fluid accumulation:
 - Edema
 - Pain from hepatic congestion
 - Abdominal discomfort due to ascities
+
 and those relating to cardiac output reduction:
 - Fatigue and weakness, especially with exertion
 
@@ -100,12 +102,15 @@ Diagnostic tests done during the workup will support the diagnosis as well as as
 - Normal or reduced end-diastolic volume
 - Preserved LVEF (≥50%)
 - Evidence of increased LV filling pressures (eg. natriuretic peptides, hemodynamic measurements)
+
 **Heart failure with reduced ejection fraction (HFrEF):**
 - Reduced stroke volume
 - Reduced LVEF (≤40%)
+
 **Heart failure with improved ejection fraction (HFimpEF):**
 - Previously HFrEF
 - Follow-up LVEF measurement >40%
+
 **Heart failure with mildly reduced ejection fraction (HFmrEF):**
 - Mildly reduced LVEF (41-49%)
 - Evidence of increased LV filling pressures
@@ -114,16 +119,19 @@ Diagnostic tests done during the workup will support the diagnosis as well as as
 - Asymptomatic
 - No structural heart disease
 - Has risk factors for HF
+
 **Stage B (pre-HF)**:
 - Asymptomatic
 - Has evidence of at least one of the following:
 	- Structural heart disease
 	- Increased filling pressures
 	- Risk factors for HF and increased BNP or troponin with no alternative diagnosis
+
 **Stage C (symptomatic)**:
 - Signs and symptoms of HF
 - Structural heart disease
 - Once patient is classified as C, remains as such even if treatment eliminates symptoms
+
 **Stage D (advanced HF)**:
 - Symptoms of HF that disrupt daily life
 - Frequent hospitalization despite optimized management
@@ -132,13 +140,16 @@ Used for assessment of limitations in physical activity and symptoms.
 **Class I**:
 - No limitations in physical activity
 - No HF symptoms
+
 **Class II**:
 - Mild symptoms and slight limitations during ordinary physical activity
 - Asymptomatic at rest
+
 **Class III**:
 - Marked limitations in physical activity
 - Symptoms with less than ordinary activity
 - Comfortable only at rest
+
 **Class IV**:
 - Severe limitations
 - Symptom with any exertion and at rest
@@ -184,10 +195,12 @@ As many signs and symptoms of HF are nonspecific, it is important to consider al
 Symptoms of dyspnea:
 - Myocardial ischemia
 - Pulmonary disease
+
 Fatigue:
 - Deconditioning
 - Sleep apnea
 - Depression
+
 Fluid retention:
 - Venous thrombosis or insufficiency
 - Renal sodium retention
@@ -249,6 +262,7 @@ For patients with symptoms of fluid overload, diuretics can be used. The first-l
 - Bumetanide 0.5-1mg PO daily or BID, titrate up to max 10mg daily prn
 - Furosemide (Lasix) 20-40mg PO daily or BID, titrate up to max 600mg daily prn
 - Torsemide 10-20mg PO daily, titrate to max 200mg daily prn
+
 Thiazide diuretics may be added if loop diuretics are insufficient.
 
 It should be noted that the quadruple therapy has only been shown to reduce mortality and morbidity in HFrEF. In patients with HFpEF, treatment primarily focuses on symptom relief and comorbidity control.

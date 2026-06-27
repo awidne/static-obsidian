@@ -7,7 +7,7 @@ aliases:
 --- 
 
 creation date: 2025-10-20 16:25 
-tags: [[Pathologies]][[Incomplete]]
+tags: [[Pathologies]]
 
 ---
 # Dilated Cardiomyopathy
@@ -17,7 +17,7 @@ tags: [[Pathologies]][[Incomplete]]
 Dilated cardiomyopathy (DCM) is a disease of the the heart muscles. It is characterized by the dilation and enlargement of one or both ventricles and impaired contractility and thus ejection fraction. DCM is generally progressive and leads to [[Congestive Heart Failure|heart failure]].
 
 DCM can be primary or idiopathic or a secondary to another condition.
-### Etiology
+### Etiology & Risk Factors
 The most common cause is idiopathic which likely involve familial or genetic predisposition with mutations affecting desmin (cytoskeletal), lamin C (nuclear membrane), or myosin (contractile proteins).
 
 Secondary causes include:
@@ -40,26 +40,53 @@ In either case, the progressive [[Of Pedantry#Dilation / Dilatation|dilatation]]
 
 Compensatory mechanisms results in myocardial remodelling which worsens injury.
 ## Clinical Presentation
-### Signs & Symptoms
-
-### History & Physical Exam
-
-### Risk factors
-
+Findings are consistent with [[Congestive Heart Failure|congestive heart failure]].
 ## Diagnosis
 ### Criteria
-
+Diagnosis is made with echocardiography, providing assessment of:
+- Ventricular size
+- Ventricular function
+- Valvular abnormalities
+- Mural thrombus
 ### Work-up
+Workup should evaluate for secondary causes of DCM.
 
+**Laboratory studies**
+- CBC (for anemia)
+- Thyroid function tests
+- HIV serology
+- Electrolytes
+- Iron studies (for hemochromatosis)
+- Urine toxicology
+
+**Cardiac workup**
+- BNP (can rule out HF and used for prognosis)
+- ECG
+- Chest x-ray (cardiomegaly, signs of venous congestion)
+- Coronary angiography (if CAD suspected)
+- Echocardiography (diagnosis)
 ### Differential
+Other cardiomyopathies include:
+- Hypertrophic cardiomyopathy
+- Restrictive cardiomyopathy
 
+These are generally distinguishable by echocardiography.
+
+Other conditions include:
+- Cardiac tamponade
+- Acute pericarditis
 ### Red Flags / Complications
-
+Complications include:
+- [[Congestive Heart Failure|Congestive heart failure]]
+- Cerebrovascular accident
+- Valvular heart disease
+- Abnormal cardiac rhythms
+- Sudden cardiac death
+- Thromboembolism
 ## Management
-### Non-pharmacological
+For patients who are incidentally found to have dilated myocardium or have a family history, pre-emptive use of heart failure medications may be indicated. The mainstay of management, however, consist of managing risk factors and comorbidities.
 
-### Pharmacological / Interventional
-
+Treatment for patients with heart failure is discussed [[Congestive Heart Failure|separately]].
 ## References
 ### Tools / Guidelines
 ### Additional Reading

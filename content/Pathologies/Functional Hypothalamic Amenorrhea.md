@@ -44,7 +44,7 @@ History should elicit:
 - Presence of previously normal cycles that became irregular and then ceased
 - Irregularity/cessation coincided with weight loss, increased activity, or significant stress
 - Possibility of pregnancy
-- Past medical history or symptoms suggestive of inflammatory bowel disease, [[celiac disease]], thyroid disease, primary ovarian insufficiency, [[Polycystic Ovary Syndrome|PCOS]], NCCAH, hyperprolactinemia, hypopituitarism, etc.
+- Past medical history or symptoms suggestive of inflammatory bowel disease, [[celiac disease]], thyroid disease, primary ovarian insufficiency, [[Polyendocrine Metabolic Ovarian Syndrome|PCOS]], NCCAH, hyperprolactinemia, hypopituitarism, etc.
 
 Physical exam should include assessment of external and internal genitalia including assessment of vaginal mucosa. Bimanual exam is typically deferred in adolescents who are not sexually active.
 ### Risk factors
