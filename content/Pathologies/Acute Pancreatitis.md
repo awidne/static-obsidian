@@ -82,8 +82,10 @@ In patients with hereditary, metabolic, or alcohol-induced pancreatitis:
 Presentation can vary based on the severity of the pancreatitis:
 **Mild**
 - Absence of organ failure and local/systemic complications
+
 **Moderately severe**
 - Transient organ failure (resolves <48 hrs) and/or local/systemic complications without persistent organ failure
+
 **Severe**
 - Persistent organ failure that may involve one or multiple organs
 - Dyspnea due to diaphragmatic inflammation, pleural effusions, ARDS
@@ -161,7 +163,7 @@ Local complications include:
 - Acute necrotic collection (infection risk)
 - Walled-off necrosis (infection risk)
 
-Systemic complications include exacerbation of underlying comorbidity, ARDS SIRS, DIC, and organ failure.
+Systemic complications include exacerbation of underlying comorbidity, ARDS, SIRS, DIC, and organ failure.
 
 Released fatty acids from pancreatic enzyme leak can also bind to calcium forming calcium soaps. This results in serum hypocalcemia.
 ## Management

@@ -70,11 +70,14 @@ Organized by organ system, symptoms include:
 - Coarse hair and hair loss
 - Brittle nails
 - Nonpitting edema (myxedema)
+
 **Eyes**
 - Periorbital edema
+
 **Hematologic**
 - Increased bleeding risk (acquired von Willebrand's syndrome type 1)
 - Decreased red blood cell mass and normochromic, normocytic hypoproliferative anemia or iron deficiency anemia secondary to menorrhagia
+
 **Cardiovascular**
 - Decrease in cardiac output (decreased heart rate and contractility)
 - Decreased exercise capacity
@@ -82,9 +85,11 @@ Organized by organ system, symptoms include:
 - Hypertension (due to increase in peripheral vascular resistance)
 - Hypercholesterolemia (decreased rate of cholesterol metabolism)
 - Hyperhomocysteinemia
+
 **Respiratory**
 - Hypoventilation from respiratory muscle weakness
 - Impaired respiratory function resulting in fatigue, shortness of breath on exertion, rhinitis, and decreased exercise capacity
+
 **Gastrointestinal**
 - Decreased gut motility resulting in constipation
 - Decreased taste sensation
@@ -93,18 +98,22 @@ Organized by organ system, symptoms include:
 - Metabolic dysfunction-associated steatotic liver disease
 - Weight gain
 - Ascities (rarely)
+
 **Reproductive**
 - Oligo- or amenorrhea or hypermenorrhea-menorrhagia
 - Menstrual changes result in decreased fertility
 - Hyperprolactinemia
 - Decreased libido, erectile dysfunction, and delayed ejaculation
+
 **Neurologic**
 - Hashimoto encephalopathy: immune-mediated subacute onset of confusion, ALC, seizures, and myoclonus
 - Myxedema coma: severe hypothyroidism complicated by trauma, infection, cold exposure, or inadvertent administration of hypnotics or opiates
 - Carpal tunnel
+
 **Musculoskeletal**
 - Weakness, cramps, and myalgias
 - Joint pains, aches, and stiffness (less common)
+
 **Metabolic**
 - Hyponatremia (due to reduced water clearance)
 - Lipid abnormalities
@@ -167,7 +176,12 @@ Severe hypothyroidism may present as **myxedema coma** which is an endocrine eme
 - Cardiogenic shock
 - Respiratory failure
 - Fluid retention
+
 and needs to be treated with IV hydrocortisone followed by IV levothyroxine.
+
+Additionally, other complications include:
+- Hypothyroid myopathy (similar to rhabdomyolysis)
+- Myxedema (non-pitting, systemic)
 ## Management
 In most cases of hypothyroidism, lifelong treatment is required. In some cases treatment may be discontinued if hypothyroidism is transient (eg. with painless thyroiditis or subacute thyroiditis). 
 

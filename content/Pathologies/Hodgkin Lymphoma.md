@@ -88,12 +88,15 @@ Nodular sclerosis (NSHL)
 - Most common in developed countries
 - Histology: nodular architecture, broad bands of collagen fibrosis, lacunar variant RS cells
 - Mediastinal involvement
+
 Lymphocyte-rich (LRHL)
 - Histology: background rich in small lymphocytes with few RS cells
 - Clinical features similar to NSHL
+
 Mixed cellularity (MCHL)
 - Histology: heterogeneous inflammatory background (eg. eosinophils, plasma cells, histiocytes), classic RS cells
 - Associated with immunocompromised state
+
 Lymphocyte-depleted (LDHL)
 - Rare
 - Histology: paucity of lymphocytes, numerous RS cells, extensive fibrosis or necrosis

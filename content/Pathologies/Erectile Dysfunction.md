@@ -28,12 +28,13 @@ Intrapenile nitric oxide act as local neurotransmitter which stimulates generati
 
 Testosterone is important for both libido and the maintenance of nitric oxide synthase levels.
 
-Detumescence (loss of erection) occurs when cyclic GMP is metabolized by intracavernosal type 5 cyclic GMP phosphodiesterase. This pathway is also regulated by norepinephrine pathways.
+Detumescence (loss of erection) occurs when cyclic GMP is metabolized by intracavernosal type 5 cyclic GMP phosphodiesterase (PDE-5). This pathway is also regulated by norepinephrine pathways.
 ### Etiology
 ED can be a symptom of a variety of underlying pathologies. On its own, cause is often multifactorial. Etiology can be separated as either an underlying psychological cause such as:
 - Depression
 - Performance anxiety
 - Sexual disorders
+
 or an organic cause which can be any disease process that affects penile arteries, nerves, hormone levels (testosterone, hyperprolactinemia, thyroid), smooth muscle tissue, corporal endothelium, or tunica albuginea. Examples of conditions related to ED include:
 - Cardiovascular disease
 - [[Diabetes Mellitus, Type 2|Diabetes mellitus]]
@@ -102,6 +103,7 @@ There are no routine tests for evaluation of ED but it is common for routine blo
 - Renal and liver function
 - A1C for diabetes screening
 - Lipid profile
+
 A morning testosterone level may be considered to rule out hypogonadism, especially if PDE-5 therapy does not work.
 
 Further testing may be available but is optional includes:

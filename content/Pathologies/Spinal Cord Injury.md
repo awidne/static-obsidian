@@ -106,6 +106,13 @@ Anterior cord syndrome presents with:
 - Tactile, vibratory, and positional sense functions remain intact (posterior column functions)
 
 This is associated with nontraumatic lesions that disrupt blood flow to the anterior spinal artery although traumatic causes can directly injure the anterior cord too.
+
+**Brown-sequard syndrome**
+Brown-sequard syndrome presents with:
+- Ipsilateral dorsal and corticospinal loss
+- Contralateral spinothalamic loss
+
+This is associated with injury to one side of the spinal cord.
 #### Other features
 **Transient paralysis and spinal shock**
 Immediately following injury, there may be loss of all spinal cord function caudal to the level of injury with:

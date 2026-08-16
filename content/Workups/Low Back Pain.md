@@ -86,16 +86,41 @@ An assessment of "yellow flags" for long-term chronicity and disability should b
 **Inspect** the back and posture for abnormalities such as scoliosis or hyperkyphosis. **Palpate and percuss** the back for vertebral or soft tissue tenderness.
 
 A **neurologic exam** should evaluate reflexes, strength, sensation, and gait.
+
+The [CORE back tool](https://cep.health/media/uploaded/CEP_CORE_Back_2016.pdf) can be used to elucidate the pattern of mechanical low back pain after red flags are ruled out:
+
+Pattern 1: disc pain
+- Back/buttock dominant
+- Pain with flexion
+- Improved with prone extension
+
+Pattern 2: Facet joint pain
+- Back/buttock dominant
+- Intermittent pain with extension only
+- Improved with flexion (bend over seated in chair)
+
+Pattern 3: compressed nerve pain
+- Leg dominant
+- Constant pain with any movement
+- May improve with rest (may require surgical)
+
+Pattern 4: symptomatic spinal stenosis (neurogenic claudication)
+- Leg dominant
+- Intermittent pain with walking and/or standing
+- Improved with sitting or flexion
 ### Red Flags
 To summarize, the following findings should raise suspicion for serious etiology:
-- Thoracic pain
-- Fever and unexplained weight loss
+- Progressive neurological deficit
 - Bladder or bowel dysfunction
+- Disturbed gait, saddle anaesthesia
+- Sexual dysfunction
+- Fever and unexplained weight loss
+- Thoracic pain
 - History of malignancy
 - Ill health or presence of comorbidities
-- Progressive neurological deficit
-- Disturbed gait, saddle anaesthesia
 - Age of onset <20 years or >55 years
+- Constitutional symptoms
+- IV drug use/spinal surgery risk factors
 ## Investigations
 Further investigations are not required for nonspecific back pain without any suspicion for serious etiology.
 
@@ -118,4 +143,5 @@ No improvement after conservative therapy for nonspecific back pain in 4-6 weeks
 - Plain radiograph
 ## References
 ### Tools / Guidelines
+[CORE Back Tool](https://cep.health/media/uploaded/CEP_CORE_Back_2016.pdf)
 ### Additional Reading

@@ -69,9 +69,11 @@ If symptoms of hyperglycemia present, then one result in diabetic range needed.
 For A1C:
 - Prediabetes: 6.0-6.4% 
 - Diabetes: ≥6.5%
+
 For FPG (≥8 hr fasting):
 - Impaired fasting glucose: 6.1-6.9 mmol/L
 - Diabetes: ≥7.0 mmol/L
+
 OGTT:
 - Impaired fasting glucose: 7.8-11.0 mmol/L
 - Diabetes: ≥11.1 mmol/L
@@ -98,7 +100,7 @@ For both the initial workup and further reassessment:
 ### Red Flags / Complications
 Acute complications include:
 - Hypoglycemia
-- [[Diabetic Ketoacidosis|Diabetic ketoacidosis]]
+- [[Diabetic Ketoacidosis|Diabetic ketoacidosis]] (and less commonly, [[Hyperosmolar Hyperglycemic State|hyperosmolar hyperglycemic state]])
 
 Chronic complications include:
 - Nephropathy
@@ -125,7 +127,7 @@ A number of techniques can be used to monitor:
 
 A time in range (3.9 - 10 mmol/L) target of at least 70% should be used.
 ### Insulin Therapy
-For patients with stage 3 T1DM (clinical dysglycemia), insulin is the primary mean of treatment.
+For patients with stage 3 T1DM (clinical dysglycemia), insulin replacement is the primary treatment.
 
 An insulin therapy regimen is individualized for the needs, meals, exercise, and fasting patterns of the patient. Components of the regimen include considering:
 - Choice of insulin

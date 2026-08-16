@@ -7,7 +7,7 @@ aliases:
 --- 
 
 creation date: 2026-06-23 23:39 
-tags: [[Pathologies]] [[Incomplete]]
+tags: [[Pathologies]] 
 
 ---
 # Sepsis
@@ -100,7 +100,27 @@ Diagnosis of sepsis and septic shock is made definitively with a constellation o
 - Requirement of vasopressors to maintain a MAP ≥65 mmHg 
 - Lactate >2 mmol/L
 ### Work-up
-**Laboratory studies**
+**Initial investigations**
+Routine laboratory studies:
+- CBC with differential
+- Electrolytes and eGFR
+- Liver function tests
+- Coagulation studies
+
+Other studies:
+- Serum lactate
+- Peripheral blood cultures
+- Urinalysis
+- Microbiologic cultures from suspected source if accessible
+- Blood gas analysis
+- Imaging for source of infection
+
+Note that investigations should not delay fluids and antibiotics.
+
+**Focused workup**
+Within the first 6 hours, focused history and physical should be completed to identify and control the source(s) of infection. Additionally,
+- CT, ultrasound
+- Further diagnostic cultures
 ### Differential
 Other diagnoses include:
 - Non-infectious SIRS (eg. severe trauma/burns, acute pancreatitis, major surgery, autoimmune flares)
@@ -108,9 +128,47 @@ Other diagnoses include:
 - Other causes of hypotension (eg. [[Pneumothorax|tension pneumothorax]])
 ### Red Flags / Complications
 ## Management
-### Sepsis 1-Hour Bundle
+### Immediate Management
+Initial management consist of:
+- Securing the airway if indicated
+- Stabilizing respiration (oxygen targeted to 90-96%)
+- Establish IV (two large bore IV)
 
-### Further Treatment
+Initial investigations are also ordered (see above).
+### Initial Therapy
+Early goal-directed therapy is the mainstay of the first 1-3 hours of treatment. This consist of:
+
+Crystalloid IV fluids given at 30 mL/kg (started within 1 hour, completed within 3 hours)
+- Lactated Ringer's or Normal saline
+- Administered in well-defined (eg. 500 mL boluses)
+
+Empiric antibiotic therapy (within the first hour)
+- Tailor to suspected pathogens and comorbidities
+- If pseudomonas unlikely: vancomycin PLUS ceftriaxone or pip-tazo
+- If pseudomonas likely: vancomycin PLUS two antipseudomonal antibiotic classes based on antibiogram (eg. ceftazidine/cefepime, imipenem/meropenem, pip-tazo, ciprofloxacin/levofloxacin, )
+
+Monitoring should be done via a central venous catheter (or arterial if placed). Targets are:
+- ScvO2 ≥ 70%
+- CVP 8–12 mmHg
+- MAP ≥65 mmHg
+- Urine output ≥0.5 mL/kg/hr
+
+Vitals should also be monitored including capillary refill time and mental status.
+
+Source control should be focused to eliminate further infection. Ideally this should be done within 6-12 hours after diagnosis.
+### Further Therapy
+In patients with persistent hypoperfusion despite adequate fluid resuscitation, further treatment is indicated.
+
+Ensure above treatment has been optimized and all sources of infection are considered. If persistent, further options are used to treat hypoperfusion.
+
+Vasopressors:
+1. Norepinephrine
+2. Vaspressin
+3. Epinephrine (phenylephrine)
+
+For patients with low cardiac output, addition of an inotropic agent may be helpful:
+1. Dobutamine
+2. Epinephrine
 ## References
 ### Tools / Guidelines
 [MDCalc - SIRS/Sepsis/Septic Shock Criteria](https://www.mdcalc.com/calc/1096/sirs-sepsis-septic-shock-criteria)

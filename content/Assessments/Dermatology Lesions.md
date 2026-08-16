@@ -721,6 +721,7 @@ Evaluation of skin lesions should consider elements of the history including:
 - Clinical diagnosis
 - Topical mupirocin if limited; oral antibiotic if extensive
 - Hygiene and nail trimming to reduce spread
+- Stay home from school
 ###### Differential Diagnosis
 - HSV infection
 - Periorificial dermatitis

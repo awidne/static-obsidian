@@ -49,9 +49,9 @@ The decrease in CO stimulates the release of epinephrine, norepinephrine, endoth
 
 BNP from ventricular myocytes are also secreted as a response to increased ventricular filling and stretching. In cases of decompensated CHF, natriuretic peptides are no longer effective. Neprilysin breaks down hormones such as BNP, ANP, and bradykinin.
 
-As demand continues to increase and cardiac output decrease, **maladaptive responses** occur. Loss of myocytes (eg. due to MI) and thus contractility results in decreased ejection fraction. If instead, ventricular compliance is decreased (eg. due to ventricular wall hypertrophy), ejection fraction may be preserved but filling is decreased.
+As demand continues to increase and cardiac output decrease, **maladaptive responses** occur. Loss of myocytes (eg. due to MI) and thus contractility results in decreased ejection fraction. If, instead, ventricular compliance is decreased (eg. due to ventricular wall hypertrophy), ejection fraction may be preserved but filling is decreased.
 
-Left-sided failure occurs first more often and usually results in upstream congestion and failure as disease progresses.
+Left-sided failure occurs first more often and usually results in upstream congestion and right-sided failure as disease progresses.
 ## Clinical Presentation
 ### Signs & Symptoms
 Symptoms of HF consist of those relating to fluid accumulation:
@@ -66,7 +66,7 @@ and those relating to cardiac output reduction:
 
 Symptoms may also differ based on the acuity. In acute and subacute cases, dyspnea may be more pronounced. RUQ pain may be present due to hepatic congestion.
 
-In chronic presentations (months), fatigue, anorexia, and fluid retention symptoms may be more prominant than dyspnea. Dyspnea may not be noticed as it is often exertional and many patients will withdraw from physical activity.
+In chronic presentations (months), fatigue, anorexia, and fluid retention symptoms may be more prominent than dyspnea. Dyspnea may not be noticed as it is often exertional and many patients will withdraw from physical activity.
 ### History & Physical Exam
 Detailed history should elucidate extent of symptoms.
 

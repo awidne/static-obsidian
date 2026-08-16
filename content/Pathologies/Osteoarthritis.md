@@ -65,17 +65,22 @@ Pain
 - Stage 1: predictable, sharp pain following mechanical insult
 - Stage 2: constant and affect daily activities; unpredictable episodes of stiffness
 - Stage 3: constant dull/aching pain punctuated by episodes of unpredictable, intense, exhausting pain resulting in severe limitations in function
+
 Tenderness
 - Joint-line suggests articular
 - Non-joint line suggests soft tissue
+
 Limitation of motion
 - Reduced range of motion (both active and passive)
+
 Bony swelling
 - Marginal osteophytes and bone remodelling
 - Seen often in small joints (eg. finger interphalangeal, first metatarsophalangeal) and large joints (eg. knee)
+
 Joint deformity
 - Sign of advanced damage
 - Seen as squaring and subluxation of thumb base (first CMC)
+
 Instability
 - Buckling common with knee OA
 - Described as apprehension and lack of confidence to weight-bear

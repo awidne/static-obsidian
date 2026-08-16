@@ -56,33 +56,37 @@ In cases of non-IgE-mediated anaphylaxis, mast cells are directly activated by t
 The exact presentation can vary based on mode of exposure. Anaphylaxis generally begins as a mild allergic reaction.
 
 Manifestations by organ system include:
-**Cutaneous**:
+**Cutaneous**
 - Flushing
 - Pruritis
 - Urticaria
 - Angioedema
-**Respiratory**:
+
+**Respiratory**
 - Nasal congestion
 - Rhinorrhea
-- Throat pruritis
+- Throat pruritus
 - Laryngeal edema
 - Stridor
 - Choking
 - Wheeze
 - Cough
 - Dyspnea
-**Gastrointestinal**:
+
+**Gastrointestinal**
 - Cramping
 - Abdominal pain
 - Nausea
 - Vomiting
 - Diarrhea
-**Cardiovascular**:
+
+**Cardiovascular**
 - Dizziness
 - Tachycardia
 - Hypotension
 - Hypotonia
-**Neurologic**:
+
+**Neurologic**
 - Anxiety
 - Mental confusion
 - Lethargy
@@ -137,7 +141,7 @@ Criterion 3 - reduced blood pressure after exposure to a **known allergen** for 
 	- Age 1 to 10 years: 70 + (2 $\times$ age) mmHg
 	- Age 11 to 17 years: <90 mmHg
 
-Note that these criteria are not strictly necessary, and epinephrine treatment is still indicated for. For example, a patient with known peanut allergy presenting with urticaria and flushing that developed following ingestion of peanut.
+Note that these criteria are not strictly necessary, and epinephrine treatment is still indicated, for example, a patient with known peanut allergy presenting with urticaria and flushing (1 system for criterion 2) that developed following ingestion of peanut.
 
 **WAO criteria**
 This criteria is a simplified version of the NIAID/FANN criteria. This criteria is more novel but due to its lack of validation in large-scale studies, will not be discussed further here.
@@ -198,8 +202,9 @@ Assessment of the airway should be followed by consideration of **airway interve
 - Children: 20 mL/kg crystalloid solution in boluses over 5-10 minutes and repeated prn
 #### Pharmacological Treatment
 **Epinephrine** is administered intramuscularly in most settings and is preferred over IV due to faster response and greater safety.
+- 0.01 mg/kg up to a maximum dose of 0.5 mg per single dose (anyone >50 kg or >110 lb gets 0.5 mg)
 
-Recommended dose is 0.01 mg/kg up to a maximum dose of 0.5 mg per single dose. Ampules of epinephrine are available as 1 mg/mL or 0.1 mg/mL. In 90% of cases, one dose is sufficient but if not, epinephrine can be repeated at 5-minute intervals or sooner if clinically needed. 
+Ampules of epinephrine are available as 1 mg/mL or 0.1 mg/mL. In 90% of cases, one dose is sufficient but if not, epinephrine can be repeated at 5-minute intervals or sooner if clinically needed. 
 
 In cases where IM injections are insufficient, IV infusion and then a slow IV bolus can be used (with differing dosing).
 

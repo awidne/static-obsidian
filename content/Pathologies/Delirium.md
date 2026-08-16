@@ -186,9 +186,9 @@ No intervention reliably prevents delirium. However, modifying risk factors may 
 - Visual and hearing aid if needed
 - Avoiding use of problematic medications
 - Treatment of medical complications and pain
-### Treatment of underlying conditions
+### Treatment of Underlying Conditions
 As mentioned previously, virtually any medical condition can precipitate delirium. The mainstay management of delirium is to treat the underlying condition.
-### Supportive care
+### Supportive Care
 Beyond identification and intervention for the underlying causes, supportive care should be done to prevent complications of immobility and confusion. This includes:
 - Maintaining adequate hydration and nutrition
 - Enhancing mobility and range of motion
@@ -197,7 +197,7 @@ Beyond identification and intervention for the underlying causes, supportive car
 - Ameliorating incontinence
 - Minimize the risk of aspiration pneumonitis
 - Assessment of caregiver resources
-### Managing agitation
+### Managing Agitation
 While hyperactive delirium is less common with older patients, manifestations of agitation may need to be controlled to prevent harm and/or to allow evaluation and treatment.
 
 If non-pharmacological interventions such as interpersonal and environmental manipulations are adequate, such interventions should be prioritized. Physical restraints should be used as last resorts and is associated with exacerbation of delirium.

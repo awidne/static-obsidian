@@ -123,7 +123,7 @@ The most effective form of pain management are neuraxial analgesia. This can be 
 
 Note, acetaminophen and NSAIDs are contraindicated due to the risk of premature closure of the ductus arteriosis in the fetus.
 ### Augmentation of labour
-Pitocin (synthetic oxytocin) and amniotomy can be used to augment labour. This is typically indicated if contractions are inadequate or if a phase of labour is prolonged.
+Pitocin (synthetic oxytocin) and amniotomy can be used to augment labour. This is typically indicated if contractions are inadequate or if a phase of labour is prolonged. Consider the cause of slowed labour (ie. passage, power, passenger).
 
 Adequacy of contractions is assessed by progress of cervical change but can also be measured by an intrauterine pressure catheter.
 ### Progression (cardinal movements) of labour
@@ -170,6 +170,7 @@ As the fetus is crowning the clinician should don:
 - Eye protection
 - Sterile gown
 - Sterile gloves
+
 and have:
 - Two clamps
 - Scissors
@@ -237,15 +238,27 @@ Immediately following delivery, the neonate is assessed using the APGAR score:
 
 A score of ≥7 is reassuring. This is done immediately after birth and 5 minutes post-delivery. If the infant scores <7 at 5 minutes, scores will be checked at five-minute intervals for 20 minutes. Resuscitative efforts may be necessary for low scores.
 
+The colouration of the neonate can indicate possible issues:
+- White: volume loss, metabolic acidosis, peripheral vasoconstriction
+- Blue: cyanosis – due to inadequate ventilation, right-left shunting (eg. patent PDA, ASD)
+- Yellow: hyperbilirubinemia
+- Red: plethora due to polycythemia (usually benign)
+
+For infant of diabetic mother (IDM), elevated fetal insulin (upregulation due to maternal glucose) can result in neonatal hypoglycemia. Observe for jitteriness, lethargy, apnea, seizures, hypotonia, and/or respiratory distress.
+
 Other tests done include:
 - Dried blood spot (eg. for blood type, metabolic/endocrine disease, hemoglobinopathies, cystic fibrosis)
 - Critical Congenital Heart Disease (CCHD) testing via pulse oximetry
 - Hearing test (can be post-discharge too)
+
+At some point prior to discharge, a complete [[Newborn Exam|newborn exam]] should be performed.
 ### Maternal assessment and recovery
 Thorough examination of the perineum, labia, periurethral area, vagina, anus, and cervix is performed and lacerations are repaired.
 
 Assessment for complication includes uterine rupture and post-partum hemorrhage.
-## Discharge
+
+Maternal heart rate and blood pressure should be monitored closely for at least 1 hour post-partum.
+## Disposition
 Discharge is typically indicated following:
 - Stable vitals for >12 hours
 - Evidence of stooling and urination

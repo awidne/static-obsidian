@@ -57,15 +57,20 @@ Additional signs frequently seen include:
 ### Criteria
 
 ### Work-up
+**Laboratory studies**
+- AST, ALT, ALP
+- Bilirubin
+- Lipase/amylase
 
+**Imaging**
+Imaging may include:
+- CT abdomen pelvis
+- MRCP/ERCP
 ### Differential
 
 ### Red Flags / Complications
 
 ## Management
-### Non-pharmacological
-
-### Pharmacological / Interventional
 
 ## References
 ### Tools / Guidelines

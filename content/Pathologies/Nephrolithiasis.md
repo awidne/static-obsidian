@@ -79,7 +79,13 @@ Other symptoms:
 - Vomiting
 - Dysuria and/or urinary urgency (if stone in distal ureter)
 ### History & Physical Exam
+History should include:
+- History of kidney stones
+- Hematuria and other symptoms
+- Hydration status
+- Fever and other systemic symptoms
 
+Physical should include abdominal exam and checking the costovertebral angle for tenderness.
 ### Risk factors
 Risk factors include:
 - Positive family history of urolithiasis
@@ -107,7 +113,7 @@ Diagnosis of nephrolithiasis requires visualization of stones.
 **Laboratory studies**
 - CBC
 - Basic metabolic panel (glucose, calcium, electrolytes, BUN, creatinine)
-- Urinalysis (for hematuria and/or concurrent UTI)
+- Urinalysis (for hematuria, concurrent UTI, and/or b-hCG)
 
 **Imaging**
 Choice of modality depends on diagnostic accuracy weighed against radiation dose required.
@@ -115,6 +121,10 @@ Choice of modality depends on diagnostic accuracy weighed against radiation dose
 - Pregnant adults: ultrasound of kidney/bladder
 
 Noncontrast imaging is preferred to detect hydronephrosis. CT is also capable of suggesting composition.
+
+Note, types specific findings:
+- Uric acid stones: radiolucent
+- Struvite: staghorn stone
 ### Differential
 The flank pain associated with nephrolithiasis can also be:
 - Clots from bleeding within the kidney (eg. renal cell carcinoma); note that glomerular bleeding does not lead to clot formation
@@ -138,13 +148,13 @@ In the emergency department, this consist of:
 - Ketorolac
 - Prescription for oral NSAIDs (eg. ibuprofen) for subsequent attacks while awaiting stone passage
 
-Stone passage depends on location and size of the stone. Stones ≤5 mm and more distal are likely to spontaneously pass. In patients with 5-10mm stones, medical expulsion therapy (MET) is suggested:
+Stone passage depends on location and size of the stone. **Stones ≤5 mm and more distal are likely to spontaneously pass**. In patients with 5-10mm stones, medical expulsion therapy (MET) is suggested:
 - Tamsulosin 0.4 mg PO once daily
 - Other options: other alpha blockers, nifedipine, tadalafil
 
 Patients should be instructed to strain urine for the stone for analysis. If stone has not passed after 4 weeks, ultrasound and radiograph should be used to assess. While more sensitive, CT is not preferred due to radiation unless the former is inadequate.
 
-Refer to urology for patients with: 
+**Refer to urology for patients with**: 
 - UTI
 - AKI
 - Anuria

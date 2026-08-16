@@ -13,7 +13,7 @@ tags: [[Workups]]
 ## Background
 Female infertility refers to the inability to achieve pregnancy after 12 months of unprotected intercourse in women younger than 35 or 6 months in women 35 or older.
 
-This affects 15% of couples. Female factors account for 50% of cases, male factors for 40%, and combined factors for the remaining 10%.
+This affects 15% of couples. Female factors account for 50% of cases, male factors for 40%, and combined factors for the remaining 10%. Male infertility is discussed separately.
 ### Pathophysiology
 Disruptions to the mechanisms required for pregnancy results in infertility.
 

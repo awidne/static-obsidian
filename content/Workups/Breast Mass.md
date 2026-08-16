@@ -23,6 +23,8 @@ The majority of cases are:
 - Fibroadenoma - smooth, round, rubbery, mobile mass; typically young woman
 - Breast cyst - mobile, often tender; fluctuates with menstrual cycle and high suspicious for malignancy in postmenopausal women
 
+Fibrocystic changes (bilateral, varies with menstrual cycle) may be mistaken for breast masses, especially in younger patients.
+
 Less common causes are:
 - Fat necrosis
 - Intraductal papilloma
@@ -43,6 +45,11 @@ Two rare and differently presenting types are:
 - Inflammatory breast cancer (lymphatic invasion causing erythema, pain, peau d'orange)
 - Paget's disease (unilateral nipple-areolar dermatitis/ezcema)
 ## Initial Evaluation
+### Screening
+The Ontario Breast Screening Program (OBSP) recommends screening for:
+- Age 30-69 and confirmed high-risk
+- Age 40-49 (self or healthcare provider referral)
+- Age 50-74 (every 2 years recommended)
 ### History
 History should include:
 - Lump characteristics including changes in size, changes relative to menstrual cycle, associated symptoms (pain, swelling, redness, fever, discharge)
@@ -80,6 +87,8 @@ Simple cysts (well-circumsized, anechoic, round or oval, with thin walls) are ty
 **Mammography**
 - Distinguishes malignancy and screens for occult disease in surrounding tissue
 - Sensitivity 87%, specificity 88% for detecting cancer
+
+Mammography, in most cases, can provide a BIRADS score which guides further diagnostic testing and monitoring.
 ### Biopsy
 If suspected malignancy, follow-up evaluation may consist of:
 - Fine-needle aspiration

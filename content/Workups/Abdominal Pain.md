@@ -55,13 +55,17 @@ Referred pain may also occur with the associated dermatome entering the spinal c
 - Splenic rupture
 ### Lower Abdomen
 **Right Lower Quadrant**
-- Acute appendicitis (periumbilical that radiates RLQ)
-- Diverticulitis (less common)
+- Acute [[Appendicitis|appendicitis]] (periumbilical that radiates RLQ)
+- [[Diverticulitis]] (less common)
+
 **Left Lower Quadrant**
-- Diverticulitis (more common)
+- [[Diverticulitis]] (more common)
+- [[Ischemic Colitis|Ischemic colitis]]
+
 **Unilateral but can be either side
-- Kidney stones
+- [[Nephrolithiasis|Kidney stones]]
 - Pyelonephritis
+
 **Suprapubic or not localized to side**
 - Cystitis ([[Uncomplicated Urinary Tract Infection|Uncomplicated UTI]])
 - Acute urinary retention
@@ -69,17 +73,17 @@ Referred pain may also occur with the associated dermatome entering the spinal c
 ### Diffuse or Nonspecific Abdominal Pain
 - Obstruction (eg. small bowel obstruction, colorectal cancer, gastric volvulus)
 - Perforation of GI tract
-- Mesenteric ischemia
-- Inflammatory bowel disease (eg. ulcerative colitis and Crohn disease)
+- [[Acute Mesenteric Ischemia|Acute mesenteric ischemia]]
+- Inflammatory bowel disease (eg. [[Ulcerative Colitis|ulcerative colitis]] and [[Crohn's Disease|Crohn's disease]])
 - Viral gastroenteritis
 - Spontaneous bacterial peritonitis
 - Peritonitis due to peritoneal dialysis
 - Malignancy (eg. colorectal cancer, gastric cancer, pancreatic cancer)
-- Celiac disease
-- Ketoacidosis
-- Adrenal insufficiency
+- [[Celiac Disease|Celiac disease]]
+- [[Diabetic Ketoacidosis|Ketoacidosis]]
+- [[Primary Adrenal Insufficiency|Adrenal insufficiency]]
 - Foodborne disease
-- Irritable bowel syndrome
+- Irritable bowel syndrome 
 - Constipation
 - Diverticulosis
 - Lactose intolerance

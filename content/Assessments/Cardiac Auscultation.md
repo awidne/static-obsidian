@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Cardiac auscultation
+  - Murmurs
 ---
 --- 
 
@@ -42,6 +44,7 @@ S3:
 - Only physiological in children, young adults (≤40) and pregnant women
 - Due to compliant ventricle and higher cardiac output
 ## Pathological Heart Sounds
+![[Cardiac Auscultation-2.png]]
 ### Extra Heart Sounds
 S3:
 - Pathological if adult aged >40

@@ -20,7 +20,13 @@ A simple or uncomplicated urinary tract infection (UTI) is an infection primaril
 
 It should be noted that prior to July 2025, uncomplicated UTI referred to only acute cystitis in afebrile, nonpregnent, premenopausal women without diabetes nor urologic abnormalities. This classification is now depreciated as per [new IDSA guidelines](https://www.idsociety.org/practice-guideline/complicated-urinary-tract-infections/).
 ### Etiology
-The most frequent microbial cause of simple UTIs is Escherichia coli, accounting for 75-95% of cases. Other occasional causes include klebseilla pneumoniae, proteus mirabilis, and staphylococcus saprophyticus.
+The most frequent microbial cause of simple UTIs is Escherichia coli, accounting for 75-95% of cases. The UTI causing bacterias are summarized by the mnemonic SEEKPP:
+- Staphylococcus saprophyticus
+- E. coli
+- Enterococcus
+- Klebsiella
+- Proteus
+- Pseudomonas
 
 In cases of patient with recent antimicrobial or health care exposures, causes may include other bacteria such as pseudomonas, enterococci, and staphylococci.
 ### Pathogenesis

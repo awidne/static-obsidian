@@ -11,6 +11,19 @@ tags: [[Assessments]]
 ---
 # STI Screening
 ## Background
+Common STIs are:
+- Bacterial
+	- Syphilis
+	- Gonorrhea
+	- Chlamydia
+	- Trichomoniasis (parasitic)
+- Viral
+	- Hep B/C
+	- Herpes simplex virus
+	- Human immunodeficiency virus
+	- Human papillomavirus
+
+Testing is recommended every 12 months for high-risk individuals or before sex with a new partner.
 ## History & Physical
 ## Investigations
 The standard STI laboratory panel consist of:

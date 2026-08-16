@@ -26,15 +26,15 @@ Generally, causes can be distinguished between a lack/insufficient insulin or an
 - Intoxication (eg. alcohol, cocaine)
 - Iatrogenic (eg. corticosteroids, surgical)
 ### Pathogenesis
-Diabetic ketoacidosis occurs when there is a near-absolute deficiency in insulin.
+Diabetic ketoacidosis occurs when there is a near-absolute deficiency in insulin. When the body's demand for energy increases but is unable to obtain glucose through insulin, DKA precipitates.
 
 **Hypovolemia**
-The lack of insulin driving cellular glucose uptake results in hyperglycemia. Osmotic diuresis causes volume depletion and associated loss of electrolytes. In the most extreme cases, [[Acute Kidney Injury|acute kidney injury]] and hypovolemic [[Shock|shock]] can occur.
+The lack of insulin driving cellular glucose uptake results in hyperglycemia. Osmotic diuresis due to excess glucose excreted causes volume depletion and associated loss of electrolytes. In the most extreme cases, [[Acute Kidney Injury|acute kidney injury]] and hypovolemic [[Shock|shock]] can occur.
 
 **Metabolic acidosis with increased anion gap**
 Insulin deficiency induces lipolysis as counteracting hormone (lipase) is more active. Free fatty acids from lipolysis become ketones, which includes acetoacetic acid and beta-hydroxybutyric acid (ketosis).
 
-Serum bicarbonate is consume and metabolic acidosis occurs. An elevated anion gap is present due to ketoacids.
+Serum bicarbonate is consumed and metabolic acidosis occurs. An elevated anion gap is present due to ketoacids.
 
 **Intracellular potassium deficit**
 Potassium shifts extracellularly to compensate for acidosis.

@@ -86,10 +86,12 @@ Obstetrics:
 - Polyhydramnios (due to fetal hyperglycemia and polyuria)
 - Spontaneous abortion
 - Preterm labour
+
 [[Diabetes Mellitus, Type 2#Red Flags / Complications|Diabetes]] related:
 - Diabetic emergencies
 - End-organ involvement/vascular complications
 - Increased risk of developing T2DM post-partum
+
 Other:
 - UTI (from glucosuria)
 - Increased risk of spontaneous abortion
@@ -98,12 +100,15 @@ Other:
 Growth abnormalities:
 - Macrosomnia (hyperinsulinism results in accelerated anabolism)
 - IUGR (due to placental vascular insufficiency)
+
 Delayed organ maturity:
 - Lung immaturity (hyperglycemia interferes with surfactant synthesis) can result in ARDS/transient tachypnea
+
 Labour and delivery:
 - Preterm/prematurity
 - Increased incidence of stillbirth
 - Birth trauma (due to macrosomnia and/or shoulder dystocia)
+
 Neonatal:
 - Hypoglycemia (excess insulin secretion from chronic hyperglycemia results in hypoglycemia following loss of maternal glucose supply)
 - Hyperbilirubinemia and jaunice (maternal and fetal hyperglycemia increases metabolic effects and oxygen demand resulting in increased erythropoietin and thus RBC count)
@@ -124,21 +129,26 @@ Congenital heart disease:
 - Truncus arteriosus
 - Coarctation of the aorta
 - Patent ductus arteriosis
+
 CNS defects:
 - Anencephaly
 - Spina bifida
 - Myelomeningocele
+
 Genitourinary defects:
 - Renal agenesis
 - Ureteral duplication
 - Hydronephrosis
+
 Skeletal defects:
 - Caudal regression syndrome (complete or partial absence of sacrum)
 - Vertebral anomalies
+
 Gastrointestinal defects:
 - Small left colon syndrome (transient intestinal obstruction)
 - Duodenal atresia
 - Anorectal malformation
+
 Others:
 - Cleft palate
 ## Management
@@ -163,10 +173,12 @@ For patients highly motivated and borderline diabetic, a trial of lifestyle mana
 Insulin therapy is initiated if targets are not achieved within 1-2 weeks of lifestyle modifications. Options in order of preference are:
 1. Basal-bolus insulin injection (human regular insulin has lowest immunogenicity)
 2. Rapid-acting insulin analogue (eg. aspart, lispro, glulisine) - comparable to regular insulin but less evidence
-3. Metformin (note, crosses the placenta but studies are inconclusive) - insulin may still be necessary for adequate control
+3. Metformin
 4. Glyburide (if other options declined)
 
-Insulin is discontinued post-partum.
+It should be noted that oral antihyperglycemics are reasonable alternative in patients who prefer. However, note:
+- Lack of long term studies on the effect on fetus
+- May not be sufficient and insulin may still be necessary adjunct
 #### Monitoring
 At home blood glucose monitoring should be done:
 - Before breakfast for fasting glucose level

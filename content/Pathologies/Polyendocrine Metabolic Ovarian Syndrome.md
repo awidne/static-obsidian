@@ -3,6 +3,7 @@ aliases:
   - PCOS
   - Polycystic ovary syndrome
   - Polyendocrine metabolic ovarian syndrome
+  - PMOS
 ---
 --- 
 
@@ -16,13 +17,15 @@ tags: [[Pathologies]]
 ### Definitions
 Polyendocrine metabolic ovarian syndrome (PMOS), formerly polycystic ovary syndrome (PCOS), is the most common endocrine condition in females of reproductive age, affecting up to 6-10% of women.
 
-As of May 2026, PCOS has been renamed to polyendocrine metabolic ovarian syndrome to better reflect the diagnostic critera (involving metabolic syndrome while not requiring polycystic ovaries).
+As of May 2026, PCOS has been renamed to polyendocrine metabolic ovarian syndrome to better reflect the diagnostic criteria (involving metabolic syndrome while not requiring polycystic ovaries).
 ### Etiology and Pathogenesis
-PCOS is a multigenic disorder with strong epigenetics associated. 
+PMOS is a multigenic disorder with strong epigenetics associated. 
 
 Pathogenesis involves aberrancies in ovarian steroidogenesis, insulin resistance, antimullerian hormone, and LH excess from HPO dysfunction. This can summarily be thought of in terms of the bidirectional relation between hyperinsulinemia and androgen excess.
 
-Insulin sensitizes ovary to LH which interferes with normal ovulation cycle resulting in dysregulation of androgen synthesis and the normal feedback cycles. Ovarian hyperandrogenism and hyperandrogenemia causes the many manifestations.
+Insulin sensitizes ovary to LH which interferes with normal ovulation cycle resulting in dysregulation of androgen synthesis and the normal feedback cycles (favours LH, resulting in 2:1 LH:FSH ratio). Ovarian hyperandrogenism and hyperandrogenemia causes the many manifestations.
+
+Additionally, adipose tissue associated with obesity contains aromatase which converts androgens to estrogen, further exacerbating hyperandrogenism.
 ## Clinical Presentation
 ### Signs & Symptoms
 **Reproductive manifestations**
@@ -39,7 +42,7 @@ Insulin sensitizes ovary to LH which interferes with normal ovulation cycle resu
 
 **Metabolic issues**
 - Obesity
-- Insulin resistance
+- Insulin resistance (acanthosis nigricans)
 - [[Metabolic Dysfunction-Associated Steatotic Liver Disease|Metabolic dysfunction-associated steatotic liver disease]]
 - Metabolic syndrome
 - [[Diabetes Mellitus, Type 2|Type 2 diabetes]]
@@ -51,7 +54,7 @@ Insulin sensitizes ovary to LH which interferes with normal ovulation cycle resu
 - Venous thromboembolism (associated with treatment)
 - Mood disorders
 ### History & Physical Exam
-Suspicion of PCOS should occur in any women of reproductive age who:
+Suspicion of PMOS should occur in any women of reproductive age who:
 - Presents with irregular menses and symptoms of hyperandrogenism
 - Presence of overweight or obesity should raise suspicion further
 
@@ -63,33 +66,36 @@ General assessment via physical exam should be made for features of hyperandroge
 
 The Ferriman-Gallwey score can be used to assess the degree of hirsutism but its use is limited due to variability between individuals and ethnic groups.
 ### Risk factors
-- Family history of PCOS
+- Family history of PMOS
 - Fetal androgen exposure
 - Family history of metabolic syndrome
 - Obesity or overweight
 ## Diagnosis
 ### Criteria
-PCOS is a diagnosis of exclusion with use of clinical criteria. In the absence of an alternative diagnosis, PCOS may be diagnosed if 2 out of the following 3 criteria are present (Rotterdam criteria):
+PMOS is a diagnosis of exclusion with use of clinical criteria. In the absence of an alternative diagnosis, PMOS may be diagnosed if 2 out of the following 3 criteria are present (Rotterdam criteria):
 - Chronic oligo-anovulation
 - Clinical or biological hyperandrogenism
 - Polycystic ovarian morphology (PCOM)
 ### Work-up
-As PCOS is a diagnosis of exclusion, the work-up primarily involves ruling out more serious causes of manifestations.
+As PMOS is a diagnosis of exclusion, the work-up primarily involves ruling out more serious causes of manifestations.
 
 **Patients with hyperandrogenism**
 For patients with normal menstrual cycles:
 - Serum androgen
 - Serum total testosterone
-For patients with oligomenorrhea, further workup is needed to androgen-secreting tumours:
+
+For patients with oligomenorrhea, further workup is needed to rule out androgen-secreting tumours:
 - Serum androgen
 - Serum total testosterone
 - Early morning 17-hydroxyprogesterone
 - TSH, FSH, hCG, prolactin
+- DHEAS
 
 Note that androgen measurements are not useful if patients are taking OCPs for treatment of hirsutism. In such case, discontinue medication for 4-6 weeks before measurement.
 
 **Patients with symptoms of cortisol excess**
 Consider other endocrine disorders such as Cushing syndrome.
+- Cortisol
 
 **Transvaginal ultrasound**
 For patients who do not meet criteria without evidence of polycystic ovarian morphology, ultrasound is used to confirm. 
@@ -97,13 +103,16 @@ For patients who do not meet criteria without evidence of polycystic ovarian mor
 It should be noted that cysts found incidentally without meeting other criteria does not necessitate further workup.
 ### Differential
 Diagnoses to rule out include:
-- Use of androgenic steroids
-- Hypothyroidism
+- Use of androgenic steroids (eval: elevated DHEAS)
+- Hypothyroidism (eval: elevated TSH)
 - Nonclassic congenital adrenal hyperplasia (eval: elevated 17-hydroxyprogresterone)
 - Idiopathic/familial hirsutism
 - Androgen secreting tumours (ovarian or adrenal)
+- Cushing disease (eval: elevated cortisol)
+- Pregnancy (eval: elevated b-hCG)
+- Pituitary tumour (eval: elevated prolactin)
 ### Red Flags / Complications
-Quality of life is improves with earlier detection and treatment. Generally, PCOS symptoms and manifestations improve with age. However, complications include:
+Quality of life is improves with earlier detection and treatment. Generally, PMOS symptoms and manifestations improve with age. However, complications include:
 - Infertility
 - Obstetric complications
 - Endometrial cancer
@@ -132,9 +141,9 @@ For women who are pursuing fertility, assessment of ovulatory status may be indi
 **Metabolic abnormalities**
 Treatment of obesity, insulin resistance/[[Diabetes Mellitus, Type 2|diabetes]], dyslipidemia, [[Metabolic Dysfunction-Associated Steatotic Liver Disease|MASLD]], and obstructive sleep apnea may restore ovulatory cycles and improve metabolic risk.
 
-The management is similar to patients without PCOS.
+The management is similar to patients without PMOS.
 ### Pursuing Pregnancy
-For anovulatory women with PCOS who are overweight or obese, weight loss is recommended prior to ovulation induction therapy. 
+For anovulatory women with PMOS who are overweight or obese, weight loss is recommended prior to ovulation induction therapy. 
 
 **Ovulation induction**
 - Letrozole (off-label)

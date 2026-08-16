@@ -18,9 +18,13 @@ Many of the nonspecific elements of [[Acute Coronary Syndrome|acute coronary syn
 ### Pathophysiology
 Myocardial ischemia in the context of acute STEMI occurs as a result of complete blockage of a coronary artery. This results in transmural (affecting the entire thickness of the wall) ischemia and thus causing myocardial injury or necrosis.
 
-The exact pathophysiology depends on the type of MI, listed [[Acute Coronary Syndrome#Criteria|here]]. However, generally involves an acute thrombotic event due to plaque rupture and subsequent blockage.
+The exact pathophysiology depends on the type of MI. However, generally involves an acute thrombotic event due to plaque rupture and subsequent blockage.
 
 It should be noted that because the occlusion is complete and severe, management is required immediately.
+#### ECG Changes
+Normal blood flow occurs from the epicardium to the subendocardium, which means ischemia occurs from the inside outwards. With transmural ischemia, the injury occurs in a gradient, with greater severity on the subendocardium side.
+
+Injury currents occur which creates an impulse from inside outwards (from injured to slightly less injured cells), corresponding to an elevated signal during diastole and thus an ST elevation.
 ## Diagnosis
 ### Criteria
 STEMIs can manifest with new ST-segment elevation in two anatomically contiguous leads with the following thresholds:
@@ -29,6 +33,7 @@ STEMIs can manifest with new ST-segment elevation in two anatomically contiguous
 	- ≥0.2 mV in males ≥40 years old
 	- ≥0.25 mV in males <40 years old
 	- ≥0.15 mV in females
+
 ECG findings with presence of symptoms is sufficient for presumed diagnosis of STEMI.
 
 The Sgarbossa criteria can be used for diagnosis of STEMI in patients with preexisting LBBB:

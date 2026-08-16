@@ -21,7 +21,6 @@ Non-Hodgkin lymphoma (NHL) is a neoplasm of the lymphoid tissues. NHL comprises 
 Widely accepted are the WHO or ICC classifications which recognize >80 distinct variants.
 
 Major subdivisions are:
-
 B-cell lymphomas
 - Diffuse large B-cell lymphomas*
 - Follicular lymphoma*
@@ -29,11 +28,13 @@ B-cell lymphomas
 - Burkitt lymphoma*
 - Marginal zone lymphoma
 - Lymphoplasmacytic lymphoma
+
 T-cell and NK-cell lymphomas
 - Peripheral T-cell lymphoma
 - Angioimmunoblastic T-cell lymphoma
 - Anaplastic large cell lymphoma
 - Extranodal NK/T-cell lymphoma
+
 Precursor lymphoid neoplasms
 - Lymphoblastic lymphoma/leukemia of B- or T-cell origin
 

@@ -89,6 +89,7 @@ History should assess:
 - Cigarette smoking history, drug use
 - Comorbidities
 - Family history (blood clots or bleeding disorders)
+- Use of anticoagulants
 
 Associated findings may point towards a specific diagnosis
 ### Physical Exam

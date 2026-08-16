@@ -24,7 +24,11 @@ As with other forms of ACS, the pathophysiology of an MI involves the mismatch o
 
 Non-coronary injury to the heart can also produce NSTEMI. Other causes including hypotension, pulmonary embolism, and tachycardia can cause increased oxygen demand that cannot be met.
 
-As there is still partial oxygen supply, the ischemia and infarction occurs at the inner one-third of the myocardium (the subendocardium). This is thus called subendocardial infarction. 
+As there is still partial oxygen supply, the ischemia and infarction occurs at the inner one-third of the myocardium (the subendocardium). This is thus called subendocardial infarction.
+#### ECG Changes
+With the inner most myocardium (subendocardium) injuried, the injury current moves inwards towards the ventricular cavity. The current moves inwards as the epicardium is healthy and thus has a strong enough resting potential to resist current moving in its direction.
+
+The inwards injury current corresponds to a depression seen on ECG.
 ## Diagnosis
 ### Criteria
 As NSTEMI does not have characteristic ECG findings, cardiac biomarkers are the mainstay of diagnosis.

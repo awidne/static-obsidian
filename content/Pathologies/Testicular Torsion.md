@@ -45,7 +45,6 @@ Immediate physical and history should rule out necrotizing fasciitis which would
 - Systemic illness
 - Hemodynamic instability
 - Rapidly progressive erythema and edema of the overlying soft tissues of the scrotum
-
 ### Risk factors
 - Adolescent age (period of growth)
 - Congenital abnormality of the tunica vaginalis

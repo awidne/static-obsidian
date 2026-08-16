@@ -72,7 +72,7 @@ The dorsal column comprises of the laterally located fasciculus cuneatus (impuls
 The function of the dorsal column is:
 - Fine sensation (two point discrimination)
 - Vibration sense
-- Prprioception
+- Proprioception
 
 The axons for this tract originate as primary neurons from the ipsilateral dorsal root ganglion and travel upwards to synapse in the lower medulla.
 

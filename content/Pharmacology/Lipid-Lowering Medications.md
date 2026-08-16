@@ -11,6 +11,12 @@ tags: [[Pharmacology]]
 ## Background
 Pharmacotherapy for control of dyslipidemia is integral to management of ASCVD risk. 
 
+Lipids is often used clinically to refer to LDL or non-HDL but exact definitions are:
+- VLDL (very low density lipid): made in liver and transports to muscle and adipose; TG and cholesterol rich
+- IDL (intermediate density lipid): after TG is removed from VLDL; cholesterol rich
+- LDL (low density lipid): from VLDL/IDL, transports cholesterol in blood
+- HDL (high density lipid): transports from peripheral tissue to liver (good)
+### Targets
 Lipid targets vary based on comorbidities (secondary prevention) but generally, pharmacotherapy is considered for primary prevention if:
 - High risk of ASCVD (FRS ≥20%)
 - Intermediate risk of ASCVD (FRS 10-19%) with any of the following:
@@ -20,14 +26,20 @@ Lipid targets vary based on comorbidities (secondary prevention) but generally, 
 	- Age ≥50 (men) or ≥60 (women) with one additional CVD risk factor
 
 Targets are:
-- LDL-C <2.0 mmol/L (<1.8 for recent ACS)
+- LDL-C <2.0 mmol/L
 - Apo B <0.8 g/L
 - Non-HDL-C <2.6 mmol/L
+
+Targets for patients with recent ACS:
+- LDL-C ≤1.8 mmol/L
+- Apo B ≤0.7 g/L
+- Non-HDL-C ≤2.4 mmol/L
 ## LDL-C Lowering Medications
 ### HMG-CoA Reductase Inhibitor (Statins)
 ###### Mechanism of Action
 - Competitive inhibition of HMG-CoA reductase (rate-limiting step of endogenous cholesterol production)
 - Increases LDL receptors on hepatocyte surfaces
+- Note, in east Asian populations, a lower starting dose is recommended due to higher plasma concentrations
 ###### Additional Indications
 - First line for ASCVD risk reduction
 - Secondary prevention of ASCVD

@@ -13,7 +13,9 @@ tags: [[Pathologies]]
 
 ## Background
 ### Definition
-Characterized by hyperglycemia, insulin resistance, and relative impairment in insulin secretion. Type 2 diabetes can differ with varying contributions from defective insulin secretion and insulin action/resistance. 
+Characterized by hyperglycemia, insulin resistance, and relative impairment in insulin secretion. Type 2 diabetes can differ with varying contributions from defective insulin secretion and insulin action/resistance.
+
+[[Diabetes Mellitus, Type 1|Type 1 diabetes]] is discussed separately.
 ### Etiology
 Development of type 2 diabetes is multifactorial with contributions from
 - Genetics - genes relating to beta cell function and insulin action
@@ -162,6 +164,7 @@ Choice of medication often follows a sequential addition of agents:
 	- 500 mg daily with PM meal; can be increased up to 200mg per day as tolerated
 2. Addition of further antihyperglycemic agent(s)
 	- Selection may be due to comorbidities (such as kidney disease or heart failure) or risk factors (such as hypoglycemia risk)
+	- Typically, SGLT-2 inhibitors and GLP-1 agonists
 3. Add basal insulin
 	- Start with 10 units qHS
 	- Titrated to fasting glucose in target range (4-7 mmol/L) by increasing dose by 1 unit every night
@@ -174,7 +177,6 @@ Choice of medication often follows a sequential addition of agents:
 
 Note that with sequential steps, previous step medications should be continued to be optimized. With addition of insulin, consider hypoglycemic risk and interactions with antihyperglycemic agents such as secretagogues. 
 ## References
-
 ### Tools / Guidelines
 Diabetes Canada: https://guidelines.diabetes.ca/GuideLines/media/Docs/Quick%20Reference%20Guide/2024-CPG-Quick-Reference-Guide.pdf
 Insulin Prescribing: https://guidelines.diabetes.ca/GuideLines/media/Docs/Key%20Messages/Insulin_Prescription_EN_09_23.pdf

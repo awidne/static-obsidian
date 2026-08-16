@@ -27,7 +27,7 @@ Diagnosis of etiology can be made using clinical features in addition to laborat
 - Hemolytic anemia (incl. sickle cell anemia, autoimmune hemolysis, infections)
 - Nonhemolytic anemia (incl. blood loss)
 #### Macrocytic anemia (MCV >100 fL)
-- Megaloblastic anemia (incl. B12 deficiency, folate deficiency)
+- Megaloblastic anemia (impaired DNA synthesis from B12 deficiency, folate deficiency)
 - Nonmegaloblastic anemia (incl. liver disease, alcohol use)
 ### Pathogenesis
 The pathophysiology of anemia depends on the primary cause. However, the mechanism of anemia can be summarized into two components.
@@ -36,7 +36,6 @@ The pathophysiology of anemia depends on the primary cause. However, the mechani
 
 It must be noted that Hb is reported as a concentration of total blood volume. As such, imbalances between RBCs and plasma can result in anemia or falsely normal hemoglobin.
 ## Clinical Presentation
-
 ### Signs & Symptoms
 Mild anemia is often asymptomatic and an incidental finding. However, anemia can manifest with:
 - Exertional dyspnea
@@ -111,7 +110,7 @@ Pancytopenia can suggest more ominous diagnoses including:
 - Aplastic anemia
 
 Other conditions that may also present with anemia includes:
-- [[Hypertensive Disorders of Pregnancy|HELLP syndrome]]
+- [[Hemolysis, Elevated Liver Enzymes, and Low Platelet Count Syndrome|HELLP syndrome]]
 
 There are also a number of complications that can occur with untreated anemia which include increased susceptibility to infection, worsening of symptoms, complications of the heart and lungs
 ## Management
@@ -123,14 +122,16 @@ For iron deficiency anemia, heme iron (Fe2+) rich foods such as
 - Red meat
 - Poultry
 - Fish
+
 and nonheme iron (Fe3+) rich foods such as 
 - Legumes
 - Lentils
 - Tofu
 - Spinach
+
 paired with vitamin C (for conversion of ferrous to ferric iron) is recommended. Note that tea, coffee, calcium, and high-fibre can inhibit iron absorption.
 
-Animal-based foods can also address vitamin B12 deficiency and green leafy vegetables and legumes can address folate deficiency.
+Animal-based foods can also address vitamin B12 deficiency and green leafy vegetables and legumes can address folate deficiency. Note that heme iron (ferrous) is more easily absorbed.
 
 For etiologies that result from some offending agent (eg. lead poisoning or iatrogenic), cessation of agent should be considered.
 ### Pharmacological / Interventional
@@ -147,7 +148,7 @@ IV iron therapy:
 Blood transfusion:
 - Severe anemia with active bleeding or significant symptoms
 
-Other interventions can mitigate anemia such as use of hormonal [[contraceptives]] to reduce [[Antihyperglycemics|menstrual blood loss]].
+Other interventions can mitigate anemia such as use of hormonal [[contraceptives]] to reduce symptoms of [[Abnormal Uterine Bleeding|abnormal uterine bleeding]].
 ## References
 
 ### Tools / Guidelines

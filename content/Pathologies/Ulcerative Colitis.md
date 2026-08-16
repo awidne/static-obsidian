@@ -165,7 +165,7 @@ Maintenance regimens typically involve continuing mesalamine (eg. nightly suppos
 In patients without the above features, maintenance therapy is not necessary as remissions are often long-term and relapses are quickly resolved with topical 5-ASA.
 
 **Note: smoking**
-Smoking is protective against UC but is a risk factor for Crohn's disease and colon cancer.
+Smoking is protective against UC but is a risk factor for Crohn's disease and colon cancer. It is not recommended.
 ### Moderate-to-severe disease
 Patients are considered at elevated risk if they have any of the following features:
 - Extensive colitis

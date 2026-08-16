@@ -25,6 +25,29 @@ Emergency department staff should establish roles:
 - IV access
 - Attachment of monitoring devices
 - Medication assessment
+
+In certain cases, trauma team activation (TTA) may occur based on protocols. These specify roles and procedures. Causes include:
+- Physiological
+	- Loss of vital signs en route
+	- Systolic BP <90 with hypoperfusion
+	- GCS <12 with evidence of torso or extremity trauma
+	- Pregnant patient (>20 weeks) with fetal heart rate <120 or >160
+- Anatomic
+	- Amputation proximal to elbows or knees
+	- 2 or more proximal long bone fractures
+	- Suspected spinal cord injury
+	- Severe maxillofacial injury with potential airway compromise
+	- Burns >15% body surface area
+	- Pregnant patient (>20 weeks) with penetrating injury or significant blunt injury
+- Mechanism
+	- Gunshot wound proximal to knee/elbow
+	- Significant penetrating wound to head, back, neck, chest, abdomen, or groin
+	- Ejection from vehicle
+	- Pedestrian thrown or run over by car
+	- Fall from height >6 meters
+- Logistical
+	- Simultaneous arrival of ≥3 multi-trauma patients
+	- Discretion of emergency physician (if they feel it is necessary for a patient)
 ## Primary Survey
 Upon arrival, EMS will present the patient and their findings. Primary survey may start during presentation depending on condition. ATLS organizes the primary survey into the sequence ABCDE.
 
@@ -90,12 +113,12 @@ Specific history may be relevant based on the mechanism of injury (eg. seatbelt 
 The C-spine can be clinically cleared in some circumstances without imaging. The [Canadian c-spine rule](https://www.mdcalc.com/calc/696/canadian-c-spine-rule) guides whether c-spine immobilization/collar can be removed.
 
 To clinically clear the c-spine:
-1. The patient must *not*:
+1. The patient must ***not***:
 	- Be age ≥65
 	- Have extremity paresthesia
 	- Experienced a dangerous mechanism (fall ≥3 ft/5 stairs, axial load injury, high speed MVC, bicycle collision, motorized recreational vehicle)
 2. The patient *should be*:
-	- Sitting in the ED
+	- Sitting in the ED (not requiring laying down)
 	- Ambulatory at any time
 	- Have delayed (non-immediate onset) neck pain
 	- Without midline tenderness

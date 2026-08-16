@@ -120,9 +120,12 @@ While pleural effusion is often manageable, it can lead to complications.
 - Empyema - accumulation of infected fluid in pleural space
 - Pleural thickening from fibrous adhesions
 ## Management
-Management consist treating the underlying cause.
+### Treatment of Underlying Cause
+Management consist treating the underlying cause. In the settings of heart failure, thoracentesis is only indicated if diuretics do not work.
+### Thoracentesis
+In symptomatic patients, therapeutic pleural fluid drainage is recommended. The procedure is as follows: (incomplete)
 
-In symptomatic patients, therapeutic pleural fluid drainage is recommended. In the settings of heart failure, thoracentesis is only indicated if diuretics do not work.
+The catheter is inserted on the superior edge of the rib as the rib vessels and nerves run on the inferior edge.
 ## References
 ### Tools / Guidelines
 ### Additional Reading

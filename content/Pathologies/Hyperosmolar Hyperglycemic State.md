@@ -99,7 +99,7 @@ Reduction of osmolality should be approached with caution as rapid reduction can
 
 In patients with **hypovolemic shock**, isotonic fluid should be infused as quickly as possible.
 
-In patients without shock, heart failure, or kidney failure, isotonic fluid is infused at a rate of **500-1000 mL/hr** for first few hours.
+In patients without shock, heart failure, or kidney failure, isotonic fluid is infused at a rate of **500-1000 mL/hr** for first few hours (aggressive but slower than DKA).
 
 After 2-3 hours of infusion, hypotonic fluid may be used in place of isotonic saline if sodium concentration is ≥135 mEq/L. It should be noted that sodium concentration must be corrected for degree of hyperglycemia (add 2 mEq/L for each 5.5 mmol/L elevation of glucose over 5.5 mmol/L).
 

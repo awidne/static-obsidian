@@ -47,7 +47,7 @@ In some cases, the limp may be due to a process that can be life or limb threate
 - Stress fractures
 - Juvenile idiopathic arthritis
 - Ascorbic acid deficiency (scurvy)
-- Other inflammatory arthritis
+- Other [[Inflammatory Arthritis|inflammatory arthritis]]
 - Nonmalignant tumours
 - Hypermobility from EDS or other disorder
 - Spinal column or neuromuscular disorders

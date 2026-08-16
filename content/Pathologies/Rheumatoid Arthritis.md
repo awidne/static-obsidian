@@ -65,6 +65,7 @@ Associated with inflammatory process:
 - Swan neck deformity
 - Boutonniere deformity
 - Bowstring sign
+
 Additional findings of late stage RA include:
 - Decreased shoulder, elbow, and knee ROM
 - Hallux valgus (aka bunion) of the foot

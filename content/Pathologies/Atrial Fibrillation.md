@@ -114,7 +114,7 @@ Laboratory testing should be completed for **CBC, serum electrolytes, and renal 
 - WPW syndrome
 - Atrioventricular nodal reentry tachycardia
 ### Red Flags / Complications
-The major complication of afib is the formation of thrombus. The rhythm irregularity causes heart blood flow to be turbulent and increases the likelihood of thrombus formation and systemic emboli, resulting in a **stroke**.
+The major complication of afib is the **formation of thrombus**. The rhythm irregularity causes heart blood flow to be turbulent and increases the likelihood of thrombus formation and systemic emboli, resulting in a **stroke**.
 ## Management
 ### Indication for emergency / in-patient
 Emergency room visit is indicated for patients with:

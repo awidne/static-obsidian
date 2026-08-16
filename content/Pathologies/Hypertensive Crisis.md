@@ -25,23 +25,29 @@ The etiology of crisis is multifactorial. Common etiologies and/or precipitating
 - Medication nonadherence
 - Withdrawal of antihypertensive medications
 - Drug interactions or overdose (Eg. MAOi with tyramine-rich foods, sympathomimetic drugs)
+
 **Renal causes**
 - Renovascular diseases (eg. polyarteritis)
 - Renal parenchymal disease (eg. glomerulonephritis, tubulointerstitial nephritis)
+
 **Endocrine disorder**
 - Pheochromcytoma
 - Cushing disease
 - Primary hyperaldosteronism
 - Renin-secreting tumour
+
 **Cardiovascular abnormalities**
 - Coarctation of the aorta
+
 **Central nervous system disorders**
 - Head injury
 - Cerebral infarction
 - Intracerebral hemorrhage
+
 **Substance use and withdrawal**
 - Illicit drug use (eg. cocaine, phencyclidine, amphetamines)
 - Excessive alcohol consumption
+
 **Psychosocial and physiologic stress**
 - Severe emotional stress
 - Acute pain

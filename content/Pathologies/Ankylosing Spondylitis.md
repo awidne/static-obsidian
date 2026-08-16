@@ -40,6 +40,7 @@ AS is characterized by involvement of:
 - SI joints and vertebra
 - Hip and shoulder
 - Peripheral joints
+
 and:
 - Costcovertebral, manubriosternal, sternoclavicular, costochondral inflammation
 - Extraspinal enthesis
@@ -50,6 +51,7 @@ Pain is the most common complaint:
 - Improves with exercise/movement
 - No improvement with rest
 - Pain at night
+
 and is typically reported as (in order of prevalance):
 - Back/neck pain
 - Buttock pain

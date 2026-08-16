@@ -115,6 +115,8 @@ Complications of aortic stenosis include:
 - Endocarditis
 - Increased risk of bleeding
 - Embolic events
+
+In rare cases, aortic stenosis can result in shear forces that damage von-Willebrand factors, resulting in GI bleeding in patients with GI angiodysplasias (typically elderly – this is the basis of Heyde syndrome.
 ## Management
 ### Asymptomatic
 Management of asymptomatic patients who are not indicated for aortic valve intervention primarily focuses on monitoring for progression and treatment of comorbidities.

@@ -125,6 +125,8 @@ Typically, the urgency of correction is due to symptoms such as seizures. Treatm
 - 100 mL bolus of 3% saline
 - Up to two additional 100 mL boluses over 30 minutes
 
+In asymptomatic patients, observation for an auto-correction may be sufficient.
+
 **Chronic hyponatremia**
 In patients with **severe symptoms**, sodium repletion is necessary to alieviate symptoms: 
 - 100 mL bolus of 3% saline

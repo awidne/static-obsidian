@@ -138,6 +138,7 @@ Staging is used for risk of progression and complications, and to inform treatme
 
 **Cause of disease**
 - Identification of the cause is required to use specific therapy for preventing further injury
+
 **GFR (G stage)**
 - G1: GFR >90 mL/min per 1.73 m2
 - G2: GFR 60-89 mL/min per 1.73 m2
@@ -145,6 +146,7 @@ Staging is used for risk of progression and complications, and to inform treatme
 - G3b: GFR 30-44 mL/min per 1.73 m2
 - G4: GFR 15-29 mL/min per 1.73 m2
 - G5: GFR <15 mL/min per 1.73 m2 or treatment by dialysis
+
 **Albuminuria (A stage)**
 - A1: ACR <3.0 mg/mmol (normal)
 - A2: ACR 3.0 to 30 mg/mmol (microalbuminuria)
@@ -196,7 +198,7 @@ The general principles of management are:
 
 **Blood pressure control and albuminuria**
 Optimization of [[Antihypertensives|antihypertensives]] therapy if patient has cooccuring hypertension (80-85% of patients). In nondiabetic patients, recommended choices are:
-- ACE inhibitor (recommended) or ARB
+- ACE inhibitor (recommended) or ARB – renal protective due to increased efferent arteriolar tone (increases GFR)
 - Combination therapy with another antihypertensive (not ACEi + ARB)
 
 Additionally, patients with elevated ACR may benefit from an SGLT2 inhibitor.
@@ -211,6 +213,12 @@ Due to the increased risk of infection, patients should be vaccinated against:
 - Annual influenza virus
 - Hep B (for those at risk of progression of CKD or CKD stage 4-5)
 - Pneumococcal (for those at risk)
+
+**Avoid nephrotoxins**
+Avoid drugs such as:
+- ASA
+- Gentamicin
+- NSAIDs
 ### Acute exacerbation of CKD
 In CKD patients with a recent decrease in eGFR or increase in proteinuria, identification and correction of a possible reversible process may result in recovery of function. Some possible causes are:
 - **Decreased kidney perfusion** - hypovolemia (eg. from vomiting), hypotension, infection, or certain eGFR lowering drugs (eg. NSAIDs, ACEi) can result in hypoperfusion and temporarily decreased eGFR
@@ -222,24 +230,31 @@ Manifestations of CKD can vary and thus treatment of each will depend on the com
 **Volume overload**
 - Sodium restriction (<2 g/day in adults, <1 teaspoon)
 - Diuretic therapy (eg. loop diuretic daily)
+
 **Hyperkalemia**
 - Low-potassium diet (<1.5-2.7 g/day)
 - Avoid potassium raising drugs such as NSAIDs
 - Also, salt substitutes replace Na with K, which may cause hyperkalemia
+
 **Metabolic acidosis**
 - Bicarbonate supplementation with volume status monitoring (due to concurrent administration with sodium)
+
 **Mineral and bone disorders (MBD)**
 - Dietary phosphate restriction and oral phosphate binder
 - Monitoring of PTH levels
+
 **Hypertension**
 - Discussed above
+
 **Anemia**
 - Hb checked yearly for stage 3, q6 months for stage 4-5, and q3 months for dialysis patients
 - Treat underlying cause if present (eg. iron deficiency)
 - Erythropoietin stimulating agents (ESAs) such as erythropoietin and darbepoetin alfa may correct anemia
+
 **Dyslipidemia**
 - Assessment of cardiovascular risk should be made
 - Statin therapy
+
 **Sexual dysfunction**
 - Erectile dysfunction/decreased libido in males
 - Disturbances in menstruation (including amenorrhea) in females
@@ -249,15 +264,19 @@ Nearing ESKD (eGFR <15 mL/min/1.73m2), some uremic symptoms must be monitored an
 **Malnutrition**
 - Monitor using serum albumin (correlates to nutritional status)
 - Low-protein diet - providing 30-35 kcal/kg daily, do not exceed 0.8g/kg/day
+
 **Uremic bleeding**
 - Correction of platelet dysfunction via desmopressin, cryoprecipitate, or estrogen
 - Typically not needed if asymptomatic but may be considered prior to invasive procedures
+
 **Pericarditis**
 - Uremic pericarditis presents with fever, pleuritic chest pain, and pericardial friction rub w/ typical ventricular strain pattern on ECG
 - Resolves with dialysis
+
 **Uremic neuropathy**
 - Dysfunction of CNS and PNS including encephalopathy
 - Resolves with dialysis
+
 **Thyroid dysfunction**
 
 In these cases, a nephrology referral is typically recommended. The eligibility of referral is found [here](https://www.ckdpathway.ca). A low eGFR may not necessarily indicate dialysis and choice to initiate is typically based on symptoms.

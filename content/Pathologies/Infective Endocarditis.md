@@ -103,7 +103,7 @@ Infective endocarditis is generally rare but pre-disposing factors elevate risk:
 - Prosthetic heart valves (especially within 6 months of implantation)
 ## Diagnosis
 ### Criteria
-Diagnosis is made based on clinical manifestations, blood cultures/microbiologic data, and cardiac imaging.
+Diagnosis is made based on clinical manifestations, blood cultures/microbiologic data, and cardiac imaging. This is summarized by the [updated Modified Duke Criteria](https://academic.oup.com/view-large/443832703).
 ### Work-up
 **Blood cultures**
 Blood cultures are collected on suspicion of IE and 48 hours after antimicrobial therapy has begun, repeated every 48 hours until bacteremia is cleared.
@@ -139,20 +139,23 @@ Management follows the following process:
 - Consideration for valve surgery
 - Monitoring for resolution of bacteremia
 ### Antimicrobial Therapy
-Empiric therapy should be administered after ≥2 sets of blood cultures have been drawn.
+Empiric therapy should be administered after ≥2 sets of blood cultures have been drawn. Treatment typically consist of 2-4 weeks of IV antibiotics.
 
 A reasonable empiric regimen for suspected native valve endocarditis is:
 - Vancomycin plus ceftriaxone
 - Vancomycin plus ampicillin-sulbactam
 - Replace ceftriaxone with cefepime or pip-tazo for Pseudomonas coverage
 
-Monitoring for clearance of bacteremia is done every 48 hours with blood cultures.
+Monitoring for clearance of bacteremia is done every 48 hours with blood cultures. Antibiotic therapy should be guided with culture and sensitivity.
 ### Further Treatment
 In the context of catheter- or cardiac device-associated endocarditis, surgical removal/replacement may be necessary.
 
 In patients with complicated IE (eg. IE-associated valve dysfunction), early valve surgery may be necessary. Right-sided valve surgery may be needed for large vegetations, recurrent septic pulmonary emboli, or persistent bacteremia.
 
 Note, antithrombotic therapy is not indicated as evidence does not suggest they reduce risk of septic embolism.
+### Prophylaxis
+For patients at risk of IE, prophylactic antibiotics may be indicated prior to dental work. Management is deferred to dentist.
 ## References
 ### Tools / Guidelines
+[2023 Duke-International Society for Infective Endocarditis](https://academic.oup.com/view-large/443832703)
 ### Additional Reading

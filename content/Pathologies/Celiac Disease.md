@@ -20,7 +20,7 @@ There is a genetic basis of celiac disease with a number of genes being associat
 
 The environmental agent that triggers celiac-related inflammation is gliadin, a component of gluten found in wheat and related cereals.
 
-The pathophysiology of celiac disease involves gliadin-reative T-cells in the lamina propria. Gliadin resists complete digestion in celiac disease and through deamination by tissue transglutaminase (tTG) become highly likely to bind to specific antigen-presenting cells with HLA-DQ2 or HLA-DQ8 markers.
+The pathophysiology of celiac disease involves gliadin-reactive T-cells in the lamina propria. Gliadin resists complete digestion in celiac disease and through deamination by tissue transglutaminase (tTG) become highly likely to bind to specific antigen-presenting cells with HLA-DQ2 or HLA-DQ8 markers.
 
 Subsequent immune response results in:
 - CD4+ T cells releasing pro-inflammatory cytokines, driving inflammation, crypt hyperplasia, and destruction of intestinal villi

@@ -45,14 +45,14 @@ Bacterial etiology may be considered with the following signs:
 - Double worsening
 - Persisting symptoms >10 days
 
-Additionally, consider group A streptococcal pharyngitis based on the Centor score criterions:
+Additionally, consider group A streptococcal pharyngitis based on the Centor score criterions (STREP):
 - Sans cough
 - Tender lymph nodes
 - Right age (3-14 years old)
 - Exudate on tonsils
 - Pyrexia
 
-Bacterial etiology of sinusitis can be considered based on the presence of:
+Bacterial etiology of sinusitis can be considered based on the presence of (PODS):
 - Pressure
 - Obstruction
 - Discharge/drip
@@ -124,7 +124,7 @@ For rhinorrhea or sinus congestion:
 ### Pharmacological / Interventional
 Antibiotics are not typically prescribed due to the viral etiology. See bacterial specific conditions for antibiotic treatment:
 - Group A Streptococcal pharyngitis
-- Bacterial sinusitis
+- [[Acute Rhinosinusitis|Bacterial sinusitis]]
 ### Return precautions
 Patients should be counselled to return should the following symptoms occur:
 - Dyspnea
@@ -134,7 +134,6 @@ Patients should be counselled to return should the following symptoms occur:
 - Severe headache or facial pain
 - Dizziness or confusion
 - Symptom duration exceeding 2 weeks (with exception to cough)
-
 ## References
 
 ### Tools / Guidelines

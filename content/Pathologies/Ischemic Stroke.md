@@ -111,9 +111,10 @@ A confirmatory diagnosis is made following therapy via assessment of risk factor
 **Initial diagnostic approach**
 Immediate noncontrast head CT is indicated to rule out hemorrhagic stroke. This is sufficient to guide treatment.
 
+A POCT glucose should be performed on arrival as well.
+
 **Additional investigations**
 Beyond initial CT, additional evaluation can be performed if they do not delay treatment:
-- Finger stick blood glucose
 - Oxygen saturation
 - ECG and troponin
 - CBC

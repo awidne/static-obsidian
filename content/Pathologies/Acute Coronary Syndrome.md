@@ -18,9 +18,7 @@ ACS refers to a group of conditions that include:
 - [[Non-ST Elevation Myocardial Infarction|Non-ST elevation myocardial infarction (NSTEMI)]]
 - Unstable angina (UA)
 
-Each condition is discussed in more depth in their respective pages.
-
-These represent varying degree of manifestation of coronary heart disease (CHD).
+Each condition is discussed in more depth in their respective pages. These represent varying degree of manifestation of coronary heart disease (CHD).
 ### Etiology & Pathogenesis
 Acute coronary syndromes are a manifestation of CHD and is due to atherosclerosis of the coronary arteries.
 
@@ -45,19 +43,24 @@ Further history taking can aid in distinguishing ischemic chest pain from noncar
 Onset: 
 - Gradual and may wax and wane
 - Angina often occurs in the morning due to diurnal increase in sympathetic tone and other cardiovascular parameters.
+
 Provocation:
 - Pain increases with myocardial oxygen demand
 - Does not change with respiration, position, or palpation
 - Pain may or may not respond to nitroglycerin; response to pain does not necessarily mean cardiac cause though
+
 Quality:
 - Commonly used words: squeezing, tightness, pressure, constriction, crushing, strangling, burning, fullness, weight on chest
 - Not described as: sharp, fleeting, knife-like, stabbing
+
 Radiation:
 - Radiation is common as the heart overlies afferent nerves and referred pain correspond to dermatomes from that segment of the spinal cord (C5-6 and T1-6)
 - Pain radiating to upper extremities is highly suggestive of ischemic pain
 - May also radiate to epigastrium, shoulders, wrist, fingers, neck/throat, lower jaw, teeth, back
+
 Site/Severity:
 - Diffuse discomfort (not specific spot)
+
 Time:
 - Chest pain from ACS may occur at rest and generally lasts longer than 30 minutes (contrasted to [[stable angina]]: 2-5 min, relieved by rest)
 - Continuous pain that does not wax and wane for >24 hrs is unlikely ACS

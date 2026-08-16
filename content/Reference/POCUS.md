@@ -11,7 +11,6 @@ tags: [[Clinical & Communication Skills]], [[Directed Independent Learning]]
 # POCUS
 
 ## Introduction to POCUS
-
 ### Intro
 - POCUS > RADUS for:
 	- At bedside
@@ -20,11 +19,14 @@ tags: [[Clinical & Communication Skills]], [[Directed Independent Learning]]
 	- Real time interpretation
 	- Easy to repeat
 	- Answer targeted questions
-		- Blood?
-		- Is there AAA?
-		- Is there cardiac tamponade?
-		- Is there miscarriage?
-- POCUS does not replace RADUS, but acts as an excellent adjunct to the clinical findings
+		- Blood in abdomen?
+		- Is there AAA? Rule out for back pain
+		- Is there cardiac tamponade or pericardial effusion?
+		- Is there miscarriage? Is fetus live? Is the pregnancy ectopic?
+		- Is there fluid in lungs?
+		- Is there retinal detachment?
+		- Is there still glass/foreign body in tissue?
+- POCUS does not replace RADUS (diagnostic imaging), but acts as an excellent adjunct to the clinical findings
 ### Physics
 - US waves 2-10 million Hz
 - At density change, reflection of waves return to transducer
@@ -42,7 +44,6 @@ tags: [[Clinical & Communication Skills]], [[Directed Independent Learning]]
 		- Greying out behind a solid structure (that is not necessarily hyperechoic)
 - Scatter = scattered waves due to gas
 	- Makes image hard to interpret
-
 ### Probes
 - Curvilinear Probe
 	- Low frequency

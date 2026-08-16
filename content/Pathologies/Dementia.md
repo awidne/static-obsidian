@@ -118,7 +118,7 @@ Dementia syndrome with evidence that cerebrovascular disease explains the cognit
 Progressive deterioration in behaviour and/or cognition with early behavioural/personality change or dysfunction of executive functions
 
 **Dementia with Lewy bodies**
-Dementia syndrome with characteristic cognitive profile (attention, executive, visuoperceptual) rather than early memory loss.
+Dementia syndrome with characteristic cognitive profile (attention, executive, visuoperceptual) and Parkinsonian findings rather than early memory loss. Onset is typically more acute.
 ### Work-up
 **Initial evaluation**
 A number of standardized assessments can be used to document the presence and progression of dementia. Options include:

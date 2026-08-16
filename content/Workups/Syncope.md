@@ -22,15 +22,18 @@ With vasovagal syncope, initial sympathetic activity (caused by some stimuli or 
 **Cardiovascular**
 - Cardiac arrhythmias
 - Structural and obstructive disorders (eg. valvular abnormalities, MI, PE)
+
 **Cerebrovascular/neurological** 
 - Vertebrobasilar insufficiency
 - Disrupted autoregulation
+
 **Disorders of blood flow and vascular tone**
 - Vasovagal syncope (50% of all syncope cases)
 	- Prolonged standing, crowded environments, hot conditions, severe pain, extreme fatigue, stress causes vasodilation and bradycardia
 - Orthostatic hypotension
 - Situational causes (eg. coughing, defecation)
 - Carotid sinus syncope
+
 **Disorders that mimic syncope**
 - Seizures
 - Metabolic conditions (eg. hypoglycemia)

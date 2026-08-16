@@ -100,7 +100,7 @@ A pelvic exam including a speculum visualization of the cervix and bimanual palp
 - Embryonic/fetal cardiac activity present
 - Closed cervical os (not dilated or effaced)
 
-Note, the term inevitable pregnancy loss, which refers to threatened pregnancy loss with an open cervical os, is not frequently used due to uncertainty.
+Note, the term **inevitable pregnancy loss**, which refers to threatened pregnancy loss with an open cervical os, is not frequently used due to uncertainty.
 ### Work-up
 All suspected pregnancy loss is investigated with **physical exam** (including speculum exam) and **ultrasound examination**. The diagnosis is then made based on the combined findings.
 
@@ -115,6 +115,10 @@ Alternative diagnoses depend on the physical exam and ultrasound findings.
 Bleeding can occur from:
 - Vaginal or cervical lesion
 - Implantation bleeding (in early pregnancy)
+- Ectopic pregnancy
+- Ovarian cyst rupture
+- PID/cirvicitis
+- Endometritis
 
 In cases where no intrauterine pregnancy is observed on ultrasound, ectopic pregnancy is a possible diagnosis.
 ### Red Flags / Complications

@@ -796,3 +796,24 @@ were noninferior to warfarin but also found differences in bleeding risk (4.3% o
 | ----------------- | ----------- | -------------------------------------------------------------- |
 | Internal validity | Y           | Open-label, but assessment of bleed made by objective criteria |
 | External validity | Y           |                                                                |
+## ARISE FLUIDS 2026
+Australasian Resuscitation In Sepsis Evaluation: FLUID or vasopressors in emergency department Sepsis
+### Findings
+In adult patients presenting to the ED with septic shock, use of restricted fluids and early vasopressors, in comparison to liberal fluids and later vasopressors:
+- Did not increase days survived out of hospital
+- Did not increase mortality at hospital discharge
+
+**Limitations**
+### Background
+Prior guidelines weakly recommend a dose of IV fluids within 3 hours of recognition of hypotension. However, RCT have been recommended for initial dosing and subsequent fluid strategy. Additionally, no recommendations are made for the timing of vasopressor use.
+### Study Appraisal
+
+| Criteria          | Acceptable?     | Additional Comments                         |
+| ----------------- | --------------- | ------------------------------------------- |
+| Internal validity | Y               | Not blinded (due to nature of intervention) |
+| External validity | COI, applicable |                                             |
+Inclusion criteria: 
+- SBP <90 or MAP <65 despite 1000 mL fluid from boluses
+- Lactate >2.0 mmol/L
+- Began treatment with IV abx
+- Within 6 hours of presentation to ED and <2000 mL fluid administered

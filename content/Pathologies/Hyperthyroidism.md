@@ -54,21 +54,27 @@ Pathophysiology of hyperthyroidism depends on the etiology and variant. Common e
 - Autoimmune process with antibodies against TSH receptor
 - Antibodies stimulate TSH receptor causing production of T3 and T4
 - Trophic effect leads to thyroid growth
+
 **Toxic multinodular goiter (TMNG)** 
 - Initial phase of development of nodules (years)
 - Mutations to TSH receptor causes constitutive activation of cAMP pathway resulting in thyroid autonomy (production without need for TSH)
 - Larger nodules correlated to development of hyperthyroidism
+
 **Toxic adenoma**
 - Like TMNG but with solitary nodule
+
 **Iodine-induced hyperthyroidism (Jod-Basedow Phenomenon)**
 - Typically iatrogenic due to excessive iodine intake through diet or iodine-containing medication (eg. contrast media or amiodarone)
 - Normally, organification of iodine is self-regulating (Wolff-Chaikoff effect) but in the Jod-Basedow phenomenon (pre-existing thyroid disease), excess thyroid hormone is produced when there is excess iodine
+
 **Amiodarone-induced thyroiditis** (risk if use >24 hr)
 Type 1:
 - Thyroid hormone production secondary to excess iodine exposure from amiodarone in the setting of pre-existing thyroid disease (Jod-Basedow)
 - Pre-existing disease usually latent Graves or TMNG
+
 Type 2:
 - Destructive thyroiditis due to direct toxic effect of amiodarone on the thyroid follicular cells
+
 **Thyroiditis**
 - Inflammation or destruction of the thyroid follicular cells
 - Results in transient increase in circulating thyroid hormones
@@ -97,11 +103,13 @@ Specific findings by organ systems:
 - Pruritis and hives (primarily with Graves disease)
 - Vitiligo and alopecia areata (associated with autoimmune disorders)
 - Infiltrative dermopathy (pretibial myxedema; Graves disease only)
+
 **Eyes**
 - Stare sign and lid lag (due to sympathetic overactivity)
 - Thyroid eye disease (Graves disease only)
 	- Inflammation of extraocular muscles and orbital fat
 	- Manifest as proptosis, impaired eye muscle function, and periorbital and conjunctival edema
+
 **Cardiovascular**
 - Increased cardiac output (increased contractility and increased peripheral oxygen demands)
 - Elevated heart rate
@@ -109,6 +117,7 @@ Specific findings by organ systems:
 - Decreased peripheral vascular resistance
 - Systolic hypertension is common
 - Atrial fibrillation
+
 **Metabolic/endocrine**
 - Bone resorption causing increased porosity of cortical bone and reduced volume of trabecular bone
 - Low serum total and HDL cholesterol
@@ -116,24 +125,30 @@ Specific findings by organ systems:
 - Lower total serum cortisol (can be misleading of ACTH stimulation testing)
 - Altered estradiol and LH levels can result in amenorrhea in women
 - Conversion of testosterone to estradiol can result in gynecomastia, reduced libido, and erectile dysfunction in men
+
 **Respiratory**
 - Increased ventilation due to increased oxygen consumption and CO2 production
 - Respiratory muscle weakness and decreased lung volume
 - Tracheal obstruction if goiter large
 - Exacerbation of underlying asthma
+
 **Gastrointestinal**
 - Increased gut motility (and associated hyperdefecation and malabsorption)
 - Hyperphagia (some patients have sufficient appetite to gain weight)
 - Anorexia may be present for older patients
+
 **Thymic enlargement**
 - Hyperplasia only with Graves disease
+
 **Hematologic**
 - RBC mass increased and plasma volume increased *more*
 - Results in normochromic, normocytic anemia
 - Excess of thyroid hormone can also be prothrombotic
+
 **Genitourinary**
 - Urinary frequency
 - Nocturia
+
 **Neuropsychiatric**
 - Thyrotoxicosis may cause behavioural changes such as psychosis, agitation, depression
 - Insomnia
@@ -159,10 +174,12 @@ Diagnosis of hyperthyroidism is based on thyroid function tests. A serum TSH, fr
 **Overt hyperthyroidism**:
 - Low TSH
 - Elevated T3 and/or free T4
+
 T3-toxicosis:
 - Low TSH
 - High T3
 - Normal free T4
+
 T4-toxicosis:
 - Low TSH
 - High free T4

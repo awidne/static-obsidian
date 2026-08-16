@@ -89,6 +89,8 @@ If diabetes insipidus is suspected, further testing can be done to confirm diagn
 The differential consist of the varying etiology of hypernatremia.
 ### Red Flags / Complications
 In acute cases, neurologic damage can be irreversible and rapid treatment should be done. Chronic hypernatremia is also associated with higher levels of mortality.
+
+In severe cases, co-occurring [[Hyperkalemia|hyperkalemia]] may be present and should be addressed first (risk of cardiac complications).
 ## Management
 ### Fluid repletion
 As hypernatremia actually describe a fluid depleted state, the mainstay treatment is fluid repletion. 

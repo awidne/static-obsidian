@@ -45,12 +45,14 @@ Characterized by decreased renal perfusion
 - Hypotension from systemic vasodilation (eg. septic shock)
 - Renal vasoconstriction (eg. NSAIDs, iodinated contrast)
 - Glomerular efferent arteriolar vasodilation (eg. ACE inhibitors, ARBs) - reduces GFR by decreasing glomerular pressure
+
 **Intrinsic renal**
 - Acute tubular necrosis (eg. from ischemia or drugs) (85% of AKI)
 	- Nephrotoxins include myoglobin, uric acid, vancomycin, contrast
 - Acute interstitial nephritis (eg. type 1 or 4 hypersensitivity, medications)
 - Glomerulonephritis
 - Intratubular obstruction
+
 **Post-renal**
 - Renal/uretral calculi
 - Tumours, blood clots, neurogenic bladder causing ureteral outlet obstruction
@@ -78,17 +80,17 @@ Kidney dysfunction may also manifest as:
 - Acidosis
 
 AKI typically progresses through four phases:
-**Initiation**
-- Symptoms of underlying insult to kidney
-**Oligo-anuria**
-- Urine output drops with decrease in eGFR
-- Accumulation of weight due to fluid overload
-- Electrolyte imbalances
-**Polyuria**
-- Healing begins with eGFR increase
-- Urine output increases
-**Recovery**
-- Return to baseline
+1. **Initiation**
+	- Symptoms of underlying insult to kidney
+2. **Oligo-anuria**
+	- Urine output drops with decrease in eGFR
+	- Accumulation of weight due to fluid overload
+	- Electrolyte imbalances
+3. **Polyuria**
+	- Healing begins with eGFR increase
+	- Urine output increases
+4. **Recovery**
+	- Return to baseline
 ### History & Physical Exam
 History can elucidate the etiology. Care review of concurrent illnesses and potentially nephrotoxic medications is integral.
 
@@ -145,6 +147,17 @@ If etiology is not apparent:
 	- FeNa >2% with decreased urine osmolality suggests intra-renal
 
 Pre-renal and renal causes can also be differentiated with IV bolus of fluid, in which pre-renal should correct itself.
+
+A summary of findings is as follows:
+
+|                                               | Urine Na | Hematuria | Proteinuria | Microscopy     |
+| --------------------------------------------- | -------- | --------- | ----------- | -------------- |
+| Pre-renal                                     | <20 mM   | -         | -           | Bland          |
+| Acute tubular necrosis (ATN)                  | >20 mM   | -         | Mild        | Granular casts |
+| Acute interstitial nephritis (AIN)            | >20 mM   | -         | Mild        | WBC casts      |
+| Rapidly progressive glomerulonephritis (RPGN) | >20 mM   | +++       | +++         | RBC casts      |
+| Vascular                                      | >20 mM   | ++        | ++          | No casts       |
+| Intratubular obstruction                      | >20 mM   | -         | Mild        | Crystals       |
 
 If the patient is at risk of multiple myeloma, further workup may be warranted.
 ### Differential

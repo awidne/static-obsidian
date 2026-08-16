@@ -43,8 +43,8 @@ Dating ultrasound (week 6-10):
 
 **Genetic Testing**
 Enhanced First Trimester Screening (eFTS):
-- Consist of an ultrasound (nuchal translucency) and bloodwork
-- Between GA 11+2 - 13+3 weeks.
+- Consist of an ultrasound (nuchal translucency) and bloodwork (hCG, PAPP-A, AFP)
+- Between GA 11+2 – 13+3 weeks
 
 Non-Invasive Prenatal Testing (NIPT):
 - Very sensitive and specific testing through fetal/placental DNA testing from maternal blood
@@ -70,12 +70,10 @@ Second Trimester Screening (STS):
 - Done during GA 24-28 weeks; consider doing it <20 weeks if high risk
 #### Routine Interventions & Management
 **Vaccinations**
-RhoGAM for Rh- mothers at 26-28 week and within 72 hours of birth of Rh+ baby
-- Note: if at any point there is suspicion of mixing, give RhoGAM immediately and then ever 12 weeks until birth
-
-Tdap at 27-32 week
-
-Hep B if no immunity or high risk
+- RhoGAM for Rh- mothers at 26-28 week and within 72 hours of birth of Rh+ baby
+	- Note: if at any point there is suspicion of mixing, give RhoGAM immediately and then ever 12 weeks until birth
+- Tdap at 27-32 week
+- Hep B if no immunity or high risk
 ## Third trimester (Wk 28+0 - birth)
 ### Fetal Development
 ### Maternal Changes
@@ -85,10 +83,12 @@ Hep B if no immunity or high risk
 **Maternal Investigations**
 VDRL for syphilis
 - False positives can come from Viral infections, Drugs, Rheumatic fever, Lupus/Leprosy
+
 Group B Streptococcus
-- Routine at week 36 - 37+7 or prior to labour if early
+- Routine at week 36 – 37+7 or prior to labour if early
 - Positive culture indicates prophylaxis
 - Negative test is valid for 5 weeks before a repeat swab is needed
+
 Symphysis Fundal Height (SFH)
 - Confirm it matches gestational age (should be ~ cm = week between week 24-36 GA)
 
@@ -96,8 +96,10 @@ Symphysis Fundal Height (SFH)
 Non-Stress Test (NST)
 - Measures how fetal heart rate responds to fetal movement
 - Non-reactive may suggest hypoxia, sleep, or gestational age too early
+
 Biophysical profile
 - Ultrasound for fetal movement, tone, breathing, amniotic fluid volume
+
 Anatomy ultrasound
 - Ultrasound for brain structure, umbilical cord, biometry, and that size corresponds to gestational age
 #### Routine Interventions & Management

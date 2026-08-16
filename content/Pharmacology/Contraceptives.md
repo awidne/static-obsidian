@@ -2,6 +2,7 @@
 aliases:
   - birth control
   - contraceptives
+  - contraception
 ---
 --- 
 
@@ -40,6 +41,7 @@ The medication can be prescribed based on the withdrawal bleeding deseried by th
 - Endometriosis
 - Menstrual-related migraines (without aura)
 - Acne (some brands)
+- Emergency contraception
 ###### Adverse effects
 Primarily related to estrogen. Common effects include:
 - Headache
@@ -86,6 +88,10 @@ Multiphasic (dosing changes based on day):
 Extended Cycle:
 - Seasonale (Indayo) - 84 active/7 inert
 - Seaonique - 84 active/7 estrogen only
+
+Emergency:
+- Plan B
+- Ella (ulipristal acetate)
 #### Progesterone-only pill (POPs)
 ###### Mechanism of action
 Mechanism is the same as COCs without the stabilizing effect of estrogen.

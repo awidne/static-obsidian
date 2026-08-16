@@ -334,7 +334,7 @@ The mainstay treatment for hypovolemia is source control and fluids/blood produc
 
 Volume resuscitation begins with a 500 mL bolus of NS or LR. Further fluids may be administered at a minimum but ideally blood products should be used.
 
-Consider [[Massive Transfusion Protocol|massive transfusion]] as indicated.
+Consider [[Massive Transfusion Protocol|massive transfusion]] if indicated.
 #### Obstructive shock
 Fluids should be used with caution. Excessive use of fluids may result in cor pulmonale and venous hypertension, worsening cardiac output.
 ### Treatment of underlying etiology

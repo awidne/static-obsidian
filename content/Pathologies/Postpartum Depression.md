@@ -201,6 +201,12 @@ Adjunctive medications may be necessary for specific symptom management.
 Medications contraindicated in pregnancy are bupropion, TCAs, paroxetine
 
 *(Unavailable in Canada)* - Zuranolone (Zurzuvae) 50 mg PO qPM for 14 days with fat-containing food OR brexanolone IV over 60 hours at a healthcare facility
+
+**Contraindicated antidepressants**
+The following are contraindicated *during pregnancy*:
+- Buproprion
+- TCAs
+- Paroxetine
 #### Follow-up and monitoring
 Routine monitoring using the EPDS is recommended as an indicator of response to treatment. A response is defined as a reduction of ≥50% of baseline depressive symptoms.
 

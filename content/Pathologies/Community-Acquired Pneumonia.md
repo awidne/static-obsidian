@@ -31,12 +31,14 @@ Both bacteria and viruses can cause pneumonia. The most common causes can be gro
 - Group A streptococci
 - Aerobic gram-negative bacteria (eg. Klebsiella spp or E. coli)
 - Microaerophilic bacteria and anaerobes
+
 **Atypical bacteria**
-- Legionella spp
+- Legionella spp (associated with stagnant water and soil)
 - Mycoplasma pneumoniae
 - Chlamydia pneumoniae
 - Chlamydia psittaci
 - Coxiella burnetii
+
 **Respiratory viruses**
 - Influenza A and B virus
 - Coronavirus
@@ -209,5 +211,4 @@ In more severe cases, antibiotic selection is similar to normal inpatient care e
 ### Tools / Guidelines
 [MDCalc - PSI](https://www.mdcalc.com/calc/33/psi-port-score-pneumonia-severity-index-cap)
 [MDCalc - CURB-65](https://www.mdcalc.com/calc/324/curb-65-score-pneumonia-severity)
-
 ### Additional Reading
