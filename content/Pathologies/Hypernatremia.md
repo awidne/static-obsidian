@@ -47,7 +47,7 @@ In the pathogenesis of hypernatremia, the concentration of sodium in serum rises
 
 In normal physiology, increases in plasma tonicity stimulates release of arginine vasopressin (AVP; aka ADH), which minimizes water loss, and thirst, for water repletion.
 
-However, in patients who cannot respond to thirst or lacks a thirst response, hypernatremia can develop.
+However, in patients who cannot respond to thirst or lacks a thirst response, hypernatremia can develop. This is key as an intact thirst response and access to water should never result in hypernatremia for many etiologies (eg. diabetes insipidus, diuretic use)
 ## Clinical Presentation
 ### Signs & Symptoms
 **Acute hypernatremia** (eg. following incorrect infusion) can result in rapid decrease in brain volume:
@@ -99,13 +99,14 @@ As hypernatremia actually describe a fluid depleted state, the mainstay treatmen
 Water deficit = Current TBW x ((Serum \[Na] / 140) - 1)
 - Total body water (TBW) = 60% and 50% of lean body weight of male and female, respectively
 - 10% of TBW should be subtracted to account for volume depleted state of hypernatremia
+- 140 assumes the desired sodium range is 135-145; can change for specific cases
 
 Example: 60 kg female with sodium of 168 mmol/L:
 $$WD=((0.5-0.1)\times 60kg) \times (\frac{168}{140}-1)=4.8L$$
 **Chronic hypernatremia**
 In chronic setting, there is much lower urgency. As such, a slower rate of repletion should be used to avoid adverse effects.
 
-This is typically a 5% dextrose in water at **1.35 mL/kg/hr up to a maximum of 150 mL/hr**. The regimen's goal is a correction rate of lowering 10 mmol/L in 24 hours, avoiding exceding by 12 mmol/L in 24 hours.
+This is typically a 5% dextrose in water at **1.35 mL/kg/hr up to a maximum of 150 mL/hr**. Alternatively, oral/NG water may be used if tolerated. The regimen's goal is a correction rate of lowering 10 mmol/L in 24 hours, avoiding exceding by 12 mmol/L in 24 hours.
 
 **Acute hypernatremia**
 In acute cases, more rapid repletion is warranted to avoid complications.

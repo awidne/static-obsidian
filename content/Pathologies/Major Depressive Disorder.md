@@ -123,6 +123,18 @@ Depression can exacerbate conditions such as:
 - CAD
 
 Patients with MDD are at risk of suicide and recurrent episodes. Approximately 2/3 of patients with MDD contemplate suicide and 10-15% commit suicide.
+
+Risk factors for suicide are summarized by the mnemonic "SAD PERSONS":
+- Sex (male > female)
+- Age (increases with age)
+- Depression
+- Previous attempt (biggest indicator)
+- Alcohol abuse
+- Rational thinking loss (impulsive)
+- Social supports lacking
+- Organized pain
+- No spouse
+- Sickness
 ## Management
 ### Lifestyle / Social
 Non-pharmacological management is recommended as initial monotherapy or in conjunction with pharmacological therapy.

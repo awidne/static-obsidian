@@ -57,7 +57,7 @@ Equipment at bedside should include:
 3. Cleanse site with alcohol swab
 
 **Step 2: Insert Cannula**
-1. Prepare and inspect cannula; ensure the plastic cannula is set back from the tip of the needle
+1. Prepare and inspect cannula; ensure the plastic cannula is set back from the tip of the needle (ie. break the seal slightly to ensure it can move)
 2. Stabilize the vein using non-dominant hand and apply and maintain countertension to skin
 3. Insert the cannula through skin at 30 degree angle with bevel side up; observe for flashback
 4. Reduce the angle of needle and advance ~5 mm further into the vein (to get plastic cannula is within the lumen as well)

@@ -39,6 +39,7 @@ If required, adjuvant drugs can be added to the choice of analgesic above.
 Contraindications:
 - Recent MI (except aspirin)
 - Perioperative period of CABG
+
 Relative contraindications/avoid:
 - Bleeding disorders
 - Prior to surgery or invasive procedure
@@ -67,13 +68,15 @@ Caution in use:
 ### Sodium Channel Blocker
 #### Mechanism of Action
 - Binds to voltage-gated sodium channels in nociceptive neurons, stabilizing the membrane and preventing action potential propagation
+- Roughly similar to Toradol in usefulness 
 #### Contraindications / Considerations
 - Take first dose on empty stomach
+- Strong CYP450 inhibitor
 
 Avoid use in:
 - Severe hepatic impairment
 #### Examples
-- Suzetrigine
+- Suzetrigine (available in US)
 ## Opioids
 #### Mechanism of Action
 - Binds to mu, kappa, and delta receptors presynaptically to inhibit Ca channels and neurotransmitter release responsible for pain conduction

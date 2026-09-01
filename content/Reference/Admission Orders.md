@@ -40,6 +40,16 @@ Nursing instructions for daily tasks
 - Urine output
 
 If a patient is VTE low-risk or high risk of bleed, intermittent pneumatic compression may be indicated for VTE prophylaxis.
+
+Additionally, infectious precautions may be ordered:
+- Contact precautions
+- Droplet precautions
+	- Pneumonia
+- Airborne precautions
+	- Measles
+	- Tuberculosis
+	- Disseminated varicella
+	- Covid-19
 ### Diet
 Diet during admission
 - Low sodium

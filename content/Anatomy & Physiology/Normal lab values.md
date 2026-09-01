@@ -9,25 +9,30 @@ tags: [[Anatomy & Physiology]]
 ---
 # Normal Lab Values
 ## CBC and differential
-| CBC                | Lower limit | Upper limit | Unit           |
-| ------------------ | ----------- | ----------- | -------------- |
-| WBC                | 4           | 11          | x10^9 cells/L  |
-| RBC                | 4.5         | 6           | x10^12 cells/L |
-| Hemoglobin (Hb)    | 120         | 175         | g/L            |
-| Hematocrit (Hc)    | 0.4         | 0.5         | L/L            |
-| MCV                | 80          | 100         | fL             |
-| MCH                | 27.5        | 33          | pg             |
-| RDW                | 11          | 14.5        | %              |
-| Platelet count     | 150         | 400         | x10^9 /L       |
-| Reticulocyte count | 20          | 100         | x10^9 /L       |
+| CBC                | Lower limit      | Upper limit      | Unit           |
+| ------------------ | ---------------- | ---------------- | -------------- |
+| WBC                | 4                | 11               | x10^9 cells/L  |
+| RBC                | 4.5              | 6                | x10^12 cells/L |
+| Hemoglobin (Hb)    | 115 (F), 125 (M) | 155 (F), 170 (M) | g/L            |
+| Hematocrit (Hc)    | 0.4              | 0.5              | L/L            |
+| MCV                | 80               | 100              | fL             |
+| MCH                | 27.5             | 33               | pg             |
+| RDW                | 11               | 14.5             | %              |
+| Platelet count     | 150              | 400              | x10^9 /L       |
+| Reticulocyte count | 20               | 100              | x10^9 /L       |
 
-| Leukocyte   | Lower limit | Upper limit | Unit      |
-| ----------- | ----------- | ----------- | --------- |
-| Lymphocytes | 1000        | 4000        | cells/mm3 |
-| Neutrophils | 2500        | 8000        | cells/mm3 |
-| Basophils   | 25          | 100         | cells/mm3 |
-| Monocytes   | 100         | 700         | cells/mm3 |
-| Eosinophils | 50          | 500         | cells/mm3 |
+Although normal platelet is 150-400, it is not necessarily concerning unless <50 or >1000.
+
+
+| Leukocyte   | Lower limit       | Upper limit | Unit    |
+| ----------- | ----------------- | ----------- | ------- |
+| Lymphocytes | 1 (not important) | 4           | x10^9/L |
+| Neutrophils | 2                 | 7.5         | x10^9/L |
+| Basophils   | 0                 | 0.1         | x10^9/L |
+| Monocytes   | 0.1               | 1           | x10^9/L |
+| Eosinophils | 0                 | 0.5         | x10^9/L |
+
+Blasts is not normal to have in the blood, however, some may be normal due to certain drugs, infections, stress response, etc. Anything >1 or >20% of total WBC is urgent (acute leukemia).
 ## Electrolytes
 **Basic lytes**
 
@@ -85,6 +90,12 @@ Note: typically not a concern until 3 times upper normal limit
 | ------- | ----------- | ----------- | ---- |
 | Amylase | 25          | 115         | IU/L |
 | Lipase  | 73          | 393         | IU/L |
+## Iron Studies
+|            | Lower limit    | Upper limit      | Unit    |
+| ---------- | -------------- | ---------------- | ------- |
+| Ferritin   | 11 (F), 24 (M) | 307 (F), 336 (M) | mcg/L   |
+| Serum Iron | 9 (F), 12 (M)  | 30 (F), 31 (M)   | mcg/L   |
+| TIBC       | 45             | 81               | mcmol/L |
 ## Thyroid
 |     | Lower limit | Upper limit | Unit   |
 | --- | ----------- | ----------- | ------ |

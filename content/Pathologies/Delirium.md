@@ -99,9 +99,11 @@ Delirium manifests with several key features.
 Acute nature differs from dementia:
 - Develops over hours to days
 - Persists for days to months
+
 Unstable features:
 - Symptoms are more severe in the evening and at night
 - Features may fluctuate throughout the day
+
 Prodromal phase:
 - May occur, especially with older patients
 - Complaints of fatigue, sleep disturbances, depression, anxiety, restlessness, irritability, hypersensitivity to light/sound
@@ -150,12 +152,16 @@ Diagnosis requires features 1 and 2 plus either 3 or 4:
 The goal of the delirium work-up is to identify the etiology. Targeted testing is appropriate and should be guided by suspicion or lack thereof.
 
 **Laboratory tests**:
-- Serum electrolytes, creatinine, glucose, calcium, CBC
+- Serum electrolytes, creatinine, glucose, calcium and albumin, CBC, BUN
 - Urinalysis and urine culture
 - Drug levels
 - Toxic screen of blood and urine
-- Blood gas determination
-- Liver function tests
+- Blood gases
+- Liver function tests (hepatic encephalopathy)
+- TSH, B12
+
+**Initial imaging**:
+- CXR, AXR, PVR
 
 **Neuroimaging** with CT head is not routine but is indicated if there are findings on neurologic examination, suspicion of trauma, if no obvious cause is found with initial evaluation, or if the patient is not responding to initial treatment.
 
@@ -176,9 +182,17 @@ Delirium has a large impact on health especially older patients. Patients experi
 - Functional and cognitive decline
 - Higher mortality (2x that of patients without delirium)
 - Higher risk for institutionalization
+
+Delirium in the elderly has a mortality of approximately 25%.
+
+Complication of adding pharmacological management (antipsychotics) include:
+- Prolonging delirium
+- Over-sedation
+- Increased falls/aspiration
+- Increased risk of MI, stroke, death etc.
 ## Management
 ### Prevention
-No intervention reliably prevents delirium. However, modifying risk factors may reduce the incidence of delirium:
+Modifying risk factors may reduce the incidence of delirium:
 - Orientation protocols (eg. provision of clocks, calendars, views of outside)
 - Cognitive stimulation (eg. regular visits from friends and family)
 - Facilitation of physiologic sleep (eg. avoid administering medications during sleeping hours)
@@ -186,6 +200,14 @@ No intervention reliably prevents delirium. However, modifying risk factors may 
 - Visual and hearing aid if needed
 - Avoiding use of problematic medications
 - Treatment of medical complications and pain
+
+Additionally, strategies can be used by older adults to prevent delirium:
+- Stimulating the mind (daily socializing, reading, music)
+- Moving (physical activity ≥3 times a day)
+- Sleeping well
+- Seeing and hearing (use hearing aids and glasses)
+- Staying hydrated
+- Eating nutritious foods
 ### Treatment of Underlying Conditions
 As mentioned previously, virtually any medical condition can precipitate delirium. The mainstay management of delirium is to treat the underlying condition.
 ### Supportive Care
@@ -200,12 +222,16 @@ Beyond identification and intervention for the underlying causes, supportive car
 ### Managing Agitation
 While hyperactive delirium is less common with older patients, manifestations of agitation may need to be controlled to prevent harm and/or to allow evaluation and treatment.
 
-If non-pharmacological interventions such as interpersonal and environmental manipulations are adequate, such interventions should be prioritized. Physical restraints should be used as last resorts and is associated with exacerbation of delirium.
+If non-pharmacological interventions such as interpersonal and environmental manipulations are adequate, such interventions should be prioritized. Physical restraints should be used as last resorts and is associated with exacerbation of delirium (prevents serious harm, gives greater freedom/enjoyment of life, authorized by patient/SDM).
 
-Antipsychotic medications can be used to treat severe agitation - although with limited evidence and off-label.
+[[Antipsychotics|Antipsychotic]] medications can be used to treat severe agitation - although with limited evidence and off-label. This is generally avoided unless not doing so will result in harm or if symptoms are severe (frightening hallucinations).
 - Haloperidol 0.5-1 mg prn up to maximum total daily dose of 5 mg (note: risk of QT prolongation)
+- Other antipsychotics (physician's preference)
+
+Avoid benzodiazepines except for their specific indications.
 ## References
 ### Tools / Guidelines
 
 ### Additional Reading
 [AGS Beers Criteria - Updated 2023](https://agsjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/jgs.18372)
+[Nova Scotia Health Authority - This Is Not My Mom](https://www.thisisnotmymom.ca)

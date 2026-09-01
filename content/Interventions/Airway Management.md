@@ -25,6 +25,8 @@ Adjuvant airway devices are indicated for patients who have:
 - Trismus
 - Oral trauma
 - Those who have undergone oral/oropharyngeal surgery in which oral cavity should not be instrumented
+
+These may also be attempted following failed intubation attempts prior to surgical airway.
 ### Preparation
 
 ### Procedure
@@ -44,9 +46,24 @@ Endotracheal intubation is indicated for:
 Contraindications include:
 - Severe airway trauma or obstruction preventing safe placement of ETT
 ### Preparation
+The patient should be pre-oxygenated for 2-3 minutes prior to intubation attempt. This will allow for several minutes before de-sating. This can be done with:
+- Mask ventilation (sealed)
+- High flow nasal cannula
 
+Available with the crash cart should be:
+- 
 ### Procedure
+1. Position at the head of the patient with the laryngoscope in the left hand and the stylet or bougie in the right
+2. Insert the laryngoscope into the mouth, if CPR is occurring simultaneously, turn the laryngoscope when inserting before rotating to the correct position to avoid bumping into provider providing compressions (do not interrupt compressions – it is priority)
+3. Lift the laryngoscope (do not arc or rock) to expose the pharynx
+4. Visualize the tongue, the uvula, and the epiglottis; anteriorly should be the larynx
+5. Once the larynx is identified, insert the stylet or the bougie
+	- Stylet: remove the stylet, leaving the ET tube behind
+	- Bougie: thread the ET tube and remove the bougie
+6. Inflate the ET tube
+7. Confirm placement with CO2 flow indicator
 
+To confirm the placement of the ET tube, begin BMV and auscultate the left lungs followed by the right. If the ET tube is placed too far, the left lungs will not inflate.
 ## Surgical Airway (Cricothyroidotomy)
 ### Indications & Contraindications
 Cricothyroidotomy is indicated for patients in which a endotracheal tube is not possible.

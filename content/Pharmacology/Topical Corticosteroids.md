@@ -28,15 +28,19 @@ Ointments (ung):
 - Most effective due to occlusive nature (more potent)
 - More effective in dry, scaly, or hyperkeratinized skin areas, palms, soles
 - Avoid in hairy areas due to folliculitis
+
 Creams (crm):
 - Cosmetically more appealing due to absence of residue
 - Suitable for acute/wet lesions or intertriginous areas
+
 Lotions (lot):
 - Less occlusive than creams
 - Useful for axilla, foot, groin, and hairy areas
+
 Gels:
 - Similar to lotions, non-occlusive, non-greasy
 - Suitable for scalp or hairy areas
+
 Foams:
 - Good for hairy areas
 - Alcohol bases may irritate, price usually higher
@@ -56,8 +60,10 @@ With prolonged use:
 - Acne
 - Telangiectasia
 - Irreversible striae
+
 Eyelid use:
 - Glaucoma and cataracts (rare)
+
 High potency:
 - Adrenal suppression (rare)
 - Withdrawal reactions

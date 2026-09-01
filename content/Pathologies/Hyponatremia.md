@@ -89,27 +89,27 @@ Severity is classified as:
 - Moderate: 120-129 mmol/L
 - Severe: <120 mmol/L
 ### Work-up
-The workup should exclude pseudohyponatremia which may be present in cases of hyperproteinemia (eg. multiple myeloma) or hyperlipidemia. 
+**Confirming hypoosmolality**
+This is determined by the serum osmolality (2xNa + glucose + urea). If they are hyperosmolar, consider glucose, mannitol, and protein levels.
 
-Common tests ordered initially include:
-- Electrolytes
-- Creatinine
-- Glucose
+**Rule out polydipsia**
+For true dilutional hyponatremia, urine osmolality should be obtained.
+- <100 suggests polydipsia (kidney functioning as intended to urinate as pure water as possible)
+- >100 suggests retention of water
 
-Underlying disease may also be elucidated with:
-- CBC
-- LFTs
-- Serum calcium
-- TSH and AM cortisol
-- Urine sodium and chloride and other urine tests
+**Determining the etiology of water retention**
+Urine sodium is obtained to differentiate euvolemia:
+- Urine Na <20 mEq/L suggests hypo or hypervolemia (due to low renal blood flow in both states)
+- Urine Na >20 mEq/L suggests euvolemia
 
-Serum osmolality is not a required test but can be ordered if hypertonic (eg. hyperglycemia) or isotonic (eg. multiple myloma) hyponatremia is suspected.
-
-Urine osmolality can also confirm renal or extrarenal etiology.
+Hypo and hypervolemia can generally be differentiated via physical exam.
 ### Differential
-Pseudohyponatremia may show hyponatremia on labs when sodium and water status are normal. Other differentials include the various underlying etiology.
+Pseudohyponatremia may show hyponatremia on labs when sodium and water status are normal. This may be due to hyperproteinemia (eg. multiple myeloma) or hyperlipidemia.
+
+Other differentials include the various underlying etiology.
 ### Red Flags / Complications
 While many effects of cerebral edema can be reversed on treatment, irreversible neurological damage is possible.
+- Central pontine myolysis
 ## Management
 ### Mild / moderate and asymptomatic
 Patients with mild condition can generally be managed on an outpatient basis. In many cases, sodium will auto-correct, especially if the etiology is benign (eg. excessive water intake following marathon).
@@ -143,9 +143,13 @@ Instead of 3% saline, **normal saline** may also be sufficient, and may be super
 **Rate of correction and monitoring**
 When using saline, it is crucial to maintain a safe rate of correction to avoid adverse effects. The goal is to raise serum sodium by **4-6 mmol/L in 24 hours** with a maximum rate of 8 mmol/L in 24 hours. It is better to err on the side of slower correction.
 
-Electrolytes should be repeated q3-4h at minimum for normal saline, and q1h for 3% saline.
+It is recommended to set nursing instructions to call for if sodium is increasing too rapidly (eg. >3 over 6 hours). This can be corrected by slowing infusion and giving D5W.
+
+Electrolytes should be repeated q2-6h at minimum for normal saline, and q1h for 3% saline.
 
 **Fluid restriction** to below level of urine output (more out than in) is also indicated for symptomatic or severe hyponatremia in edematous states (eg. CHF or cirrhosis), SIADH, advanced kidney impairment, and primary polydipsia. Ingestion of salt should also be restricted.
+
+In these cases (euvolemia and hypervolemia), monitoring of serum Na q12h is recommended.
 ## References
 ### Tools / Guidelines
 ### Additional Reading

@@ -123,9 +123,26 @@ While pleural effusion is often manageable, it can lead to complications.
 ### Treatment of Underlying Cause
 Management consist treating the underlying cause. In the settings of heart failure, thoracentesis is only indicated if diuretics do not work.
 ### Thoracentesis
-In symptomatic patients, therapeutic pleural fluid drainage is recommended. The procedure is as follows: (incomplete)
+In symptomatic patients, therapeutic pleural fluid drainage is recommended. The procedure is as follows.
 
-The catheter is inserted on the superior edge of the rib as the rib vessels and nerves run on the inferior edge.
+Equipment required:
+- Antiseptic solution (eg. chlorhexidine)
+- Local anesthetic
+- Thoracentesis needle or catheter (20 or 22 gauge needle or catheter with safety valve)
+- Three-way stopcock for fluid flow control
+- Collection bottles
+
+Preparation:
+- Have patient either seated upright or supine
+- POCUS to identify location of fluid, typically anechoic area bordered by diaphragm and atelectatic lung (forms "V" shape) – apex is ideal for needle insertion
+- Clean skin with antiseptic and drape
+
+Technique:
+1. Using a 25-gauge needle, administer local anesthesia to create a superficial wheal
+2. Using a 20 or 22-gauge needle, administer anesthesia deeper around the rib; insert on the superior edge of the rib as the rib vessels and nerves run on the inferior edge
+3. Advance larger needle/catheter perpendicular to the skin; apply negative pressure to detect fluid flow
+	- If catheter, consider using a scalpel for a small nick of the skin
+4. Once within the thoracic cavity, drainage can be done with hand syringe or gravity drain into collection bag with 3-way stopcock
 ## References
 ### Tools / Guidelines
 ### Additional Reading

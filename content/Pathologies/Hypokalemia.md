@@ -132,6 +132,7 @@ The mainstay treatment of hypokalemia is **potassium replacement**. Potassium re
 - Potassium gluconate
 
 In severe or symptomatic hypokalemia or patients unable to take potassium orally, adjunctive IV potassium repletion can be considered. Infusion should be done with a non-dextrose fluid (eg. saline) to prevent intracellular potassium uptake.
+- 20-40 mEq/L at maximum 10 mEq/hr (peripheral IV) and maximum 20 mEq/hr (central)
 
 In cases where hypokalemia cannot be corrected with supplementation alone, a potassium-sparing diuretic can be used, albeit with an increased risk of hyperkalemia:
 - Amiloride or triamterene (cortical collecting tubule sodium channel blockers)
@@ -139,11 +140,11 @@ In cases where hypokalemia cannot be corrected with supplementation alone, a pot
 
 It should be noted that absorption of potassium intracellularly is slow and thus transient hyperkalemia is a complication to be avoided. Close monitoring of serum potassium is necessary during repletion.
 
-In cases of hypomagnesemia, it should be corrected concurrently. Similarly, if etiology relates to increased sympathetic tone (eg. hypokalemia thyrotoxic paralysis), a nonspecific beta blocker should be considered.
+**In cases of hypomagnesemia**, it should be corrected concurrently. Similarly, if etiology relates to increased sympathetic tone (eg. hypokalemia thyrotoxic paralysis), a nonspecific beta blocker should be considered.
 
-In patients with diabetic ketoacidosis or HHS, potassium moves out of cells and thus can result in an elevated serum potassium and/or result in severe total potassium deficit (intracellular potassium is shifted out). Treatment should proceed with care due to risk of severe hypokalemia when insulin is administered.
+**In patients with diabetic ketoacidosis or HHS**, potassium moves out of cells and thus can result in an elevated serum potassium and/or result in severe total potassium deficit (intracellular potassium is shifted out). Treatment should proceed with care due to risk of severe hypokalemia when insulin is administered.
 
-In cases where potassium loss in anticipated (eg. patient is on a diuretic), a maintenance dose of slow-K+ may be indicated.
+**In cases where potassium loss in anticipated** (eg. patient is on a diuretic), a maintenance dose of slow-K+ may be indicated.
 ## References
 ### Tools / Guidelines
 ### Additional Reading

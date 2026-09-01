@@ -30,6 +30,7 @@ A number of etiologies can result in lymphadenopathy.
 - Mycobacterial (eg. tuberculosis, Mycobacterium avium intracellular)
 - Fungal (eg. coccidioidomycosis, histoplasmosis, Candida)
 - Parasitic (eg. toxoplasmosis, Chagas, ectoparasites)
+
 **Neoplasm**
 Primary malignancies and metastatic malignancies:
 - Acute lymphoblastic leukemia
@@ -43,14 +44,17 @@ Primary malignancies and metastatic malignancies:
 - Metastatic breast cancer
 - Metastatic thyroid cancer
 - Metastatic renal cancer
+
 **Autoimmune disease**
 - Sarcoidosis
 - Juvenile rheumatoid arthritis
 - Serum sickness
 - Systemic lupus erythematosus
+
 **Inborn metabolic storage disorder**
 - Niemann-Pick disease
 - Gaucher disease
+
 **Exposure to toxic/medication**
 - Allopurinol
 - Atenolol
@@ -134,12 +138,14 @@ Node morphology can be characterized as:
 	- Toxoplasmosis serology
 	- Hepatitis B serology
 	- ANA (lupus)
+
 **Radiological**
 - CXR - can reveal tuberculosis, pulmonary sarcoidosis, pulmonary neoplasm
 - Chest CT - hilar adenopathy
 - Abdo pelvis CT - neoplasms and other causes
 - Ultrasonography - assessment of node characteristics
 - MRI - evaluation of masses if available
+
 **Purified protein derivative (PPD)**
 - Assessment of tuberculosis (TB skin test)
 ## References

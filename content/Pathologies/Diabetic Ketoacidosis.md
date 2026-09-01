@@ -78,6 +78,7 @@ DKA is diagnosed with the triad of:
 | Mild     | 7.26–7.29   | 15–18 mEq/L       | 3.0–6.0 mmol/L          | Alert                 |
 | Moderate | 7.0–7.25    | 10–14 mEq/L       | 3.0–6.0 mmol/L          | Alert or drowsy       |
 | Severe   | < 7.0       | < 10 mEq/L        | > 6.0 mmol/L            | Stuporous or comatose |
+It should be noted that ketones can be normal (ketones include acetaldehyde which is not measured) – in such case, clinical judgement should be made using full picture.
 ### Work-up
 Initial evaluation consist of laboratory studies:
 - Serum glucose
@@ -177,6 +178,8 @@ Rapid-acting insulin analogs can be given subcutaneously.
 When serum glucose is <13.9 mmol/L:
 - Reduce insulin dose to 0.05 units/kg q1h OR 0.1 units/kg q2h
 - Add 5-10% dextrose to IV fluid
+### Transition to Normal Care
+Following resolution of DKA, patients are swapped back to subcutaneous insulin. Usually, the subcutaneous option is given 1-2 hours prior to cessation of IV insulin (which is the effect period) so the gap is effectively covered.
 ## References
 ### Tools / Guidelines
 ### Additional Reading

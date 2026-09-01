@@ -67,11 +67,11 @@ Ultrasound may also determine fetal position in vertex position:
 ### Fetal monitoring
 Fetal monitoring consist of determination of baseline heart rate and variations with contractions. 
 
-**Continuous fetal heart monitoring** are the standard as they are easily monitored by nursing staff and provide easy data collecting but requires the mother to have an electronic fetal monitor strapped to them which can limit mobility and comfort. 
+**Intermittent monitoring**, using auscultation or doppler, is the standard of care for low-risk pregnancies. This is done at a 15 minute interval and gradually increases as the labour progresses.
+
+**Continuous fetal heart monitoring** is done if there are any concerned as they are easily monitored by nursing staff and provide easy data collecting but requires the mother to have an electronic fetal monitor strapped to them which can limit mobility and comfort. 
 
 Additionally, an **external tocometer** with a pressure transducer is used to record contraction pressure through abdomen firmness which can provide information on the frequency of contraction and the fetal heart rate changes relative to contractions.
-
-In low risk pregnancies, **intermittent monitoring**, using auscultation or doppler, may be preferred with [no difference in complications/risks](https://www.cochrane.org/evidence/CD006066_continuous-cardiotocography-ctg-form-electronic-fetal-monitoring-efm-fetal-assessment-during-labour).
 
 In cases of concerning findings on normal monitoring or if external monitoring is unreliable, a **fetal scalp electrode** can be used. Scalp pH from a blood draw may also be used when heart tracing is nonreassuring.
 #### Fetal heart rate evaluation
@@ -126,19 +126,11 @@ Note, acetaminophen and NSAIDs are contraindicated due to the risk of premature 
 Pitocin (synthetic oxytocin) and amniotomy can be used to augment labour. This is typically indicated if contractions are inadequate or if a phase of labour is prolonged. Consider the cause of slowed labour (ie. passage, power, passenger).
 
 Adequacy of contractions is assessed by progress of cervical change but can also be measured by an intrauterine pressure catheter.
-### Progression (cardinal movements) of labour
-In addition to the progression of cervix, the descent of the fetus is used to gauge the progress of labour.
-
-1. **Engagement**: the fetus' presenting part enters the pelvis
-2. **Descent**: the head descends into the pelvis
-3. **Flexion**: fetal chin is pushed against the chest which allows for smallest possible diameter
-4. **Internal rotation**: the fetus moves from an OT position to an OA position (improper rotation results in maintaining OT or malrotation to OP)
-5. **Extension**: as the fetus passes the pubic symphysis, the neck extends to deliver
-6. **External rotation**: once the head is delivered, the rest of the body externally rotates so the shoulders can be delivered
-7. **Expulsion**: the shoulders and body follows to be delivered
 ### Stages
 #### Stage 1
 Onset of labour until dilation and effacement are completed. This stage on average last 10-12 hours in a nulliparous patient (range: 6-20 hrs) and 6-8 hours in a multiparous patient (range: 2-12 hrs).
+
+During this phase, spontaneous rupture of membrane (SROM)
 ##### Latent phase
 This phase ranges from onset of labour until approximately 3-4 cm of dilation.
 - Regular contractions
@@ -166,6 +158,15 @@ Note that at this phase, repetitive early and variable decelerations often occur
 Repetitive late decelerations, bradycardias, and loss of variability are not reassuring and patient should be placed on mask O2  and turned to the left to reduce IVC compression. Nonresolving decelerations may require cesarean delivery or operative vaginal delivery depending on station.
 #### Delivery
 ##### Vaginal delivery
+The fetus will ideally move according to the cardinal movements of birth (mnemonic: EDFIREERE):
+1. **Engagement**: the fetus' presenting part enters the pelvis
+2. **Descent**: the head descends into the pelvis
+3. **Flexion**: fetal chin is pushed against the chest which allows for smallest possible diameter
+4. **Internal rotation**: the fetus moves from an OT position to an OA position (improper rotation results in maintaining OT or malrotation to OP)
+5. **Extension**: as the fetus passes the pubic symphysis, the neck extends to deliver
+6. **External rotation**: once the head is delivered, the rest of the body externally rotates so the shoulders can be delivered
+7. **Expulsion**: the shoulders and body follows to be delivered
+
 As the fetus is crowning the clinician should don:
 - Eye protection
 - Sterile gown
@@ -174,7 +175,6 @@ As the fetus is crowning the clinician should don:
 and have:
 - Two clamps
 - Scissors
-- Suction bulb
 
 The generally used approach is to take a smooth, controlled delivery:
 - One hand on the perineum
@@ -184,14 +184,23 @@ In situations where the delivery needs to be expedited, a modified Ritgen maneuv
 - Heel of bottom hand exerts pressure on the perineum
 - Fingers below the anus exerts pressure on the fetal chin to extend the head
 
-Once the head is delivered, the mouth and upper airway are bulb suctioned and the infant's neck is checked for nuchal cord. If a nuchal cord is present and is unable to be reduced, the clinician can:
+Once the head is delivered, the infant's neck is checked for nuchal cord. If a nuchal cord is present and is unable to be reduced, the clinician can:
 - Clamp and cut the cord if the clinician is confident the livery will be accomplished shortly
 - Attempt delivery with nuchal cord if a shoulder dystocia is suspected
 
-Delivery of the rest of the infant follows:
+After a moment of restitution, delivery of the rest of the infant follows:
 1. Exert downward pressure to deliver the anterior shoulder
 2. Exert upward pressure to deliver the posterior shoulder
 3. Gentle traction to deliver the torso and rest of infant
+
+In cases of shoulder dystocia, the mnemonic ALARMER is used:
+- Ask for help
+- Leg hyperflexion (McRoberts')
+- Anterior shoulder disimpaction (suprapubic pressure / Rubin I)
+- Rotational maneuvers (Rubin II)
+- Manual delivery of posterior arm
+- Evaluate for Episiotomy (only if it may be helpful)
+- Roll on all fours
 
 If it hasn't been done, the cord is then clamped and cut. Note, episiotomies are not routine for vaginal delivery.
 ##### Operative vaginal delivery
@@ -221,12 +230,13 @@ Signs of placental separation include:
 - Cord lengthening
 - Gush of blood
 - Uterine fundal rebound
-and gentle traction on the cord can be applied once all three signs are noted. Forceful traction should be avoided and suprapubic pressure applied to prevent uterine inversion or prolapse.
+
+and gentle traction on the cord can be applied once all three signs are noted. Forceful traction should be avoided and suprapubic pressure applied to prevent uterine inversion or prolapse. Traction is posterior until the placenta is nearly expulsed then, traction anterior.
 
 Manual extraction may be required if the placenta does not detached within 30 minutes or if components are retained (placenta accreta).
 ## Post-partum
 ### Neonatal assessment
-Immediately following delivery, the neonate is assessed using the APGAR score:
+Immediately following delivery, the neonate is assessed using the APGAR score at 1 minute and 5 minutes:
 
 | Sign        | 0                | 1                     | 2                   |
 | ----------- | ---------------- | --------------------- | ------------------- |

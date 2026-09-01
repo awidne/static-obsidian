@@ -20,6 +20,18 @@ Additionally, insulin causes the following effect depending on the cell type:
 - Muscle cells: promotes glycogenesis and protein synthesis, inhibits protein catabolism
 - Pancreatic beta cells: inhibits glucagon release
 - Brain cells: involved in appetite regulation
+## Dosing
+### Starting Dose
+A simplified regimen is:
+- Total daily insulin (TDI) = ~0.4 units/kg
+	- Basal/long acting = 1/2 TDI
+	- Short acting before each meal = (1/2 TDI)/3 for each of 3 meals
+### Titration
+The dosing is then adjusted based on serum glucose levels (adjusting the levels of each meal) and basal levels.
+
+Goal is to minimize hypoglycemia while managing glucose levels.
+### Sliding Scale
+In the hospital, a sliding scale insulin regimen is common as an adjunct to a basal-postprandial regimen. This is a reactive insulin administration based on the blood glucose.
 ## Types
 ### Rapid-Acting
 ###### Characteristics
@@ -53,6 +65,7 @@ Additionally, insulin causes the following effect depending on the cell type:
 - Duration: 24 hrs
 ###### Use
 - Basal insulin (once daily PM post-prandial)
+- Used as basal in hospital
 ###### Examples
 - Insulin glargine (Lantus)
 - Insulin detemir (Levemir)
@@ -66,4 +79,5 @@ Additionally, insulin causes the following effect depending on the cell type:
 - Insulin icodec (Awiqli) - once weekly
 ## References
 ### Tools / Guidelines
+[Diabetes Canada - Insulin Prescribing](https://guidelines.diabetes.ca/GuideLines/media/Docs/Key%20Messages/Insulin_Prescription_EN_09_23.pdf)
 ### Additional Reading

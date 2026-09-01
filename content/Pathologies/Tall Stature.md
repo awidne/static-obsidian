@@ -19,17 +19,20 @@ Causes of tall stature include:
 **Physiologic/normal variants**
 - Constitutional advancement of growth
 - Familial tall stature
+
 **Endocrine disorders**
 - Hyperthyroidism
 - Obesity
 - Pituitary gigantism (excess growth hormone)
 - Precocious puberty (growth spurt)
+
 **Genetic disorders**
 Disproportionate overgrowth
 - Beckwith-Wiedemann syndrome
 - Homocystinuria
 - Klinefelter syndrome (XXY)
 - Marfan syndrome
+
 Proportionate overgrowth
 - Fragile X syndrome
 - Sotos syndrome (cerebral gigantism)

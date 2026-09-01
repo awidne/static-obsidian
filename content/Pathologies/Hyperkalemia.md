@@ -16,8 +16,8 @@ Hypokalemia refers to a serum potassium level above normal limits.
 Pseudohyperkalemia refers to a false elevation in measured potassium due to collection methods and is the most common cause of an elevated potassium level.
 ### Etiology
 Pseudohyperkalemia may be due to:
-- Hemolysis of sample (causing intracellular potassium to be added to serum levels)
-- Leukocytosis or thrombocytosis may also result in elevation of potassium falsely
+- Hemolysis of sample (causing intracellular potassium to be added to serum levels) – would be identified by the lab
+- Extreme leukocytosis or thrombocytosis may also result in elevation of potassium falsely (WBCs break apart at the lab)
 
 True hyperkalemia etiology can be categorize as:
 **Increased potassium intake**
@@ -106,16 +106,20 @@ Severe hyperkalemia can result in:
 In emergencies, rapid treatment consist of stabilizing, shifting potassium, then elimination.
 
 If ECG changes are seen or potassium levels are >6.5 or 7 mmol/L, stabilize:
-- Intravenous calcium (antagonize membrane action of hyperkalemia by raising threshold potential following RMP increase caused by extracellular potassium)
-- Calcium gluconate or calcium chloride
+- Calcium gluconate 1 g IV
+- (Antagonize membrane action of hyperkalemia by raising threshold potential following RMP increase caused by extracellular potassium)
+- Note: interaction with digoxin, may be toxic
 
 Following stabilization, serum potassium can be transiently lowered by shifting potassium:
 - Sodium bicarbonate (rapid)
+	- 1 amp
 - Intravenous insulin (drives potassium intracellularly) after glucose (prevent hypoglycemia) - slower due to rate of glucose administration
+	- 10 units any rapid aciting insulin with 50cc amp of D50W
 - Beta-agonists
+	- 4cc salbutemol nebulized
 
 Removal of excess potassium should be initiated which can include:
-- Loop or thiazide diuretics
+- Loop or thiazide diuretics with normal saline
 - Gastrointestinal cation exchanger (requires confirm bowel activity; else risk necrosis)
 - Dialysis
 

@@ -37,7 +37,7 @@ Obstructions that are more proximal usually does not result in bladder distensio
 
 Notably, unilateral obstructions, if gradual enough, may not present as AKI due to compensation by the contralateral kidney.
 ### Etiology
-**Pre-renal**
+**Pre-renal (20%)**
 Characterized by decreased renal perfusion
 - Hypervolemia (eg. cardiorenal syndrome, hepatorenal syndrome) - reduced effective circulating volume
 - Hypovolemia (eg. hemorrhage, burns, GI fluid loss)
@@ -46,17 +46,17 @@ Characterized by decreased renal perfusion
 - Renal vasoconstriction (eg. NSAIDs, iodinated contrast)
 - Glomerular efferent arteriolar vasodilation (eg. ACE inhibitors, ARBs) - reduces GFR by decreasing glomerular pressure
 
-**Intrinsic renal**
+**Intrinsic renal (70%)**
 - Acute tubular necrosis (eg. from ischemia or drugs) (85% of AKI)
 	- Nephrotoxins include myoglobin, uric acid, vancomycin, contrast
 - Acute interstitial nephritis (eg. type 1 or 4 hypersensitivity, medications)
 - Glomerulonephritis
 - Intratubular obstruction
 
-**Post-renal**
+**Post-renal (10%)**
 - Renal/uretral calculi
 - Tumours, blood clots, neurogenic bladder causing ureteral outlet obstruction
-- Urethral obstruction
+- Urethral obstruction (prostate)
 ## Clinical Presentation
 ### Signs & Symptoms
 Many patients in early or mild AKI may have no clinical symptoms.
@@ -103,6 +103,8 @@ Urine output can give an idea of severity of AKI and whether dialysis is necessa
 
 ## Diagnosis
 ### Criteria
+The exact criteria used is not standardized. Research diagnostic criteria are available.
+
 The diagnosis of AKI can be made with one of the following criteria:
 - Increase in serum creatinine by ≥26.5 mcmol/L within 45 hours
 - Increase in serum creatinine to ≥1.5 times baseline in the prior 7 days
@@ -146,7 +148,7 @@ If etiology is not apparent:
 	- FeNa <1% with normal urine osmolality suggests pre-renal
 	- FeNa >2% with decreased urine osmolality suggests intra-renal
 
-Pre-renal and renal causes can also be differentiated with IV bolus of fluid, in which pre-renal should correct itself.
+Pre-renal and renal causes can also be differentiated with IV bolus of fluid, in which pre-renal should see response (drop in creatinine)
 
 A summary of findings is as follows:
 
@@ -175,6 +177,15 @@ Other organ-related complications include:
 - Cardiovascular: HF secondary to fluid overload
 - Gastrointestinal symptoms
 - Neurologic symptoms of uremia
+
+Morality is high:
+- Community acquired:
+	- Pre-renal - 7%
+	- Post-renal - 24%
+	- Renal - 55%
+- Hospital acquired:
+	- Non-ICU - 31.5%
+	- ICU - 71.5%
 ## Management
 ### Triage
 Following initial evaluation and staging, decision should be made whether:
@@ -216,9 +227,13 @@ An assessment of volume status should be performed. Hypovolemic patients should 
 
 It should be noted that fluid overload is a cause of increased mortality and as such fluid should be administered with care. Fluid therapy should also be avoided in patients with pulmonary edema or anuria.
 
-In hypervolemic patients, diuretics can be used to relieve the effects. A common option is:
+In hypervolemic/high pre-load patients, diuretics can be used to relieve the effects. A common option is:
 - Furosemide 80 mg IV
 - Adjunct: thiazide diuretic if effect insufficient
+
+For patients with low cardiac output, reduce afterload (not with ACEi/ARBs) and inotropes.
+
+For hepatorenal syndrome, midodrine/octreotide and albumin can be used to attempt to shift vascular volume.
 #### Management of electrolyte imbalances
 A number of electrolytes imbalances can occur during AKI. These are discussed in depth separately.
 - Hyperkalemia

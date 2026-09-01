@@ -67,6 +67,7 @@ The exact presentation of patient depends on the type of lymphoma.
 **Indolent lymphomas**
 - Waxing/waning lymphadenopathy
 - Time over many years
+
 **Aggressive lymphomas**
 - Specific B symptoms (ie. weight loss, night sweats, fever)
 - Can progress rapidly to death within weeks

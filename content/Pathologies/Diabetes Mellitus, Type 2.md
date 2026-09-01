@@ -10,7 +10,6 @@ tags: [[Pathologies]]
 
 ---
 # Diabetes Mellitus, Type 2
-
 ## Background
 ### Definition
 Characterized by hyperglycemia, insulin resistance, and relative impairment in insulin secretion. Type 2 diabetes can differ with varying contributions from defective insulin secretion and insulin action/resistance.
@@ -28,6 +27,7 @@ Pathogenesis of type 2 diabetes can vary in the degree of insulin resistance and
 Insulin resistance is typically attributed to environmental causes and may be due inflammatory mechanisms. Some other possible mechanisms include:
 - Central obesity resulting in increased plasma free fatty acid, which impair glucose uptake
 - Increased serine kinase activity causing phosphorylation of IRS-1 and downstream reduction of GLUT4 channels
+
 Insulin secretion dysfunction are suggested to be more dependent on genetics.
 
 Initial insulin resistance is compensated by increased insulin and amylin secretion but as disease progresses, secretion declines while resistance continues to increase.
@@ -164,7 +164,7 @@ Choice of medication often follows a sequential addition of agents:
 	- 500 mg daily with PM meal; can be increased up to 200mg per day as tolerated
 2. Addition of further antihyperglycemic agent(s)
 	- Selection may be due to comorbidities (such as kidney disease or heart failure) or risk factors (such as hypoglycemia risk)
-	- Typically, SGLT-2 inhibitors and GLP-1 agonists
+	- Typically, start with SGLT-2 inhibitors and GLP-1 agonists
 3. Add basal insulin
 	- Start with 10 units qHS
 	- Titrated to fasting glucose in target range (4-7 mmol/L) by increasing dose by 1 unit every night
@@ -175,9 +175,17 @@ Choice of medication often follows a sequential addition of agents:
 	- 40% TDI as basal insulin
 	- 60% TDI bolus split with each meal
 
-Note that with sequential steps, previous step medications should be continued to be optimized. With addition of insulin, consider hypoglycemic risk and interactions with antihyperglycemic agents such as secretagogues. 
+Note that with sequential steps, previous step medications should be continued to be optimized. With addition of insulin, consider hypoglycemic risk and interactions with antihyperglycemic agents such as secretagogues.
+### In-Patient Management
+Admitted patients may have their non-insulin antihyperglycemic agents held:
+- Metformin (risk of renal complications, lactic acidosis)
+- Insulin secretagogues (risk of hypoglycemia)
+- Alpha-glucosidase inhibitors and GLP1 agonists (GI complications)
+- SGLT2 inhibits (hold in states of dehydration)
+
+Insulin management is discussed [[Insulin|separately]].
 ## References
 ### Tools / Guidelines
-Diabetes Canada: https://guidelines.diabetes.ca/GuideLines/media/Docs/Quick%20Reference%20Guide/2024-CPG-Quick-Reference-Guide.pdf
-Insulin Prescribing: https://guidelines.diabetes.ca/GuideLines/media/Docs/Key%20Messages/Insulin_Prescription_EN_09_23.pdf
+[Diabetes Canada - Quick Reference Guide](https://guidelines.diabetes.ca/GuideLines/media/Docs/Quick%20Reference%20Guide/2024-CPG-Quick-Reference-Guide.pdf)
+[Diabetes Canada - Insulin Prescribing](https://guidelines.diabetes.ca/GuideLines/media/Docs/Key%20Messages/Insulin_Prescription_EN_09_23.pdf)
 ### Additional Reading

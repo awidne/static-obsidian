@@ -94,7 +94,7 @@ Incretin mimetic drugs bind to the GLP-1 receptors and are resistant to DPP-4 de
 - No risk of hypoglycemia
 - Cardiovascular benefit (MACE)
 ###### Adverse effects
-- Gastrointestinal symptoms
+- Gastrointestinal symptoms (nausea, constipation, gastroparesis)
 - Pancreatitis and possibly pancreatic cancer
 - Potential risk of medullary thyroid cancer (evidence unclear)
 ###### Contraindications

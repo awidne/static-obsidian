@@ -145,8 +145,8 @@ Causes of elevated anion gap metabolic acidosis is classically summarized by the
 
 "KULT IMPACT" better groups causes:
 - Ketones (DKA, alcoholic ketoacidosis, starvation ketoacidosis)
-- Uremia
-- Lactate
+- Uremia (renal failure)
+- Lactate (sepsis, shock, liver failure, metformin)
 - Toxins
 - Iron, Isoniazid (INH)
 - Metformin
@@ -160,12 +160,14 @@ KULT denotes the most common organic causes, and IMPACT denotes toxicological ca
 Failure to make new bicarbonate
 - Renal failure
 - Mineralocorticoid deficiency
+
 Loss of bicarbonate
 - Renal tubular acidosis
 - Diarrhea
 - Carbonic anhydrase inhibitor (acetazolamide)
+
 Excessive chloride intake
-- Non-balanced IV fluids (“normal” saline)
+- Non-balanced IV fluids – normal saline has Cl concentration of 154 mEq/L (compared to normal plasma of ~100 mEq/L): excess Cl causes bicarb to drop to maintain anion levels resulting in metabolic acidosis
 ### Respiratory Acidosis
 Elevated PaCO2 can be due to increased CO2 production and/or poor CO2 elimination.
 - Hypermetabolic state (fever/sepsis, hyperthyroidism, excessive carbohydrate intake)

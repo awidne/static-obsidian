@@ -17,6 +17,8 @@ Reduction of one of the following RBC measurements within the CBC:
 - RBC count
 ### Etiology
 Diagnosis of etiology can be made using clinical features in addition to laboratory findings. 
+
+Note that MCV goes up with age which affects the normal range (eg. a 95 fL MCV may be considered macrocytic for a 25 year old). Additionally, note the baseline values (eg. trended 95 fL but now 80 fL).
 #### Microcytic anemia (MCV < 80 fL)
 - [[Thalessemia]]
 - Anemia of chronic disease
@@ -29,12 +31,16 @@ Diagnosis of etiology can be made using clinical features in addition to laborat
 #### Macrocytic anemia (MCV >100 fL)
 - Megaloblastic anemia (impaired DNA synthesis from B12 deficiency, folate deficiency)
 - Nonmegaloblastic anemia (incl. liver disease, alcohol use)
+- Reticulocytosis (hemolysis, bleed)
+- Dysfunctional bone marrow (if above are ruled out)
 ### Pathogenesis
 The pathophysiology of anemia depends on the primary cause. However, the mechanism of anemia can be summarized into two components.
 1. Increased destruction of RBCs, either through blood loss or hemolysis
 2. Deficient or defective erythropoiesis
 
 It must be noted that Hb is reported as a concentration of total blood volume. As such, imbalances between RBCs and plasma can result in anemia or falsely normal hemoglobin.
+
+Similarly, MCV is the average RBC size. As such, in cases of multi-mechanism anemia (eg. iron deficiency and B12 deficiency), a normal MCV may be seen. An RDW may aid in identifying such case.
 ## Clinical Presentation
 ### Signs & Symptoms
 Mild anemia is often asymptomatic and an incidental finding. However, anemia can manifest with:
@@ -75,7 +81,9 @@ Iron deficiency anemia can be diagnosed with iron studies:
 
 Note that ferritin is not sensitive and can present as normal/elevated in IDA.
 
-Peripheral blood smear, reticulocyte count, and RDW are not routine due to non-specific findings.
+Iron deficiency anemia is not hematologic in nature and is associated with bleeding or less commonly, malabsorption. Bleeding (GI, menstrual/vaginal) or GI conditions (celiac, lack of gastric acid) should be considered.
+
+Thalassemia trait may present with a very low MCV with a mild or no anemia, with a high RBC count.
 
 Hemoglobin electrophoresis, bone marrow biopsy, and serum lead levels can be considered for specific etiologies.
 
@@ -84,11 +92,17 @@ Reticulocyte count for evalulation of bone marrow response.
 
 Normal/low reticulocyte count (<2%) suggests ineffective/decreased RBC production (hypoproliferative anemia)
 1. Follow-up with iron studies, vitamin B12, folate levels
-2. Metabolic panel, LFTs, thyroid studies
-3. Bone marrow aspirate and biopsy if studies are normal
+2. Metabolic panel, LFTs, thyroid studies (for chronic diseases)
+3. Serum protein electrophoresis (SPEP) if everything is normal except anemia (do not reflexively order, consider risk of multiple myeloma)
+4. Bone marrow aspirate and biopsy if studies are normal
 
-High reticulocyte count (>2%) suggests hemolysis or hemorrhage
-- Assess for acute or chronic blood less and hemolysis (eg. bilirubin)
+High reticulocyte count (>2%) suggests hemolysis or hemorrhage. Hemolysis is identified with:
+- High serum LDH and bilirubin
+- Low haptoglobin
+- High reticulocyte count (body compensating for loss of RBC)
+
+Etiology of hemolysis can be confirmed with:
+- Positive DAT/Coombs test for autoimmune cases
 
 **For macrocytic anemia:**
 Peripheral blood smear can find megaloblastic changes.
@@ -100,7 +114,7 @@ Borderline deficiencies can be confirmed with serum homocysteine and methylmalon
 
 For nonmegaloblastic anemia, obtain reticulocyte count.
 - If normal/low (<2%): complete drug/alcohol use history, consider TSH/hepatic panel
-- If high (>2%): consider blood loss/hemolysis
+- If high (>2%): consider blood loss/hemolysis (see normocytic)
 ### Differential
 Differential includes all forms of anemia as discussed in above sections. Other diagnoses include:
 - Pseudoanemia / physiological dilutional anemia of pregnancy - due to physiological increase in plasma volume leading to a relative decrease in hemoglobin and hematocrit
@@ -114,8 +128,8 @@ Other conditions that may also present with anemia includes:
 
 There are also a number of complications that can occur with untreated anemia which include increased susceptibility to infection, worsening of symptoms, complications of the heart and lungs
 ## Management
-
-### Lifestyle / Social
+### Iron Deficiency Anemia
+#### Lifestyle
 With nutrient deficiency forms of anemia, supplementation of said nutrient may be sufficient treatment, especially with low-severity.
 
 For iron deficiency anemia, heme iron (Fe2+) rich foods such as 
@@ -130,25 +144,27 @@ and nonheme iron (Fe3+) rich foods such as
 - Spinach
 
 paired with vitamin C (for conversion of ferrous to ferric iron) is recommended. Note that tea, coffee, calcium, and high-fibre can inhibit iron absorption.
-
-Animal-based foods can also address vitamin B12 deficiency and green leafy vegetables and legumes can address folate deficiency. Note that heme iron (ferrous) is more easily absorbed.
-
-For etiologies that result from some offending agent (eg. lead poisoning or iatrogenic), cessation of agent should be considered.
-### Pharmacological / Interventional
-Treatment varies based on etiology. Supplementation are recommended for nutrient deficiency. 
-
+#### Pharmacological
 Oral iron supplementation:
 - Ferrous sulfate, 325 mg daily or every other day (OTC or prescription)
 - Continue for 3-6 months to replete iron stores
 - Side effects: nausea, abdominal pain, constipation
+- Note, no more than 1 tablet per day (or every other day) should be taken. This is because the body paradoxically downregulates gut absorption with large amounts of PO iron
 
 IV iron therapy:
-- If PO iron is not tolerated
+- If PO iron is not tolerated or whenever available and symptomatic
 
 Blood transfusion:
 - Severe anemia with active bleeding or significant symptoms
 
 Other interventions can mitigate anemia such as use of hormonal [[contraceptives]] to reduce symptoms of [[Abnormal Uterine Bleeding|abnormal uterine bleeding]].
+### B12 Deficiency Anemia
+#### Lifestyle
+Animal-based foods can also address vitamin B12 deficiency and green leafy vegetables and legumes can address folate deficiency. Note that heme iron (ferrous) is more easily absorbed.
+#### Pharmacological
+
+### Others
+For etiologies that result from some offending agent (eg. lead poisoning or iatrogenic), cessation of agent should be considered.
 ## References
 
 ### Tools / Guidelines
